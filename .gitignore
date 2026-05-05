@@ -1,1 +1,5 @@
 *.py
+!generate_real_edges.py
+
+*.csv
+*.json
