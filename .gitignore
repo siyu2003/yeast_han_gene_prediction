@@ -1,5 +1,8 @@
 *.py
 !generate_real_edges.py
+!generate_target_disease.py
+!generate_drug_target.py
+!ymdb_metabolite_smiles.py
 
 *.csv
 *.json
