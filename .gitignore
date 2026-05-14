@@ -1,4 +1,3 @@
-*.py
 !generate_real_edges.py
 !generate_target_disease.py
 !generate_drug_target.py
