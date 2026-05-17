@@ -1,0 +1,1317 @@
+Compound	InChI-Key	SMILES
+FMNH2	InChIKey=YTNIXZGTHTVJBW-SCRDCRAPSA-L	CC1(\C(/C)=C/C2(/N(C[C@H](O)[C@H](O)[C@H](O)COP([O-])(=O)[O-])C3(/NC(=O)NC(=O)C(\NC(/C=1)=2)=3)))
+b-dglc-HEX-1:5|6:a		
+2-amino-4-methyl-5-hydroxyethylthiazole	InChIKey=XGHVUVFECVBQLK-UHFFFAOYSA-O	CC1(\NC(SC(/CCO)=1)=[NH2+])
+(2E)-dodec-2-enoyl-CoA	InChIKey=IRFYVBULXZMEDE-DEEZISNZSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+an imino group		[C-2]=[NH2+]
+(2S,3S)-2-methylcitrate	InChIKey=YNOXCRMFGMSKIJ-NFNCENRGSA-K	C([R])(=O)[O-]
+S-methyl-5'-thioadenosine	InChIKey=WUUGFSXJNOTRMR-IOSLPCCCSA-N	CSC[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+5,10-methylene-tetrahydromethanopterin	InChIKey=GBMIGEWJAPFSQI-CAFBYHECSA-K	C[C@H]4([C@@H]3([C@@H](C)N(C2(\C=C/C(\C[C@H](O)[C@H](O)[C@H](O)CO[C@@H]1([C@H](O)[C@@H]([C@@H](COP([O-])(=O)O[C@H](C(=O)[O-])CCC(=O)[O-])O1)O))=C\C=2))CN3C5(\C(=O)NC(/N)=N/C(\N4)=5)))
+alpha-D-glucose 1,6-bisphosphate	InChIKey=RWHOZGRAXYWRNX-VFUOTHLCSA-J	C([C@@H]1([C@@H](O)[C@H](O)[C@@H](O)[C@@H](OP(=O)([O-])[O-])O1))OP([O-])(=O)[O-]
+(R)-mevalonate diphosphate	InChIKey=SIGQQUBJQXSAMW-ZCFIWIBFSA-J	C[C@@](O)(CCOP(=O)([O-])OP([O-])([O-])=O)CC(=O)[O-]
+2-trans, 5-cis, 7-trans-tetradecatrienoyl-CoA	InChIKey=XPVHXTGUZGACRU-MCFMHTHASA-J	CCCCCC/C=C/C=C\C/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+3-methylbenzaldehyde	InChIKey=OVWYEQOVUDKZNU-UHFFFAOYSA-N	C(=O)[R]
+2,4-dinitrophenyl-S-glutathione	InChIKey=FXEUKVKGTKDDIQ-UWVGGRQHSA-M	C(S[R])[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+(S)-NADPHX	InChIKey=SZKXTJUOKARGIY-VPHRTNKSSA-J	C5(/N([C@@H]1(O[C@@H]([C@H]([C@H]1O)O)COP(OP(OC[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](OP([O-])(=O)[O-])[C@H](O)4))(=O)[O-])(=O)[O-]))[C@@H](O)CCC(/C(=O)N)=5)
+lanosterol	InChIKey=CAHGCLMLTWQZNJ-BQNIITSRSA-N	CC(C)=CCC[C@H]([C@@H]1([C@]3(C)([C@@](C)(CC1)C4(\CC[C@@H]2(C(C)(C)[C@@H](O)CC[C@@]2(C(\CC3)=4)C)))))C
+malonyl-CoA	InChIKey=LTYOQGRJFJAKNA-DVVLENMVSA-I	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+L-glutamate 5-semialdehyde	InChIKey=KABXUUFDPUOJMW-BYPYZUCNSA-N	C([R])(=O)[O-]
+4'-phosphopantetheine group		CC([C@@H](O)C(=O)NCCC(NCCS)=O)(C)COP([O-])(=O)[O-]
+L-aspartate	InChIKey=CKLJMWTZIZZHCS-REOHCLBHSA-M	C(C(=O)[O-])[C@H]([NH3+])C(=O)[O-]
+cyanate	InChIKey=XLJMAIOERFSOGZ-UHFFFAOYSA-M	C([O-])#N
+CDP-choline	InChIKey=RZZPDXZPRHQOCG-OJAKKHQRSA-M	C[N+](C)(C)CCOP(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)O)O))(=O)[O-])([O-])=O
+ubiquinone-6	InChIKey=GXNFPEOUKFOTKY-LPHQIWJTSA-N	C1([R4])(=C([R3])C(=O)C(/[R3])=C([R1])/C(=O)1)
+a-dgro-dgal-NON-2:6|1:a|2:keto|3:d		
+dethiobiotin	InChIKey=AUTOLBMXDDTRRT-JGVFFNPUSA-M	C[C@@H]1(NC(=O)N[C@@H]1CCCCCC(=O)[O-])
+(R)-lipoate	InChIKey=AGBQKNBQESQNJD-SSDOTTSWSA-M	C(CCC(=O)[O-])C[C@@H]1(CCSS1)
+decanoyl-CoA	InChIKey=CNKJPHSEFDPYDB-HSJNEKGZSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+ADP-D-ribose	InChIKey=SRNWOUGRCWSEMX-TYASJMOZSA-L	C(OP(=O)([O-])OP(OC[C@@H]1([C@@H](O)[C@@H](O)C(O1)O))(=O)[O-])[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](O)[C@H](O)4)
+3-(hydroxymethyl)-5-methylphenol	InChIKey=SDJQWNMVKBEBSJ-UHFFFAOYSA-N	CC1(\C=C(/C=C(\C=1)/O)\CO)
+1-palmitoyl-sn-glycero-3-phosphocholine	InChIKey=ASWBNKHCZGQVJV-HSZRJFAPSA-N	CCCCCCCCCCCCCCCC(OC[C@@H](O)COP([O-])(=O)OCC[N+](C)(C)C)=O
+L-aspartate 4-semialdehyde	InChIKey=HOSWPDPVFBCLSY-VKHMYHEASA-N	C([R])(=O)[O-]
+fenpropimorph	InChIKey=RYAUSSKQMZRMAI-UHFFFAOYSA-O	CC(CC1(\C=C/C(/C(C)(C)C)=C\C=1))C[NH+]2(CC(C)OC(C)C2)
+ferroheme o	InChIKey=FISPASSVCDRERW-ARQJTVBPSA-J	C=CC3(\C7(\[N+]4(\[Fe-2]16([N+]5(\C(/C(\CCC(=O)[O-])=C(C)\C(/C=C2(C(\C)=C(C(\N12)=C\C(\C(/C)=3)=4)/[C@@H](O)CC/C=C(C)/CC/C=C(C)/CCC=C(C)C))=5)=C/C8(/N6C(/C=7)=C(C)/C(\CCC(=O)[O-])=8))))))
+L-2-aminoadipate	InChIKey=OYIFNHCXNCRBQI-BYPYZUCNSA-M	C([R])(=O)[O-]
+uridine	InChIKey=DRTQHJPVMGBUCF-XVFCMESISA-N	C(O)[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O)
+2-iminopropanoate	InChIKey=DUAWRLXHCUAWMK-UHFFFAOYSA-N	CC(C(=O)[O-])=[NH2+]
+L-homoserine	InChIKey=UKAUYVFTDYCKQA-VKHMYHEASA-N	C([R])(=O)[O-]
+(12Z,15Z)-9,10-epoxyoctadeca-12,15-dienoate	InChIKey=JTEGNNHWOIJBJZ-ZJSQCTGTSA-M	C([R])(=O)[O-]
+(R)-2-hydroxyhexadecanoate	InChIKey=JGHSBPIZNUXPLA-OAHLLOKOSA-M	C([R])(=O)[O-]
+3-(4-hydroxyphenyl)pyruvate	InChIKey=KKADPXVIOXHVKN-UHFFFAOYSA-M	C([R])(=O)[O-]
+phenylacetaldehyde	InChIKey=DTUQWGWMVIHBKE-UHFFFAOYSA-N	C(=O)CC1(\C=C/C=C\C=1)
+3-phospho-D-glyceroyl phosphate	InChIKey=LJQLQCAXBUHEAZ-UWTATZPHSA-J	C([C@@H](O)C(OP(=O)([O-])[O-])=O)OP(=O)([O-])[O-]
+CTP	InChIKey=PCDQPRRSZKQHHS-XVFCMESISA-J	C(OP(OP(OP(=O)([O-])[O-])([O-])=O)(=O)[O-])[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)O)O)
+(L-histidyl)adenylate	InChIKey=XTFBSLZFYLGYAT-OPYVMVOTSA-N	C([R])(=O)[O-]
+xanthurenate	InChIKey=FBZONXHGGPHHIY-UHFFFAOYSA-M	C(=O)([O-])C1(\C=C(C2(/C=C\C=C(C(\N=1)=2)\O))\O)
+cerulenin	InChIKey=GVEZIHKRYBHEFX-NQQPLRFYSA-N	C/C=C/C/C=C/CCC(=O)[C@@H]1(O[C@@H](C(N)=O)1)
+3-hydroxyanthranilate	InChIKey=WJXSWCUQABXPFS-UHFFFAOYSA-M	C1(\C=C(C(\N)=C(\C=1)\O)\C([O-])=O)
+x-lido-HEX-1:5|6:a		
+EDTA	InChIKey=KCXVZYZYPLLWCC-UHFFFAOYSA-L	C(C[NH+](CC([O-])=O)CC([O-])=O)[NH+](CC([O-])=O)CC([O-])=O
+(2E,6E)-farnesyl diphosphate	InChIKey=VWFJDQUYCIWHTN-YFVJMOTDSA-K	CC(C)=CCCC(\C)=C/CCC(\C)=C/COP(OP([O-])(=O)[O-])(=O)[O-]
+alpha-D-galactofuranose	InChIKey=AVVWPBAENSWJCB-TVIMKVIFSA-N	C(=O)[R]
+acrylate	InChIKey=NIXOWILDQLNWCW-UHFFFAOYSA-M	C([R])(=O)[O-]
+(3S)-2,3-epoxy-2,3-dihydrosqualene	InChIKey=QYIMSPSDBYKPPY-RSKUXYSASA-N	CC(C)=CCCC(\C)=C/CCC(\C)=C/CC/C=C(C)/CC/C=C(C)/CC[C@H]1(C(C)(C)O1)
+(L-leucyl)adenylate	InChIKey=AXWPLGAOCISUCB-OPYVMVOTSA-N	C([R])(=O)[O-]
+formaldehyde	InChIKey=WSFSSNUMVMOOMR-UHFFFAOYSA-N	C=O
+5alpha-cholesta-8-en-3-one	InChIKey=RZSXSHNNQBIPTL-ZSBATXSLSA-N	CC(C)CCC[C@H]([C@@H]4([C@]1(C)([C@H](C2(\CC[C@@H]3([C@@](C)(C(\CC1)=2)CCC(=O)C3)))CC4)))C
+L-lysine	InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O	[C@@H]([NH3+])([R])C([O-])=O
+xanthosine	InChIKey=UBORTCNDUKBEOP-UUOKFMHZSA-N	C(O)[C@H]3(O[C@@H](N1(C2(/NC(=O)NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide	InChIKey=NOTGFIUVDGNKRI-UUOKFMHZSA-L	C(OP(=O)([O-])[O-])[C@H]2(O[C@@H](N1(C(/N)=C(C(=O)N)/N=C\1))[C@H](O)[C@H](O)2)
+2-oleoylglycerol	InChIKey=UPWGQKDVAURUGE-KTKRTIGZSA-N	CCCCCCCC\C=C/CCCCCCCC(=O)OC(CO)CO
+phytenoyl-CoA	InChIKey=NYZPDFUAZACYOT-PEAQSEFFSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+3-deoxy-D-arabino-heptulopyranuronate 7-phosphate	InChIKey=QOYBDYMPWLOFKG-YCHQMNKZSA-K	C(OP(=O)([O-])[O-])[C@@H]1([C@@H](O)[C@H](O)C[C@](O)(C(=O)[O-])O1)
+b-lglc-HEX-1:5|6:a		
+2-hydroxy-4-oxobutane-1,2,4-tricarboxylate	InChIKey=RQMCNDRMPZBEOD-UHFFFAOYSA-K	C([R])(=O)[O-]
+cycloeucalenone	InChIKey=NFRXSIOHGADFRG-MEMZBLDGSA-N	CC(C)C(CC[C@@H](C)[C@H]3(CC[C@@]4(C)([C@@H]1(CC[C@H]5([C@H](C)C(=O)CC[C@@]2(C[C@@]12CC[C@](C)34)5)))))=C
+mono-trans,octa-cis-decaprenyl diphosphate	InChIKey=FSCYHDCTHRVSKN-DJNGBRKISA-K	CC(C)=CCCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/COP([O-])(=O)OP([O-])(=O)[O-]
+N-acetyl-alpha-D-glucosamine 1-phosphate	InChIKey=FZLJPEPAYPUMMR-FMDGEEDCSA-L	CC(=O)N[C@@H]1([C@@H](O)[C@H](O)[C@@H](CO)O[C@H](OP([O-])(=O)[O-])1)
+3-deoxy-beta-D-manno-2-octulosonate	InChIKey=NNLZBVFSCVTSLA-FBXMPTEYSA-M	C([R])(=O)[O-]
+adenine-ring		C1(\NC2(\C(\N=1)=N/C=N\C(/N)=2))
+fluconazole	InChIKey=RFHAOTPXVQNOHP-UHFFFAOYSA-N	C(N1(\N=C/N=C\1))C(O)(C2(/C=C\C(\F)=C/C(/F)=2))CN3(\N=C/N=C\3)
+(7R,8S)-diaminononanoate	InChIKey=KCEGBPIYGIWCDH-JGVFFNPUSA-O	C[C@@H]([C@@H](CCCCCC([O-])=O)[NH3+])[NH3+]
+(2E, 4E)-undeca-2,4-dienoyl-CoA	InChIKey=SZKPLUULGGERFD-MSNZEOPQSA-J	CCCCCC/C=C/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+1-C16:0-alpha,omega-dicarboxyl-2-lysophosphatidate	InChIKey=LSETUZAYSCHYKL-QGZVFWFLSA-K	C([C@@H](O)COP([O-])(=O)[O-])OC(=O)[R]
+cis-homoaconitate	InChIKey=BJYPZFUWWJSAKC-ARJAWSKDSA-K	C([R])(=O)[O-]
+alpha-D-ribose-1-phosphate	InChIKey=YXJDFQJKERBOBM-TXICZTDVSA-L	C(O)[C@H]1(O[C@H](OP([O-])(=O)[O-])[C@H](O)[C@H](O)1)
+arsenite	InChIKey=AQLMHYSWFMLWBS-UHFFFAOYSA-N	[As](O)([O-])O
+(indol-3-yl)acetaldehyde	InChIKey=WHOOUMGHGSPMGR-UHFFFAOYSA-N	C(=O)CC1(\C2(\C(\N\C=1)=C/C=C\C=2))
+N,N',N''-triacetylchitotriose	InChIKey=WZZVUHWLNMNWLW-MEWKLCDLSA-N	CC(N[C@H]4([C@H](O[R2])O[C@H](CO)[C@@H](O[C@@H]3(O[C@H](CO)[C@@H](O[C@@H]2(O[C@H](CO)[C@@H](O[C@@H]1(O[C@H](CO)[C@@H](O[R1])[C@H](O)[C@@H](NC(=O)C)1))[C@H](O)[C@@H](NC(=O)C)2))[C@H](O)[C@@H](NC(=O)C)3))[C@H](O)4))=O
+alpha-D-glucopyranose 1-phosphate	InChIKey=HXXFSFRBOHSIMQ-VFUOTHLCSA-L	C(O)[C@H]1(O[C@H](OP(=O)([O-])[O-])[C@H](O)[C@@H](O)[C@H](O)1)
+glutathione disulfide	InChIKey=YPZRWBKMTBYPTK-BJDJZHNGSA-L	C(SSC[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O)[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+ammonium	InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O	[NH4+]
+3-hydroxy-4-methylbenzaldehyde	InChIKey=DHVJHJQBQKKPNB-UHFFFAOYSA-N	C(=O)[R]
+an omega-saturated C55 dolichol phosphate group	InChIKey=KTGSDHZXAKCYHM-LSTWDCEHSA-L	CC(C)CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(/C)=C/CCC(CCOP(=O)([O-])[O-])C
+3-oxoicosanoyl-CoA	InChIKey=FYBVHNZJDVUVLJ-IBYUJNRCSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+10-N-nonyl acridine orange	InChIKey=CHKMESCAQLVOQU-UHFFFAOYSA-N	CCCCCCCCC[N+]2(\C3(/C=C(\C=C/C(\C=C1(\C=C/C(/N(C)C)=C\C/1=2))=3)/N(C)C))
+pyridoxal	InChIKey=RADKZDMFGJYCBB-UHFFFAOYSA-N	CC1(/N=C\C(\CO)=C(C(/O)=1)\C=O)
+N6-(1-deoxy-D-fructos-1-yl)-L-lysine	InChIKey=BFSYFTQDGRDJNV-AYHFEMFVSA-O	C([R])(=O)[O-]
+(indol-3-yl)acetate	InChIKey=SEOVTRFCIGRIMH-UHFFFAOYSA-M	C([O-])(=O)CC1(\C2(/C=C\C=C/C(/N\C=1)=2))
+alpha-L-ribulofuranose	InChIKey=LQXVFWRQNMEDEE-VAYJURFESA-N	C(O)[C@]1(O)([C@@H](O)[C@@H](O)CO1)
+choline	InChIKey=OEYIOHPDSNJKLS-UHFFFAOYSA-N	C(CO)[N+](C)(C)C
+phytosphingosine	InChIKey=AERBNCYCJBRYDG-KSZLIROESA-O	CCCCCCCCCCCCCC[C@@H](O)[C@H]([C@H](CO)[NH3+])O
+gamma-L-glutamyl-L-cysteine	InChIKey=RITKHVBHSGLULN-WHFBIAKZSA-M	C(S)[C@@H](C([O-])=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+L-proline	InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N	[C@@H]([NH3+])([R])C([O-])=O
+orotate	InChIKey=PXQPEWDEAKTCGB-UHFFFAOYSA-M	C([R])(=O)[O-]
+(3R)-3-hydroxycerotoyl-CoA	InChIKey=GBMJOTOUUWGTIA-CSLACTSSSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+gamma-L-glutamyl-(S)-2-carboxypropyl-L-cysteine	InChIKey=USEJNLPKVXGAOO-ALKRTJFJSA-L	C(S[R])[C@@H](C([O-])=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+(Z,Z)-biliverdin-IX alpha	InChIKey=QBUVFDKTZJNUPP-BBROENKCSA-L	C=CC1(\C(\NC(C(/C)=1)=O)=C\C4(\NC(/C=C3(C(/CCC(=O)[O-])=C(C)/C(\C=C2(C(/C)=C(C=C)/C(=O)N2))=N\3))=C(CCC(=O)[O-])/C(\C)=4))
+N-(5-phosphoribosyl)-anthranilate	InChIKey=PMFMJXPRNJUYMB-GWOFURMSSA-K	C(OP(=O)([O-])[O-])[C@H]2(O[C@@H](NC1(/C=C\C=C/C(/C(=O)[O-])=1))[C@H](O)[C@H](O)2)
+oxalyl-CoA	InChIKey=QVXMZFTWJVBUHP-IBOSZNHHSA-I	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)C([O-])=O)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+(S)-lactate	InChIKey=JVTAAEKCZFNVCJ-REOHCLBHSA-M	C([R])(=O)[O-]
+(L-methionyl)adenylate	InChIKey=RZQLXQQLNKBFRX-TWBCTODHSA-N	C([R])(=O)[O-]
+adenosine 2',3'-cyclic monophosphate	InChIKey=KMYWVDDIPVNLME-KQYNXXCUSA-M	C([C@@H]3([C@@H]4([C@H]([C@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))O3)OP(O4)([O-])=O)))O
+(2S,5S)-hexanediol	InChIKey=OHMBHFSEKCCCBW-WDSKDSINSA-N	C[C@H](O)CC[C@@H](O)C
+alpha-L-glucopyranose	InChIKey=WQZGKKKJIJFFOK-MDMQIMBFSA-N	C(=O)[R]
+(R)-beta-hydroxy-L-kynurenine	InChIKey=MEMLLRTVGBILJW-IONNQARKSA-N	C([R])(=O)[O-]
+L-threo-sphinganine	InChIKey=OTKJDMGTUTTYMP-ROUUACIJSA-O	CCCCCCCCCCCCCCC[C@@H]([C@H](CO)[NH3+])O
+acetaldehyde	InChIKey=IKHGUXGNUITLKF-UHFFFAOYSA-N	CC=O
+alpha-D-galactose 1-phosphate	InChIKey=HXXFSFRBOHSIMQ-FPRJBGLDSA-L	C(O)[C@H]1(O[C@H](OP(=O)([O-])[O-])[C@H](O)[C@@H](O)[C@@H](O)1)
+(S)-acetoin	InChIKey=ROWKJAVDOGWPAT-VKHMYHEASA-N	C[C@H](O)C(=O)C
+IDP	InChIKey=JPXZQMKKFWMMGK-KQYNXXCUSA-K	C(OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C/NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+xylitol	InChIKey=HEBKCHPVOIAQTA-SCDXWVJYSA-N	C(O)[C@H](O)[C@@H](O)[C@H](O)CO
+(6R)-L-erythro-6,7-dihydrobiopterin	InChIKey=ZHQJVZLJDXWFFX-RPDRRWSUSA-N	C[C@H](O)[C@H](O)[C@@H]1(/N=C2(C(/NC1)=N\C(/N)=N/C(=O)2))
+oxythiamine	InChIKey=SRDGSXVLAVRBLU-UHFFFAOYSA-O	CC2(\[N+](/CC1(\C(\O)=N/C(\C)=N\C=1))=C/SC(/CCO)=2)
+CI 976	InChIKey=WAFNZAURAWBNDZ-UHFFFAOYSA-N	CCCCCCCCCCC(C(\O)=N\C1(/C(/OC)=C\C(\OC)=C/C(/OC)=1))(C)C
+2-chloro-trans-dienelactone	InChIKey=ADSGHWJRPOXXTD-NSCUHMNNSA-M	C1(/C(/OC(=O)C(/Cl)=1)=C\C(=O)[O-])
+2-hydroxy-2-methylpropanenitrile	InChIKey=MWFMGBPGAXYFAR-UHFFFAOYSA-N	CC(O)(C)C#N
+2-trans,6-cis-tridecadienoyl-CoA	InChIKey=OOSDLBAXVXKFIB-GTUBXKNVSA-J	CCCCCC\C=C/CC/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+ethylene glycol	InChIKey=LYCAIKOWRPUZTN-UHFFFAOYSA-N	C(CO)O
+phenylarsine oxide	InChIKey=BQVCCPGCDUSGOE-UHFFFAOYSA-N	C1(\C=C/C(/[As]=O)=C\C=1)
+nicotinamide	InChIKey=DFPAKSUCGFBDDF-UHFFFAOYSA-N	C1(\C=C/C(/C(=O)N)=C\N=1)
+alpha-D-Man-(1→2)-alpha-D-Man-(1→2)-alpha-D-Man-(1→3)-[alpha-D-Man-(1→2)-alpha-D-Man-(1→3)-[alpha-D-Man-(1→2)-alpha-D-Man-(1→6)]-alpha-D-Man-(1→6)]-beta-D-Man-(1→4)-beta-D-GlcNAc-(1→4)-alpha-D-glucosaminylamine	InChIKey=CBRCWZPEYRVZSO-ZGFWTNSWSA-O	CC(N[C@H]%11([C@H]([NH3+])O[C@H](CO)[C@@H](O[C@H]%10([C@H](NC(=O)C)[C@H]([C@H](O[C@H]1([C@@H](O)[C@H]([C@H](O)[C@H](O1)CO[C@@H]2([C@@H](O)[C@H]([C@H](O)[C@H](O2)CO[C@H]3(O[C@@H]([C@H]([C@@H]([C@@H]3O[C@@H]4([C@H]([C@@H](O)[C@H](O)[C@@H](CO)O4)O))O)O)CO))O[C@@H]6([C@@H](O[C@@H]5([C@H]([C@@H](O)[C@H](O)[C@@H](CO)O5)O))[C@H]([C@H](O)[C@@H](CO)O6)O)))O[C@@H]9([C@@H](O[C@@H]8([C@@H](O[C@@H]7([C@@H](O)[C@H]([C@H](O)[C@@H](CO)O7)O))[C@H]([C@H](O)[C@H](O8)CO)O))[C@@H](O)[C@@H]([C@H](O9)CO)O)))[C@@H](CO)O%10)O))[C@H](O)%11))=O
+sulfate	InChIKey=QAOWNCQODCNURD-UHFFFAOYSA-L	O=S(=O)([O-])[O-]
+kynurenate	InChIKey=HCZHHEIFKROPDY-UHFFFAOYSA-L	C2(\C=C1(C(/N=C(/C=C1/[O-])/C(=O)[O-])=C\C=2))
+5-acetamidovalerate	InChIKey=TZZSWAXSIGWXOS-UHFFFAOYSA-M	CC(NCCCCC([O-])=O)=O
+4-guanidinobutanoate	InChIKey=TUHVEAJXIMEOSA-UHFFFAOYSA-N	C([O-])(=O)CCCNC(N)=[NH2+]
+CDP-ethanolamine	InChIKey=WVIMUEUQJFPNDK-PEBGCTIMSA-M	C(COP(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)O)O))(=O)[O-])([O-])=O)[NH3+]
+2-all trans-hexaprenyl-6-methoxyaminobenzene	InChIKey=JGVGCZFKHHNOKU-DUBIXASGSA-N	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC1(/C=C\C=C(C(/N)=1)\OC)
+L-glutamine	InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N	C(=O)(N)CC[C@H]([NH3+])C([O-])=O
+a [1-Cys peroxiredoxin]-(S-hydroxycysteine)		C(=O)([a peroxiredoxin])[C@H](CSO)N[a peroxiredoxin]
+2,3-didehydro-L-gulonate	InChIKey=GJQWCDSAOUMKSE-STHAYSLISA-M	C([C@@H]([C@H](C(C(C([O-])=O)=O)=O)O)O)O
+3,5-bisdiphosphoinositol-1D-myo-inositol 2,3,4,6-tetrakisphosphate	InChIKey=HHQOOERQSFJGEP-ZSIQDKGESA-A	[C@@H]1(OP([O-])([O-])=O)([C@H](OP([O-])(=O)[O-])[C@@H](OP(=O)([O-])OP(=O)([O-])[O-])[C@H](OP(=O)([O-])[O-])[C@@H](OP(=O)([O-])OP([O-])(=O)[O-])[C@@H](OP([O-])([O-])=O)1)
+3-methylbut-3-en-1-yl diphosphate	InChIKey=NUHSROFQTUXZQQ-UHFFFAOYSA-K	C=C(C)CCOP([O-])(=O)OP([O-])(=O)[O-]
+L-kynurenine	InChIKey=YGPSJZOEDVAXAB-QMMMGPOBSA-N	C(=O)([O-])[C@@H]([NH3+])CC(=O)C1(/C=C\C=C/C(/N)=1)
+alpha-D-idopyranuronate	InChIKey=AEMOLEFTQBMNLQ-CLQWQSTFSA-M	C([R])(=O)[O-]
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	InChIKey=XFVULMDJZXYMSG-ZIYNGMLESA-K	C(OP(=O)([O-])[O-])[C@H]2(O[C@@H](N1(C(/N)=C(C(=O)[O-])/N=C\1))[C@H](O)[C@H](O)2)
+cyclic- 3,4-O-oxalyl-L-threonate	InChIKey=FTDFTFXOJYXVTH-UHFFFAOYSA-M	C1(OC(=O)C(=O)OC(C(O)C(=O)[O-])1)
+2-trans-6-trans-tridecadienoyl-CoA	InChIKey=OOSDLBAXVXKFIB-BJBRNGJVSA-J	CCCCCC/C=C/CC/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+methylarsonic acid	InChIKey=QYPPRTNMGCREIM-UHFFFAOYSA-N	C[As](=O)(O)O
+hydroxyacetone	InChIKey=XLSMFKSTNGKWQX-UHFFFAOYSA-N	CC(=O)CO
+nt-pentose-ring		C(C1(C(C(CO1)O)O))O
+beta-alanine	InChIKey=UCMIRNVEIXFBKS-UHFFFAOYSA-N	C([R])(=O)[O-]
+alpha-L-xylopyranose	InChIKey=SRBFZHDQGSBBOR-SKNVOMKLSA-N	C(=O)[R]
+(L-lysyl)adenylate	InChIKey=RZWIOOBQBMRZTQ-OPYVMVOTSA-O	C([R])(=O)[O-]
+acetamide	InChIKey=DLFVBJFMPXGRIB-UHFFFAOYSA-N	CC(=O)N
+alpha-D-mannose 1-phosphate	InChIKey=HXXFSFRBOHSIMQ-RWOPYEJCSA-L	C(O)[C@H]1(O[C@H](OP(=O)([O-])[O-])[C@@H](O)[C@@H](O)[C@H](O)1)
+L-homocysteine	InChIKey=FFFHZYDWPBMWHY-VKHMYHEASA-N	C([R])(=O)[O-]
+ethyl octanoate	InChIKey=YYZUSRORWSJGET-UHFFFAOYSA-N	CCCCCCCC(=O)OCC
+glycerol	InChIKey=PEDCQBHIVMGVHV-UHFFFAOYSA-N	C(C(O)CO)O
+dATP	InChIKey=SUYVUBYJARFZHO-RRKCRQDMSA-J	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))C[C@H](O)3)
+hydrogen peroxide	InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N	OO
+2-trans-nonenoyl-CoA	InChIKey=HBLOTZDYPZAZLE-OWQWVSLFSA-J	CCCCCC/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+D-gluconate	InChIKey=RGHNJXZEOKUKBD-SQOUGZDYSA-M	C([R])(=O)[O-]
+x-dman-HEX-1:5		
+(L-phenylalanyl)adenylate	InChIKey=ZFNOOEXYTZPIQS-URQYDQELSA-N	C([R])(=O)[O-]
+3-hydroxypentan-2-one	InChIKey=HDKKRASBPHFULQ-UHFFFAOYSA-N	CCC(O)C(=O)C
+(8S)-8-amino-7-oxononanoate	InChIKey=GUAHPAJOXVYFON-ZETCQYMHSA-N	C[C@@H](C(CCCCCC([O-])=O)=O)[NH3+]
+myristoyl-CoA	InChIKey=DUAFKXOFBZQTQE-QSGBVPJFSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+(3E)-tetradec-3-enoyl-CoA	InChIKey=SSOCUKXLUZQJHU-CTFJFIKLSA-J	CCCCCCCCCC/C=C/CC(SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])=O
+sn-glycero-3-phosphoethanolamine	InChIKey=JZNWSCPGTDBMEW-RXMQYKEDSA-N	C(OP([O-])(OC[C@@H](CO)O)=O)C[NH3+]
+alpha-L-rhamnopyranose	InChIKey=SHZGCJCMOBCMKK-HGVZOGFYSA-N	C(=O)[R]
+N-ethylmaleimide	InChIKey=HDFGOPSGAURCEO-UHFFFAOYSA-N	CCN1(C(=O)\C=C/C(=O)1)
+formyl-CoA	InChIKey=SXMOKYXNAPLNCW-GORZOVPNSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC=O)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+5-(methylsulfanyl)-2,3-dioxopentyl 1-phosphate	InChIKey=HKEAOVFNWRDVAJ-UHFFFAOYSA-L	CSCCC(=O)C(=O)COP([O-])(=O)[O-]
+benzyl alcohol	InChIKey=WVDDGKGOMKODPV-UHFFFAOYSA-N	C(C1(\C=C/C=C\C=1))O
+glycerone phosphate	InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L	C(C(=O)CO)OP([O-])([O-])=O
+(L-tryptophanyl)adenylate	InChIKey=IFQVDHDRFCKAAW-SQIXAUHQSA-N	C([R])(=O)[O-]
+x-dman-HEX-1:4		
+2-[(2R,5Z)-2-carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate	InChIKey=PQMCQNOVNFNPFJ-HYIMLASBSA-K	CC1(\C(\S[C@H](C(=O)[O-])\N=1)=C\COP([O-])(=O)[O-])
+4alpha-methyl-5alpha-cholest-7-en-3beta-ol	InChIKey=LMYZQUNLYGJIHI-SPONXPENSA-N	CC(C)CCC[C@H]([C@@H]4([C@]1(C)([C@H](C2([C@H](CC1)[C@]3(C)([C@@H](CC=2)[C@H](C)[C@@H](O)CC3)))CC4)))C
+octyl beta-D-glucopyranoside	InChIKey=HEGSGKPQLMEBJL-RKQHYHRCSA-N	CCCCCCCCO[C@@H]1(O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO)
+D-glucono-1,5-lactone	InChIKey=PHOQVHQSTUBQQK-SQOUGZDYSA-N	C(O)[C@H]1(OC([C@@H]([C@H]([C@@H]1O)O)O)=O)
+pentose-ring		C(C1(OC(C(O)C(O)1)O))O
+24-methylenecycloartanol	InChIKey=BDHQMRXFDYJGII-UEBIAWITSA-N	CC(C)C(CC[C@@H](C)[C@H]3(CC[C@@]4(C)([C@@H]1(CC[C@H]5(C(C)(C)[C@@H](O)CC[C@@]2(C[C@@]12CC[C@](C)34)5)))))=C
+x-lgal-HEX-1:5		
+(S)-lactic acid	InChIKey=JVTAAEKCZFNVCJ-REOHCLBHSA-N	C([R])(=O)[O-]
+15,16-DiHODE	InChIKey=LKLLJYJTYPVCID-OHPMOLHNSA-M	C([R])(=O)[O-]
+oleate	InChIKey=ZQPPMHVWECSIRJ-KTKRTIGZSA-M	C([R])(=O)[O-]
+acrylamide	InChIKey=HRPVXLWXLXDGHG-UHFFFAOYSA-N	C=CC(=O)N
+D-mannitol	InChIKey=FBPFZTCFMRRESA-KVTDHHQDSA-N	C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O
+1-(18-hydroxyoleoyl)-sn-glycrol 3-phosphate	InChIKey=GFJKJLHWWZXDAU-KXFGNQBASA-L	C([C@@H](O)COP([O-])(=O)[O-])OC(=O)[R]
+6-trans-3-oxo-tridecenoyl-CoA	InChIKey=FDXHXLPCLXEYSU-HMXWSVNBSA-J	CCCCCC/C=C/CCC(=O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+L-leucine	InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N	[C@@H]([NH3+])([R])C([O-])=O
+trans-lignocer-2-enoyl-CoA	InChIKey=UVJKZCSQLMWPMV-LQJAWXTISA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+1-(beta-D ribofuranosyl)nicotinamide	InChIKey=JLEBZPBDRKPWTD-TURQNECASA-O	C(O)[C@@H]1([C@@H](O)[C@@H](O)[C@@H](O1)[N+]2(\C=C/C=C(/C=2)/C(=O)N))
+2-all trans-hexaprenyl-6-methoxyphenol	InChIKey=WVPRAWNIVDFQBO-DUBIXASGSA-N	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC1(/C=C\C=C(C(/O)=1)\OC)
+phosphoenolpyruvate	InChIKey=DTBNBXWJWCWCIK-UHFFFAOYSA-K	C([R])(=O)[O-]
+hexadecanedioyl-CoA	InChIKey=GTCSHNMTNCXODY-CCAJQFMUSA-I	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+a thiol group		[C-3]S
+2-dehydropantoate	InChIKey=PKVVTUWHANFMQC-UHFFFAOYSA-M	CC(C(=O)C([O-])=O)(CO)C
+5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole	InChIKey=NAQGHJTUZRHGAC-LBGUGVGYSA-J	C(OP(=O)([O-])[O-])[C@H]2(O[C@@H](N1(C(/N)=C(C(=O)NC(C([O-])=O)CC([O-])=O)/N=C\1))[C@H](O)[C@H](O)2)
+thiocyanate	InChIKey=ZMZDMBWJUHKJPS-UHFFFAOYSA-M	S[R]
+D-sedoheptulose 1,7-bisphosphate	InChIKey=OKHXOUGRECCASI-SHUUEZRQSA-J	C(OP(=O)([O-])[O-])[C@@H](O)[C@@H](O)[C@@H](O)[C@H](O)C(COP([O-])(=O)[O-])=O
+(E)-(4-aminobutylidene)(3-aminopropyl)amine	InChIKey=YAVLYBVKPXLZEQ-UXBLZVDNSA-Q	C([NH3+])CC/[NH+]=C/CCC[NH3+]
+antimonous acid	InChIKey=SZOADBKOANDULT-UHFFFAOYSA-K	O[Sb](O)O
+pentadecanoyl-CoA	InChIKey=VLBCUOVMSMAIJC-VTINEICCSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+glucosyl-oleandomycin	InChIKey=DGXXZLIJQKOLQC-GZFACOMDSA-O	C[C@H]5(C[C@@]1(CO1)C(=O)[C@H](C)[C@@H](O)[C@@H](C)[C@@H](C)OC(=O)[C@H](C)[C@@H](O[C@H]2(C[C@H](OC)[C@@H](O)[C@H](C)O2))[C@H](C)[C@@H](O[C@@H]4(O[C@H](C)C[C@@H]([C@@H](OC3(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)3))4)[NH+](C)C))5)
+octanoate	InChIKey=WWZKQHOCKIZLMA-UHFFFAOYSA-M	C([R])(=O)[O-]
+2-phospho-D-glycerate	InChIKey=GXIURPTVHJPJLF-UWTATZPHSA-K	C(O[R2])[C@@H](O[R1])C(=O)[O-]
+1,2-butanediol	InChIKey=BMRWNKZVCUKKSR-UHFFFAOYSA-N	CCC(CO)O
+sulfoacetate	InChIKey=AGGIJOLULBJGTQ-UHFFFAOYSA-L	C([O-])(=O)CS(=O)(=O)[O-]
+RX		[R][X]
+x-dara-PEN-1:4		
+4-nitrobenzyl alcohol	InChIKey=JKTYGPATCNUWKN-UHFFFAOYSA-N	C(O)C1(\C=C/C(/[N+]([O-])=O)=C\C=1)
+enol-oxaloacetate	InChIKey=UWYVPFMHMJIBHE-UPHRSURJSA-L	C([R])(=O)[O-]
+1-(5-phospho-beta-D-ribosyl)-AMP	InChIKey=RTQMRTSPTLIIHM-KEOHHSTQSA-J	C(OP([O-])(=O)[O-])[C@H]4(O[C@@H](N1(C(C2(\N=C/N(C(\N=C/1)=2)[C@@H]3(O[C@H](COP(=O)([O-])[O-])[C@@H](O)[C@@H](O)3)))=N))[C@H](O)[C@@H]4O)
+citrate	InChIKey=KRKNYBCHXYNGOX-UHFFFAOYSA-K	C([R])(=O)[O-]
+D-erythrose 4-phosphate	InChIKey=NGHMDNPXVRFFGS-IUYQGCFVSA-L	C([C@@H]([C@@H](COP([O-])([O-])=O)O)O)=O
+1-palmitoyl-sn-glycerol	InChIKey=QHZLMUACJMDIAE-SFHVURJKSA-N	CCCCCCCCCCCCCCCC(OC[C@@H](O)CO)=O
+C20 3-dehydrosphinganine	InChIKey=FVOLNXKBISLPQY-IBGZPJMESA-O	CCCCCCCCCCCCCCCCCC(=O)[C@@H]([NH3+])CO
+alpha-D-mannopyranose	InChIKey=WQZGKKKJIJFFOK-PQMKYFCFSA-N	C(O)[C@@H]1([C@@H](O)[C@H](O)[C@H](O)C(O)O1)
+a-HEX-1:5		
+(R)-mevalonate	InChIKey=KJTLQQUUPVSXIM-ZCFIWIBFSA-M	C([R])(=O)[O-]
+S-(hydroxymethyl)glutathione	InChIKey=PIUSLWSYOYFRFR-BQBZGAKWSA-M	C(NC(=O)[C@H](CSCO)NC(=O)CC[C@H]([NH3+])C(=O)[O-])C(=O)[O-]
+phosphoinositol-alpha-mannoside	InChIKey=RKBZSOHCWNFBLV-AMEHKVJOSA-L	C(O)[C@@H]1([C@@H](O)[C@H](O)[C@H](O)[C@H](O1)O[C@H]2([C@H](O)[C@@H](O)[C@@H]([C@H](O)[C@H](O)2)OP([O-])(=O)[O-]))
+1D-myo-inositol 1,5-bis(diphosphate) 2,3,4,6-tetrakisphosphate	InChIKey=HHQOOERQSFJGEP-SLWYWOEDSA-A	[C@H]1(OP(=O)([O-])[O-])([C@@H](OP(=O)([O-])[O-])[C@H](OP([O-])(=O)OP([O-])(=O)[O-])[C@@H](OP([O-])(=O)[O-])[C@H](OP(OP([O-])(=O)[O-])([O-])=O)[C@H](OP([O-])([O-])=O)1)
+pyrithiamine	InChIKey=UZLPMHGCXVJFGY-UHFFFAOYSA-N	CC2(N(CC1(\C(\N)=N/C(\C)=N\C=1))\C=C/C=C(CCO)\2)
+protocatechuate	InChIKey=YQUVCSBJEUQKSH-UHFFFAOYSA-M	C([R])(=O)[O-]
+4-vinylguaiacol	InChIKey=YOMSJEATGXXYPX-UHFFFAOYSA-N	C=CC1(\C=C/C(/O)=C(C=1)/OC)
+ergosterol 3-O-beta-D-glucoside	InChIKey=MKZPNGBJJJZJMI-GBLVNJONSA-N	CC(C)[C@@H](C)/C=C/[C@@H](C)[C@H]4(CC[C@H]5(C3([C@@H]([C@]2(CC[C@H](O[C@@H]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)1))CC/2=C\C=3)(C))CC[C@](C)45)))
+b-dman-HEX-1:5|6:d		
+a-dman-HEX-1:5		
+(S)-1-pyrroline-5-carboxylate	InChIKey=DWAKNKKXGALPNW-BYPYZUCNSA-M	C([R])(=O)[O-]
+gamma-L-glutamyl-(S)-methyl-L-cysteine	InChIKey=UPCDLBPYWXOCOK-WDSKDSINSA-M	C(S[R])[C@@H](C([O-])=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+2-phenylethanol	InChIKey=WRMNZCZEMHIOCP-UHFFFAOYSA-N	C1(\C=C/C(\CCO)=C\C=1)
+GLYCO-CT-METHYL		
+Na+	InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N	[Na+]
+1-methylnicotinamide	InChIKey=LDHMAVIPBRSVRG-UHFFFAOYSA-O	C[N+]1(\C=C(\C=C/C=1)\C(=O)N)
+L-arginine	InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O	[C@@H]([NH3+])([R])C([O-])=O
+(3R)-3-hydroxy-2-oxo-4 phosphooxybutanoate	InChIKey=MZJFVXDTNBHTKZ-UWTATZPHSA-K	C([R])(=O)[O-]
+5-deoxy-alpha-D-ribose 1-phosphate	InChIKey=XXQFKXPJJNBLSU-TXICZTDVSA-L	C[C@H]1(O[C@H](OP([O-])(=O)[O-])[C@@H]([C@@H]1O)O)
+5-methylcytosine	InChIKey=LRSASMSXMSNRBT-UHFFFAOYSA-N	CC1(\C=N/C(=O)NC(/N)=1)
+3-all trans-hexaprenyl-4,5-dihydroxybenzoate	InChIKey=VEPICJBQCOUQPI-IRVXXIIISA-M	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC1(\C(\O)=C(/C=C(\C=1)/C(=O)[O-])\O)
+O-acetyl-L-homoserine	InChIKey=FCXZBWSIAGGPCB-YFKPBYRVSA-N	C([R])(=O)[O-]
+2-methylbutanol	InChIKey=QPRQEDXDYOZYLA-UHFFFAOYSA-N	CCC(CO)C
+alpha-hydroxyheme	InChIKey=QIKCVSLEZBFGCU-CEPNNTPPSA-J	C=CC1(\C3(/C=C8(C(/C)=C(CCC(=O)[O-])/C4(/N([Fe-2]26(N7(C(/C(/O)=C(C(/C)=1)\[N+]/2=3)=C(C=C)/C(\C)=C(\C=C5(C(/C)=C(CCC(=O)[O-])/C(\C=4)=[N+]5/6))\7)))8))))
+4alpha-methyl-5alpha-cholesta-8-en-3-one	InChIKey=SDZUXFFGOQZLPK-SINUOACOSA-N	CC(C)CCC[C@H]([C@@H]4([C@]1(C)([C@H](C2(\CC[C@@H]3([C@@](C)(C(\CC1)=2)CCC(=O)[C@@H](C)3)))CC4)))C
+nicotinate	InChIKey=PVNIIMVLHYAWGP-UHFFFAOYSA-M	C([R])(=O)[O-]
+(R)-3-(4-hydroxyphenyl)lactoyl-CoA	InChIKey=GIITZIBVBMYMGJ-NHZRKUKBSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[C@H](O)CC1(\C=C/C(/O)=C\C=1))COP(=O)(OP(=O)(OC[C@@H]2([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O2)N3(C4(\N=C/N=C(C(\N=C/3)=4)/N))))[O-])[O-]
+acetyl-CoA	InChIKey=ZSLZBFCDCINBPY-ZSJPKINUSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+(3S)-3-hydroxy-L-aspartate	InChIKey=YYLQUHNPNCGKJQ-LWMBPPNESA-M	C([R])(=O)[O-]
+1-(sn-glycero-3-phospho)-1D-myo-inositol	InChIKey=BMVUIWJCUQSHLZ-UJGXJMNGSA-M	C(O)[C@@H](O)COP([O-])(O[C@H]1([C@H](O)[C@@H](O)[C@H](O)[C@@H](O)[C@@H](O)1))=O
+(3R)-hydroxy-undecanoyl-CoA	InChIKey=JIOGXINZSOQEGE-MAWALYKISA-J	CCCCCCCC[C@@H](O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+b-dara-HEX-2:5|2:keto		
+3-hydroxybenzaldehyde	InChIKey=IAVREABSGIHHMO-UHFFFAOYSA-N	C(=O)[R]
+3'-dephospho-CoA	InChIKey=KDTSHFARGAKYJN-IBOSZNHHSA-L	CC(C)(COP([O-])(=O)OP(OC[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3))(=O)[O-])[C@@H](O)C(=O)NCCC(=O)NCCS
+1-(5-phospho-beta-D-ribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide	InChIKey=QOUSHGMTBIIAHR-KEOHHSTQSA-J	C(OP([O-])(=O)[O-])[C@H]3(O[C@@H](/N=C/NC1(\N(\C=N/C(\C(=O)N)=1)[C@@H]2(O[C@H](COP(=O)([O-])[O-])[C@@H](O)[C@@H](O)2)))[C@H](O)[C@@H]3O)
+arachidonate	InChIKey=YZXBAPSDXZZRGB-DOFZRALJSA-M	C([R])(=O)[O-]
+5-chloro-trans-dienelactone	InChIKey=AFKYGJZZMYXBLV-HWKANZROSA-M	C1(\C(\OC(=O)\C=1)=C(C(=O)[O-])/Cl)
+2-(glutathion-S-yl)-propene	InChIKey=HYWLPDOKCGRIQZ-IUCAKERBSA-M	C(S[R])[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+(2E)-undec-2-enoyl-CoA	InChIKey=CAVMKINPGRCURL-PHHHIDLGSA-J	CCCCCCCC/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+[polyketide synthase acyl-carrier protein]-group		CC(C)(COP(=O)([O-])OC[C@H](N[a holo acp domain within a [polyketide synthase]])C(=O)[a holo acp domain within a [polyketide synthase]])[C@@H](O)C(=O)NCCC(=O)NCCS
+a-xgal-HEX-1:5|6:a		
+siroheme	InChIKey=DLKSSIHHLYNIKN-QIISWYHFSA-D	C[C@]3(CC(=O)[O-])([C@H](CCC(=O)[O-])C7(\[N+]4(\[Fe-2]16([N+]5(\C(/C(\CCC([O-])=O)=C(CC(=O)[O-])\C(/C=C2([C@@](C)(CC(=O)[O-])[C@H](CCC(=O)[O-])C(\N12)=C\C/3=4))=5)=C/C8(/N6C(/C=7)=C(CC([O-])=O)/C(\CCC(=O)[O-])=8))))))
+D-glycerate	InChIKey=RBNPOMFGQQGHHO-UWTATZPHSA-M	C([R])(=O)[O-]
+CuII-phytate	InChIKey=ARWMRCBCVDYYON-ZLVNENNRSA-B	[C@H]1(OP(O[Cu+])([O-])=O)([C@H](OP([O-])(=O)[O-])[C@@H](OP([O-])(=O)[O-])[C@H](OP(=O)([O-])[O-])[C@@H](OP(=O)([O-])[O-])[C@@H](OP([O-])([O-])=O)1)
+beta-D-mannuronate	InChIKey=AEMOLEFTQBMNLQ-SYJWYVCOSA-M	C([R])(=O)[O-]
+GLYCO-CT-PHOSPHATE		
+b-lgal-HEX-1:5		
+1-oleoyl-2-palmitoyl-phosphatidylglycerol	InChIKey=GTCKEWVHTGGUSN-HGWHEPCSSA-M	C(O)[C@@H](COP([O-])(=O)OC[C@H](OC(=O)[R2])COC(=O)[R1])O
+2-14:1-lysophosphatidylglycerol	InChIKey=ACWLYYNLRJOYRA-ZYHOBAKYSA-M	CCCC\C=C/CCCCCCCC(O[C@@H](COP(OC[C@@H](O)CO)([O-])=O)CO)=O
+(3Z,5E)-dodec-3,5-dienoyl-CoA	InChIKey=ARQUZFJQPYWSSL-NBLUIMTHSA-J	CCCCCC/C=C/C=C\CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+D-ribulose 5-phosphate	InChIKey=FNZLKVNUWIIPSJ-UHNVWZDZSA-L	C([C@H]([C@H](C(CO)=O)O)O)OP([O-])([O-])=O
+(3R)-hydroxy, 6-cis-tridecenoyl-CoA	InChIKey=ADZJVTNIXNSNGU-UKOYHULUSA-J	CCCCCC\C=C/CC[C@@H](O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+coniferyl alcohol	InChIKey=JMFRWRFFLBVWSI-NSCUHMNNSA-N	COC1(\C(\O)=C/C=C(/C=C/CO)/C=1)
+oxidized DCPIP	InChIKey=CCBICDLNWJRFPO-UHFFFAOYSA-N	C2(/C=C(\C=C/C(/N=C1(/C=C(C(=O)C(/Cl)=C\1)/Cl))=2)/O)
+(5Z,8Z,11Z,14Z,17Z)-icosapentaenoate	InChIKey=JAZBEHYOTPTENJ-JLNKQSITSA-M	C([R])(=O)[O-]
+cyanamide	InChIKey=XZMCDFZZKTWFGF-UHFFFAOYSA-N	C(N)#N
+D-arabinono-1,4-lactone	InChIKey=CUOKHACJLGPRHD-JJYYJPOSSA-N	C(O)[C@H]1(OC(=O)[C@@H](O)[C@H](O)1)
+keto-L-sorbose	InChIKey=BJHIKXHVCXFQLS-OTWZMJIISA-N	C(O)C(=O)[C@@H](O)[C@H](O)[C@@H](O)CO
+x-dxyl-PEN-1:5		
+prenyl phosphate	InChIKey=MQCJHQBRIPSIKA-UHFFFAOYSA-L	CC(C)=CCOP(=O)([O-])[O-]
+4-methylbenzyl alcohol	InChIKey=KMTDMTZBNYGUNX-UHFFFAOYSA-N	CC1(\C=C/C(/CO)=C\C=1)
+p-chloromercuribenzoate	InChIKey=YFZOUMNUDGGHIW-UHFFFAOYSA-L	C1(=C/C=C(\C=C/1)/C(=O)[O-])[Hg]Cl
+(L-tryrosyl)adenylate	InChIKey=NFCVQVDMLQEZAK-URQYDQELSA-N	C([R])(=O)[O-]
+N,N-dimethylaniline-N-oxide	InChIKey=LKQUDAOAMBKKQW-UHFFFAOYSA-N	CN(C)(=O)C1(\C=C/C=C\C=1)
+N1-acetylspermidine	InChIKey=MQTAVJHICJWXBR-UHFFFAOYSA-P	CC(=O)NCCC[NH2+]CCCC[NH3+]
+zymostenol	InChIKey=QETLKNDKQOXZRP-XTGBIJOFSA-N	CC(C)CCC[C@H]([C@@H]4([C@]1(C)([C@H](C2(\CC[C@@H]3([C@@](C)(C(\CC1)=2)CC[C@H](O)C3)))CC4)))C
+dCDP	InChIKey=FTDHDKPUHBLBTL-SHYZEUOFSA-K	C(OP(OP([O-])([O-])=O)(=O)[O-])[C@@H]2([C@H](C[C@H](N1(C(/N=C(\C=C/1)/N)=O))O2)O)
+hydroxyl radical	InChIKey=TUJKJAMUKRIRHC-UHFFFAOYSA-N	O
+(indol-3-yl)ethanol	InChIKey=MBBOMCVGYCRMEA-UHFFFAOYSA-N	C1(\NC2(/C=C\C=C/C(/C(\CCO)=1)=2))
+(6R)-L-erythro-5,6,7,8-tetrahydrobiopterin	InChIKey=FNKQXYHWGSIFBK-RPDRRWSUSA-N	CC(O)C(O)[C@H]1(CNC2(/N=C(N)\NC(C(/N1)=2)=O))
+diphosphate	InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K	O=P(O)(OP([O-])([O-])=O)[O-]
+di-homo-gamma-linolenate	InChIKey=HOBAELRKJCKHQD-QNEBEIHSSA-M	C([R])(=O)[O-]
+hydrosulfide	InChIKey=RWSOTUBLDIXVET-UHFFFAOYSA-M	[SH-]
+(indol-3-yl)acetonitrile	InChIKey=DMCPFOBLJMLSNX-UHFFFAOYSA-N	C(#N)CC1(\C2(/C=C\C=C/C(/N\C=1)=2))
+trans-cinnamate	InChIKey=WBYWAXJHAXSJNI-VOTSOKGWSA-M	C(=O)([O-])/C=C/C1(\C=C/C=C\C=1)
+12,13-DiHODE	InChIKey=RGRKFKRAFZJQMS-OOHFSOINSA-M	C([R])(=O)[O-]
+a-lxyl-PEN-1:5		
+3-oxopropanoate	InChIKey=OAKURXIZZOAYBC-UHFFFAOYSA-M	C([R])(=O)[O-]
+octanoyl-CoA	InChIKey=KQMZYOXOBSXMII-CECATXLMSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+5-cis, 7-trans-3-oxo-tetradecadienoyl-CoA	InChIKey=NJXBFCFHVUIEMZ-QTJPLKLFSA-J	CCCCCC/C=C/C=C\CC(=O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+b-dgro-dgal-NON-2:6|1:a|2:keto|3:d		
+guanosine 2',3'-cyclic monophosphate	InChIKey=UASRYODFRYWBRC-UUOKFMHZSA-M	C([C@H]4(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))[C@@H]3(OP([O-])(=O)O[C@@H]34)))O
+2-chloromaleylacetate	InChIKey=QOHGUQUQCPIROQ-DAFODLJHSA-L	C([O-])(=O)C(/Cl)=C\C(=O)CC(=O)[O-]
+N8-acetylspermidine	InChIKey=FONIWJIDLJEJTL-UHFFFAOYSA-P	CC(=O)NCCCC[NH2+]CCC[NH3+]
+3-phosphooxypyruvate	InChIKey=LFLUCDOSQPJJBE-UHFFFAOYSA-K	C(OP([O-])(=O)[O-])C(=O)C(=O)[O-]
+gamma-L-glutamyl-(S)-2-aminobutanoate	InChIKey=FUZOZPRKGAXGOB-WDSKDSINSA-M	CC[C@@H](C([O-])=O)NC(CC[C@@H](C(=O)[O-])[NH3+])=O
+ketoconazole	InChIKey=XMAYWYJOQHXEEK-ZEQKJWHPSA-N	CC(N1(CCN(CC1)C5(\C=C/C(/OC[C@@H]4(CO[C@@](CN2(\C=C/N=C\2))(C3(\C(\Cl)=C/C(/Cl)=C\C=3))O4))=C\C=5)))=O
+3-O-methyl-D-mannose	InChIKey=SCBBSJMAPKXHAH-BWSJPXOBSA-N	CO[C@@H]1([C@H](O)C(O)O[C@H](CO)[C@@H](O)1)
+31-norcycloartanol	InChIKey=RXPPOAQPYLFCAS-WXPWFURYSA-N	CC(C)CCC[C@@H](C)[C@H]3(CC[C@@]4(C)([C@@H]1(CC[C@H]5([C@H](C)[C@@H](O)CC[C@@]2(C[C@@]12CC[C@](C)34)5))))
+S-(2-succinyl)-L-cysteine	InChIKey=XPKKFTKCRVIDAG-WUCPZUCCSA-L	C(SC(CC(=O)[O-])C(=O)[O-])[C@H]([NH3+])C(=O)[O-]
+reduced beta-nicotinamide D-ribonucleotide	InChIKey=XQHMUSRSLNRVGA-TURQNECASA-L	C1(/N(\C=C/CC(/C(N)=O)=1)[C@@H]2(O[C@H](COP(=O)([O-])[O-])[C@@H](O)[C@@H](O)2))
+4alpha-carboxy-5alpha-cholesta-8,24-dien-3beta-ol	InChIKey=JHIWIFRQJXLNEU-GSQAGGHASA-M	CC(C)=CCC[C@@H](C)[C@H]2(CC[C@H]3(C4(\CC[C@H]1([C@H](C([O-])=O)[C@@H](O)CC[C@@](C)1C(\CC[C@](C)23)=4))))
+protoheme	InChIKey=KABFMIBPWCXCRK-RGGAHWMASA-J	C=CC4(\C(/C)=C5(\C=C6(C(/C)=C(CCC(=O)[O-])/C7(\C=C8(C(/CCC(=O)[O-])=C(C)/C1(/N([Fe-2]3(N(C(/C=C2(C(/C)=C(C=C)/C(\C=1)=[N+]2/3))=4)5)([N+]/6=7))8))))))
+ADP ribose 1'',2''-cyclic phosphate	InChIKey=NPSPRYXPOGPCPM-TYASJMOZSA-K	C(OP(=O)([O-])OP(OC[C@@H]2([C@@H](O)[C@H]1(OP([O-])(=O)OC1O2)))(=O)[O-])[C@H]5(O[C@@H](N3(C4(\C(\N=C/3)=C(N)/N=C\N=4)))[C@H](O)[C@H](O)5)
+propane-1,3-diamine	InChIKey=XFNJVJPLKCPIBV-UHFFFAOYSA-P	C(CC[NH3+])[NH3+]
+(7,8-dihydropterin-6-yl)methyl diphosphate	InChIKey=FCQGJGLSOWZZON-UHFFFAOYSA-K	C1(C(/COP(=O)([O-])OP(=O)([O-])[O-])=N\C2(/C(=O)NC(/N)=N/C(\N1)=2))
+D-myo-inositol (1,4,5,6)-tetrakisphosphate	InChIKey=MRVYFOANPDTYBY-YORTWTKJSA-F	[C@@H]1(O)([C@@H](OP([O-])([O-])=O)[C@H](OP([O-])(=O)[O-])[C@@H](OP([O-])(=O)[O-])[C@H](OP(=O)([O-])[O-])[C@@H](O)1)
+pyridoxamine	InChIKey=NHZMQXZHNVQTQA-UHFFFAOYSA-O	CC1(\C(\O)=C(C(/CO)=C\N=1)\C[NH3+])
+ADP-5-ethyl-4-methylthiazole-2-carboxylate	InChIKey=VGXBGQACJQRWLV-LKGUXBDMSA-K	CC4(\N=C(C(=O)[O-])/SC(/CCOP(OP(OC[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3))(=O)[O-])(=O)[O-])=4)
+trans-aconitate	InChIKey=GTZCVFVGUGFEME-HNQUOIGGSA-K	C([R])(=O)[O-]
+thiamine triphosphate	InChIKey=IWLROWZYZPNOFC-UHFFFAOYSA-K	CC2(\[N+](/CC1(\C=N/C(\C)=N\C(/N)=1))=C/SC(/CCOP([O-])(=O)OP([O-])(=O)OP([O-])(=O)[O-])=2)
+alpha-D-galactopyranose	InChIKey=WQZGKKKJIJFFOK-PHYPRBDBSA-N	C(O)[C@H]1(O[C@H](O)[C@H](O)[C@@H](O)[C@@H](O)1)
+aldehydo-D-galactose	InChIKey=GZCGUPFRVQAUEE-KCDKBNATSA-N	C(=O)[R]
+pyrazinamide	InChIKey=IPEHBUMCGVEMRF-UHFFFAOYSA-N	C1(\N=C/C=N\C(/C(=O)N)=1)
+(S)-NADHX	InChIKey=IDBZKGQRLBFUFQ-VPHRTNKSSA-L	C1(/N([C@@H](O)CCC(/C(N)=O)=1)[C@@H]5(O[C@H](COP(OP(OC[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](O)[C@H](O)4))(=O)[O-])(=O)[O-])[C@@H](O)[C@@H](O)5))
+[peptidyl-carrier protein] group		CC(C)(COP(=O)([O-])OC[C@H](N[a peptidyl-carrier protein])C(=O)[a peptidyl-carrier protein])[C@@H](O)C(=O)NCCC(=O)NCCS
+a-dara-PEN-1:4		
+glutarate semialdehyde	InChIKey=VBKPPDYGFUZOAJ-UHFFFAOYSA-M	C(CCCC(=O)[O-])=O
+5,10-methylenetetrahydropteroyl mono-L-glutamate	InChIKey=QYNUQALWYRSVHF-OLZOCXBDSA-L	C3(NC4(/N=C(N)\NC(=O)C(/N2(CN(C1(\C=C/C(/C(=O)N[C@@H](CCC([R])=O)C([O-])=O)=C\C=1))C[C@@H]23))=4))
+glycolaldehyde	InChIKey=WGCNASOHLSPBMP-UHFFFAOYSA-N	C(O)C=O
+obvatol	InChIKey=OPGPFZQBCIAFLI-UHFFFAOYSA-N	C=CCC2(\C=C/C(/OC1(\C(\O)=C(\C=C(CC=C)/C=1)\O))=C\C=2)
+D-myo-inositol (1,4)-bisphosphate	InChIKey=PELZSPZCXGTUMR-RTPHHQFDSA-J	[C@@H]1(O)([C@@H](O)[C@H](OP(=O)([O-])[O-])[C@@H](O)[C@@H](O)[C@@H](OP([O-])([O-])=O)1)
+L-histidinol phosphate	InChIKey=CWNDERHTHMWBSI-YFKPBYRVSA-M	C1(\N\C=N/C(\C[C@@H](COP([O-])(=O)[O-])[NH3+])=1)
+succinyl-CoA	InChIKey=VNOYUJKHFWYWIR-ITIYDSSPSA-I	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)CCC(=O)[O-])COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+x-lman-HEX-1:5|6:d		
+p-chloromercuriphenylsulfonate	InChIKey=XXEBDPRHFAWOND-UHFFFAOYSA-L	C1(\C=C/C(/S(=O)([O-])=O)=C\C=1)[Hg]Cl
+porphyrin-ring		C1(\C2(\C=C5(\C=C/C(\C=C4(\C=C/C(\C=C3(\C=C/C(\C=C(\C=1)/N=2)=N3))=N4))=N5)))
+5-methyluridine	InChIKey=DWRXFEITVBNRMK-JXOAFFINSA-N	CC1(\C(=O)NC(N(\C=1)[C@H]2([C@H](O)[C@H](O)[C@@H](CO)O2))=O)
+allantoate	InChIKey=NUCLJNSWZCHRKL-UHFFFAOYSA-M	C(C(=O)[O-])(NC(=O)N)NC(=O)N
+(R)-2-hydroxyhexadecanal	InChIKey=BKBDVQVDRVGXKT-MRXNPFEDSA-N	CCCCCCCCCCCCCC[C@@H](O)C=O
+alpha-D-galactose 6-phosphate	InChIKey=NBSCHQHZLSJFNQ-PHYPRBDBSA-L	C(OP([O-])([O-])=O)[C@H]1(O[C@@H]([C@@H]([C@H]([C@H]1O)O)O)O)
+S-sulfanylglutathione	InChIKey=QBOLVLBSUGJHGB-WDSKDSINSA-M	C(S[R])[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+cytidine 2'-monophosphate	InChIKey=YQUAKORMLHPSLZ-XVFCMESISA-L	C(O)[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)OP([O-])(=O)[O-])O)
+pyridoxine 5'-phosphate	InChIKey=WHOMFKWHIQZTHY-UHFFFAOYSA-L	CC1(\C(\O)=C(C(/COP([O-])(=O)[O-])=C\N=1)\CO)
+aci-nitroethane	InChIKey=CPZLOQHKKRZRSD-UHFFFAOYSA-N	CC=[N+](O)[O-]
+thymine	InChIKey=RWQNBRDOKXIBIV-UHFFFAOYSA-N	CC1(\C(=O)NC(N\C=1)=O)
+beta-D-mannopyranose 6-phosphate	InChIKey=NBSCHQHZLSJFNQ-RWOPYEJCSA-L	C(OP(=O)([O-])[O-])[C@H]1(OC(O)[C@@H](O)[C@@H](O)[C@H](O)1)
+(Z)-2-aminobutenoate	InChIKey=PAWSVPVNIXFKOS-IHWYPQMZSA-N	C\C=C(C([O-])=O)/[NH3+]
+CMP	InChIKey=IERHLVCPSMICTF-XVFCMESISA-L	C(OP(=O)([O-])[O-])[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)O)O)
+quinidine	InChIKey=LOUPRKONTZGTKE-JUMJFMMLSA-O	C=C[C@@H]1([C@H]2(C[C@H]([NH+](C1)CC2)[C@H](C3(\C4(/C=C(\C=C/C(/N=C\C=3)=4)/OC)))O))
+tetrahydromethanopterin	InChIKey=SCBIBGUJSMHIAI-LHIIQLEZSA-K	C[C@H]([C@H]1([C@H](C)NC2(/N=C(N)\NC(C(/N1)=2)=O)))NC4(\C=C/C(\C[C@@H]([C@@H]([C@@H](CO[C@@H]3([C@@H]([C@@H]([C@@H](COP([O-])(=O)O[C@H](C([O-])=O)CCC([O-])=O)O3)O)O))O)O)O)=C\C=4)
+nitrate	InChIKey=NHNBFGGVMKEFGY-UHFFFAOYSA-N	N(=O)(=O)[O-]
+alpha-D-rhamnopyranose	InChIKey=SHZGCJCMOBCMKK-PQMKYFCFSA-N	C(=O)[R]
+a-HEX-1:5|6:a		
+(3E,5Z)-tetradeca-3,5-dienoate	InChIKey=YRUMHTHCEZRHTN-XAZJVICWSA-M	C([R])(=O)[O-]
+oxalosuccinate	InChIKey=UFSCUAXLTRFIDC-UHFFFAOYSA-K	C(C([O-])=O)C(C(C(=O)[O-])=O)C([O-])=O
+2-oleoyl-sn-glycero-3-phosphoethanolamine	InChIKey=NOVZJYYJYIFXJC-MZMPXXGTSA-N	CCCCCCCC\C=C/CCCCCCCC(=O)O[C@H](CO)COP(OCC[NH3+])([O-])=O
+riboflavin	InChIKey=AUNGANRZJHBGPY-SCRDCRAPSA-M	CC3(\C=C2(C(/N(C[C@H](O)[C@H](O)[C@H](O)CO)C1(\C(\C(=O)[N-]C(=O)/N=1)=N/2))=C\C(/C)=3))
+canavaninosuccinate	InChIKey=SGYMGUGIGTWWLU-ROLXFIACSA-M	C(ONC(NC(CC(=O)[O-])C(=O)[O-])=[NH2+])C[C@H]([NH3+])C([O-])=O
+L-allo-threonine	InChIKey=AYFVYJQAPQTCCC-HRFVKAFMSA-N	C([R])(=O)[O-]
+(R)-lactate	InChIKey=JVTAAEKCZFNVCJ-UWTATZPHSA-M	C([R])(=O)[O-]
+dGMP	InChIKey=LTFMZDNNPPEQNG-KVQBGUIXSA-L	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))C[C@H](O)3)
+ethanolamine	InChIKey=HZAXFHJVJLSVMW-UHFFFAOYSA-O	C(CO)[NH3+]
+spermidine	InChIKey=ATHGHQPFGPMSJY-UHFFFAOYSA-Q	C([NH3+])CC[NH2+]CCCC[NH3+]
+methylarsonous acid	InChIKey=OXBIRPQQKCQWGV-UHFFFAOYSA-N	C[As](O)O
+dihydrogen phosphate	InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-M	O=P(O)([O-])O
+(L-threonyl)adenylate	InChIKey=YYBNSQASHCKPHX-DWVDDHQFSA-N	C([R])(=O)[O-]
+D-erythro-7,8-dihydroneopterin	InChIKey=YQIFAMYNGGOTFB-XINAWCOVSA-N	C1(NC2(/N=C(N)\NC(=O)C(/N=C1/[C@H](O)[C@H](O)CO)=2))
+5-iso prostaglandin F2alpha-VI	InChIKey=RZCPXIZGLPAGEV-SUHLLOIRSA-M	C([R])(=O)[O-]
+(glutathion-S-yl)-bimane	InChIKey=KPJNKLWIESQKCG-STQMWFEESA-M	C(S[R])[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+D-myo-inositol (1,4,5)-trisphosphate	InChIKey=MMWCIQZXVOZEGG-XJTPDSDZSA-H	[C@@H]1(O)([C@@H](OP([O-])([O-])=O)[C@H](O)[C@@H](OP(=O)([O-])[O-])[C@H](OP(=O)([O-])[O-])[C@@H](O)1)
+alpha-D-galacturonate	InChIKey=AEMOLEFTQBMNLQ-BKBMJHBISA-M	C([R])(=O)[O-]
+Zn2+	InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N	[Zn+2]
+(S)-3-chloro-1-phenyl-1-propanol	InChIKey=JZFUHAGLMZWKTF-SECBINFHSA-N	C(Cl)C[C@@H](O)C1(\C=C/C=C\C=1)
+CDTA	InChIKey=FCKYPQBAHLOOJQ-UHFFFAOYSA-N	C(=O)(O)CN(CC(=O)O)C1(CCCCC(N(CC(=O)O)CC(=O)O)1)
+b-lgal-HEX-1:5|6:d		
+cholesterol	InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N	CC(C)CCC[C@@H](C)[C@H]3(CC[C@H]4([C@@H]2(C\C=C1(C[C@@H](O)CC[C@@](C)1[C@H]2CC[C@](C)34))))
+alpha-D-ribulofuranose	InChIKey=LQXVFWRQNMEDEE-WDCZJNDASA-N	C(O)[C@@]1(O)([C@H](O)[C@H](O)CO1)
+protoporphyrin IX	InChIKey=KSFOVUSSGSKXFI-UJJXFSCMSA-L	C=CC4(\C(/C)=C3(\C=C5(C(/C)=C(CCC([O-])=O)/C(\C=C1(C(/CCC([O-])=O)=C(C)/C(/N1)=C/C2(/C(\C=C)=C(C)\C(\N=2)=C\C(\N3)=4)))=N\5)))
+3-all trans-hexaprenyl-4-hydroxy-5-methoxybenzoate	InChIKey=YSZSVGFMAJXGMQ-FRICUITQSA-M	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC1(\C(\O)=C(/C=C(\C=1)/C(=O)[O-])\OC)
+S-methyl-L-methionine	InChIKey=YDBYJHTYSHBBAU-YFKPBYRVSA-O	C([R])(=O)[O-]
+alpha-D-xylopyranose	InChIKey=SRBFZHDQGSBBOR-LECHCGJUSA-N	C(=O)[C@H](O)[C@@H](O)[C@H](O)CO
+alpha-D-mannopyranose 6-phosphate	InChIKey=NBSCHQHZLSJFNQ-PQMKYFCFSA-L	C(OP(=O)([O-])[O-])[C@H]1(OC(O)[C@@H](O)[C@@H](O)[C@H](O)1)
+biotin	InChIKey=YBJHBAHKTGYVGT-ZKWXMUAHSA-M	C1(S[C@@H](CCCCC(=O)[O-])[C@H]2(NC(=O)N[C@@H]12))
+2-(glutathion-S-yl)-2-carboxypropane	InChIKey=JQWABENXVMJJMW-NPPUSCPJSA-L	C(S[R])[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+(S)-2-amino-6-oxohexanoate	InChIKey=GFXYTQPNNXGICT-YFKPBYRVSA-N	C(=O)CCC[C@H]([NH3+])C(=O)[O-]
+(L-arginyl)adenylate	InChIKey=AJYPLWAQPDERQG-TWBCTODHSA-O	C([R])(=O)[O-]
+an acp domain within a type I fatty acid synthase		CC(C)(COP(=O)([O-])OC[C@H](N[a type I fatty acid synthase])C(=O)[a type I fatty acid synthase])[C@@H](O)C(=O)NCCC(=O)NCCS
+(3R)-hydroxy- 5-cis, 7-trans-tetradecadienoyl-CoA	InChIKey=ZZVZPDQTNSJQPZ-VOXMGFCCSA-J	CCCCCC/C=C/C=C\C[C@@H](O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+trans-cerot-2-enoyl-CoA	InChIKey=GGUUXBBWTGIIGE-KESUDTCVSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+inosine	InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N	C(O)[C@H]3(O[C@@H](N1(C2(\N=C/NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+fumonisin B1	InChIKey=UVBUBMSSQKOIBE-DSLOAKGESA-K	CCCC[C@@H](C)[C@@H](OC(C[C@H](C([O-])=O)CC(=O)[O-])=O)[C@@H](OC(=O)C[C@H](C([O-])=O)CC([O-])=O)C[C@@H](C)C[C@H](O)CCCC[C@@H](O)C[C@H](O)[C@@H]([NH3+])C
+GTP	InChIKey=XKMLYUALXHKNFT-UUOKFMHZSA-J	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+1D-myoinositol 5-diphosphate 1,2,3,4,6-pentakisphosphate	InChIKey=UPHPWXPNZIOZJL-KXXVROSKSA-A	[C@@H]1(OP([O-])([O-])=O)([C@@H](OP([O-])([O-])=O)[C@H](OP([O-])(=O)[O-])[C@@H](OP([O-])(=O)OP([O-])(=O)[O-])[C@H](OP(=O)([O-])[O-])[C@@H](OP(=O)([O-])[O-])1)
+beta-D-glucose 6-phosphate	InChIKey=NBSCHQHZLSJFNQ-VFUOTHLCSA-L	C([C@H]1(OC([C@@H]([C@H]([C@@H]1O)O)O)O))OP([O-])([O-])=O
+L-threonine	InChIKey=AYFVYJQAPQTCCC-GBXIJSLDSA-N	[C@@H]([NH3+])([R])C([O-])=O
+2'-deoxycytidine	InChIKey=CKTSBUTUHBMZGZ-SHYZEUOFSA-N	C(O)[C@@H]2([C@H](C[C@H](N1(\C=C/C(/N)=N\C(=O)1))O2)O)
+(2R,3S)-3-isopropylmalate	InChIKey=RNQHMTFBUSSBJQ-CRCLSJGQSA-L	CC(C)[C@H](C([O-])=O)[C@H](C([O-])=O)O
+kifunensine	InChIKey=OIURYJWYVIAOCW-PQMKYFCFSA-N	[C@@H]12([C@H]([C@H]([C@@H]([C@@H](CO)N(C(C(N1)=O)=O)2)O)O)O)
+1-[18-hydroxyoeoyl]-2-[18-hydroxy-linoleoyl]-sn-glycerol	InChIKey=RCALBBVHQNUWNO-OSFDYRCISA-N	C(O)[C@@H](COC(=O)[R1])OC(=O)[R2]
+x-PEN-1:4		
+benzoate	InChIKey=WPYMKLBDIGXBTP-UHFFFAOYSA-M	C([R])(=O)[O-]
+a phosphate group		[O-]P([O-])([O-])=O
+O-phosphoethanolamine	InChIKey=SUHOOTKUPISOBE-UHFFFAOYSA-M	C(C[NH3+])OP([O-])([O-])=O
+L-tryptophan	InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N	[C@@H]([NH3+])([R])C([O-])=O
+beta-D-fructofuranose 1-phosphate	InChIKey=RHKKZBWRNHGJEZ-ARQDHWQXSA-L	C(O)[C@@H]1([C@@H](O)[C@H](O)[C@](COP([O-])([O-])=O)(O)O1)
+presqualene diphosphate	InChIKey=ATZKAUGGNMSCCY-QLYDTTAWSA-K	CC(C)=CCCC(\C)=C/CCC(\C)=C/[C@@H]1([C@@](C)(CC/C=C(C)/CCC=C(C)C)[C@H]1COP(OP([O-])([O-])=O)([O-])=O)
+2-(formamido)-N1-(5-phospho-beta-D-ribosyl)acetamidine	InChIKey=PMCOGCVKOAOZQM-XVFCMESISA-M	C(NC=O)C(N[C@H]1([C@H](O)[C@H](O)[C@@H](COP([O-])(=O)[O-])O1))=[NH2+]
+5-fluorouracil	InChIKey=GHASVSINZRGABV-UHFFFAOYSA-N	C1(/NC(=O)NC(=O)C(/F)=1)
+6-trans-tridecenoyl-CoA	InChIKey=UUIVZEBYPBPKLL-HMXWSVNBSA-J	CCCCCC/C=C/CCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+dADP	InChIKey=DAEAPNUQQAICNR-RRKCRQDMSA-K	C(OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))C[C@H](O)3)
+N-(1-deoxy-D-fructos-1-yl)-L-glutamine	InChIKey=UXVGPBLLNUTXSC-AJGMQJJTSA-N	C([R])(=O)[O-]
+a pyrophosphate group		[O-]P(OP(=O)([O-])O)(=O)[O-]
+7,8-dihydropteroate	InChIKey=WBFYVDCHGVNRBH-UHFFFAOYSA-M	C(NC1(\C=C/C(/C(=O)[O-])=C\C=1))C2(CNC3(/N=C(N)\NC(=O)C(/N=2)=3))
+(2E,6E)-farnesol	InChIKey=CRDAMVZIKSXKFV-YFVJMOTDSA-N	CC(C)=CCCC(\C)=C/CCC(\C)=C/CO
+ethylphosphate	InChIKey=ZJXZSIYSNXKHEA-UHFFFAOYSA-L	CCOP([O-])(=O)[O-]
+trans-(S)-nicotine N1'-oxide	InChIKey=RWFBQHICRCUQJJ-JQWIXIFHSA-N	C[N+]1([O-])([C@@H](CCC1)C2(\C=C/C=N\C=2))
+Co2+	InChIKey=XLJKHNWPARRRJB-UHFFFAOYSA-N	[Co+2]
+CMP group		C(OP(=O)([O-])O)[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)O)O)
+sn-glycerol 3-phosphate	InChIKey=AWUCVROLDVIAJX-GSVOUGTGSA-L	C(OP([O-])(=O)[O-])[C@H](O)CO
+lauroyl-CoA	InChIKey=YMCXGHLSVALICC-GMHMEAMDSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+1,2-dibutyrin	InChIKey=AWHAUPZHZYUHOM-VIFPVBQESA-N	C(O)[C@@H](COC(=O)[R1])OC(=O)[R2]
+b-xxyl-PEN-1:5		
+purine-ring		C1(\C2(N\C=N/C(\N=C/N=1)=2))
+(S)-(+)-allantoin	InChIKey=POJWUDADGALRAB-SFOWXEAESA-N	C(=O)(N)N[C@H]1(NC(=O)NC(=O)1)
+10-trans-heptadecenoyl-CoA	InChIKey=KFMWWNZRDBMYES-HEVZYKJKSA-J	CCCCCC/C=C/CCCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+coenzyme A	InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J	CC(C)(COP([O-])(=O)OP(OC[C@H]3(O[C@@H](N1(C2(\N=C/N=C(C(\N=C/1)=2)/N)))[C@H](O)[C@H](OP([O-])(=O)[O-])3))(=O)[O-])[C@@H](O)C(=O)NCCC(=O)NCCS
+4alpha-formyl-5alpha-cholesta-8,24-dien-3beta-ol	InChIKey=ZLQSSFNCEUGGJF-NUESBDPTSA-N	CC(C)=CCC[C@@H](C)[C@H]2(CC[C@H]3(C4(\CC[C@H]1([C@H](C=O)[C@@H](O)CC[C@@](C)1C(\CC[C@](C)23)=4))))
+ergosta-5,7,22,24(28)-tetraen-3beta-ol	InChIKey=SQFQJKZSFOZDJY-CVGLIYDESA-N	CC(C)C(/C=C/[C@@H](C)[C@H]3(CC[C@H]4(C2([C@@H]([C@]1(CC[C@H](O)CC/1=C\C=2)(C))CC[C@](C)34))))=C
+x-lara-PEN-1:4		
+x-dgal-HEX-1:5		
+triphosphate	InChIKey=UNXRWKVEANCORM-UHFFFAOYSA-J	OP(OP(=O)(OP([O-])(=O)[O-])[O-])([O-])=O
+4-methylsalicylate	InChIKey=NJESAXZANHETJV-UHFFFAOYSA-M	CC1(\C=C/C(/C([O-])=O)=C(\C=1)/O)
+beta-D-fructofuranose	InChIKey=RFSUNEUAIZKAJO-ARQDHWQXSA-N	C(O)[C@H]1(O[C@](O)(CO)[C@H]([C@@H]1O)O)
+fecosterol	InChIKey=SLQKYSPHBZMASJ-QKPORZECSA-N	CC(C)C(CC[C@@H](C)[C@H]2(CC[C@H]3(C4(\CC[C@H]1(C[C@@H](O)CC[C@@](C)1C(\CC[C@](C)23)=4)))))=C
+(L-glutaminyl)adenylate	InChIKey=WHAIODPVLKHEHE-LTOLZBHSSA-N	C([R])(=O)[O-]
+5-fluorocytosine	InChIKey=XRECTZIEBJDKEO-UHFFFAOYSA-N	C1(/NC(=O)/N=C(C(/F)=1)/N)
+beta-D-glucuronate	InChIKey=AEMOLEFTQBMNLQ-QIUUJYRFSA-M	C([R])(=O)[O-]
+(R)-S-adenosyl-L-methionine	InChIKey=MEFKEPWMEQBLKI-TYYLHDHTSA-O	C([R])(=O)[O-]
+7,8-dihydromonapterin	InChIKey=YQIFAMYNGGOTFB-NJGYIYPDSA-N	C1(NC2(/N=C(N)\NC(=O)C(/N=C1/[C@H](O)[C@@H](O)CO)=2))
+L-selenocysteine	InChIKey=ZKZBPNGNEQAJSX-REOHCLBHSA-N	[C@@H]([NH3+])([R])C([O-])=O
+coniferyl acetate	InChIKey=XLZFUNZRKIQHOL-ONEGZZNKSA-N	CC(OC/C=C/C1(\C=C/C(/O)=C(C=1)/OC))=O
+ergosta-5,7,24(28)-trien-3beta-ol	InChIKey=ZEPNVCGPJXYABB-LOIOQLKMSA-N	CC(C)C(CC[C@@H](C)[C@H]3(CC[C@H]4(C2([C@@H]([C@]1(CC[C@H](O)CC/1=C\C=2)(C))CC[C@](C)34))))=C
+pyridine-ring		C1(\N=C/C=C\C=1)
+beta-D-fructose 2,6-bisphosphate	InChIKey=YXWOAJXNVLXPMU-ZXXMMSQZSA-J	C([C@H]1(O[C@@]([C@H]([C@@H]1O)O)(CO)OP([O-])([O-])=O))OP(=O)([O-])[O-]
+N,N'-dicyclohexylcarbodiimide	InChIKey=QOSSAOTZNIDXMA-UHFFFAOYSA-N	C(=NC1(CCCCC1))=NC2(CCCCC2)
+C52-alpha-meroacyl-adenylate	InChIKey=WEZKVQUDSKEODW-VMDFNRFRSA-M	C([R])(=O)[O-]
+4-acetamidobutanal	InChIKey=DDSLGZOYEPKPSJ-UHFFFAOYSA-N	CC(NCCCC=O)=O
+H2O	InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N	O
+L-aspartyl-4-phosphate	InChIKey=IXZNKTPIYKDIGG-REOHCLBHSA-L	[C@@H]([NH3+])([R])C(=O)[O-]
+Fe2+	InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N	[Fe+2]
+UDP	InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K	C(OP(=O)([O-])OP(=O)([O-])[O-])[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O)
+S-nitrosoglutathione	InChIKey=HYHSBSXUHZOYLX-WDSKDSINSA-M	C(S[R])[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+4alpha-hydroxymethyl-4beta-methyl-5alpha-cholesta-8,24-dien-3beta-ol	InChIKey=LEUVIESGHNFBEK-WKYRUEGDSA-N	CC(C)=CCC[C@@H](C)[C@H]2(CC[C@H]3(C4(\CC[C@H]1([C@@](CO)(C)[C@@H](O)CC[C@@](C)1C(\CC[C@](C)23)=4))))
+aldehydo-L-arabinose	InChIKey=PYMYPHUHKUWMLA-VAYJURFESA-N	C(=O)[R]
+galactitol	InChIKey=FBPFZTCFMRRESA-GUCUJZIJSA-N	C([C@@H]([C@H]([C@H]([C@H](O)CO)O)O)O)O
+vanadate	InChIKey=LSGOVYNHVSXFFJ-UHFFFAOYSA-N	O=[V]([O-])([O-])[O-]
+1D-myo-inositol 3-diphosphate 1,2,4,5,6-pentakisphosphate	InChIKey=UPHPWXPNZIOZJL-PTQMNWPWSA-B	[C@H]1(OP([O-])(=O)[O-])([C@@H](OP([O-])(=O)[O-])[C@H](OP(=O)([O-])[O-])[C@@H](OP(=O)([O-])OP(O)(=O)[O-])[C@@H](OP([O-])([O-])=O)[C@@H](OP([O-])([O-])=O)1)
+(6R)-L-threo-6,7-dihydrobiopterin	InChIKey=ZHQJVZLJDXWFFX-MRKVFDINSA-N	C[C@H](O)[C@@H](O)[C@@H]1(/N=C2(C(/NC1)=N\C(/N)=N/C(=O)2))
+sucrose 6G-phosphate	InChIKey=WQQSIXKPRAUZJL-UGDNZRGBSA-L	C(O)[C@H]2(O[C@](O[C@H]1(O[C@H](COP(=O)([O-])[O-])[C@@H](O)[C@H](O)[C@@H](O)1))(CO)[C@H]([C@@H]2O)O)
+(3R)-hydroxy, 4-trans-undecenoyl-CoA	InChIKey=ANVRIWFXMMCUPH-QYZXFXBMSA-J	CCCCCC/C=C/[C@@H](O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+Cu2+	InChIKey=JPVYNHNXODAKFH-UHFFFAOYSA-N	[Cu+2]
+gamma-L-glutamyl-[(S)-allyl]-L-cysteine	InChIKey=FUTHBNRZCFKVQZ-YUMQZZPRSA-M	C(S[R])[C@@H](C([O-])=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+HX		[XH]
+melittin	InChIKey=VDXZNPDIRNWWCW-JFTDCZMZSA-T	CC[C@@H]([C@H](NC(C[NH3+])=O)C(NCC(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(NCC(N[C@H](C(N3([C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N[C@H](C(N)=O)CCC(N)=O)=O)CCC(N)=O)=O)CCCNC(N)=[NH2+])=O)CCCC[NH3+])=O)CCCNC(N)=[NH2+])=O)CCCC[NH3+])=O)[C@H](CC)C)=O)CC1(\C2(\C(\N\C=1)=C/C=C\C=2)))=O)CO)=O)[C@H](CC)C)=O)CC(C)C)=O)C)=O)CCC3))=O)CC(C)C)=O)=O)[C@H](O)C)=O)[C@H](O)C)=O)CC(C)C)=O)C(C)C)=O)CCCC[NH3+])=O)CC(C)C)=O)C(C)C)=O)C)=O)=O)C
+2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	InChIKey=OCLCLRXKNJCOJD-UMMCILCDSA-L	C([C@@H]2([C@@H](O)[C@@H](O)[C@H](NC1(/N=C(N)\NC(=O)C(/N)=1))O2))OP(=O)([O-])[O-]
+L-histidine	InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N	[C@@H]([NH3+])([R])C([O-])=O
+an amino group		[C-3][NH3+]
+selenite	InChIKey=MCAHWIHFGHIESP-UHFFFAOYSA-L	[O-][Se](=O)[O-]
+5-cis, 7-trans-tetradecadienoyl-CoA	InChIKey=AMANZGDVBADZLH-QTJPLKLFSA-J	CCCCCC/C=C/C=C\CCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+(3R,5S)-3-hydroxy-1-pyrroline-5-carboxylate	InChIKey=WFOFKRKDDKGRIK-DMTCNVIQSA-M	C1(\[C@H](O)C[C@@H](C([O-])=O)\N=1)
+3-methylbenzyl alcohol	InChIKey=JJCKHVUTVOPLBV-UHFFFAOYSA-N	CC1(\C=C(\C=C/C=1)\CO)
+(E)-2-(methoxycarbonylmethyl)butenedioate	InChIKey=MRNZYUAGJLJQAM-DUXPYHPUSA-L	COC(=O)CC(/C(=O)[O-])=C\C(=O)[O-]
+ADP ribose 1''-phosphate	InChIKey=CUNFRFHBHMFVPH-TYASJMOZSA-J	C(OP(=O)([O-])OP(OC[C@@H]1([C@@H](O)[C@@H](O)C(O1)OP(=O)([O-])[O-]))(=O)[O-])[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](O)[C@H](O)4)
+N1-(5-phospho-beta-D-ribosyl)glycinamide	InChIKey=OBQMLSFOUZUIOB-SHUUEZRQSA-M	C([NH3+])C(=O)N[C@H]1([C@H](O)[C@H](O)[C@@H](COP([O-])(=O)[O-])O1)
+4-guanidinobutanamide	InChIKey=YHVFECVVGNXFKO-UHFFFAOYSA-O	C(NC(N)=[NH2+])CCC(=O)N
+butanoate	InChIKey=FERIUCNNQQJTOY-UHFFFAOYSA-M	C([R])(=O)[O-]
+cycloartenol	InChIKey=ONQRKEUAIJMULO-YBXTVTTCSA-N	CC(C)=CCC[C@@H](C)[C@H]3(CC[C@@]4(C)([C@@H]1(CC[C@H]5(C(C)(C)[C@@H](O)CC[C@@]2(C[C@@]12CC[C@](C)34)5))))
+(L-seryl)adenylate	InChIKey=UVSYURUCZPPUQD-MACXSXHHSA-N	C([R])(=O)[O-]
+hydrogen carbonate	InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M	C([O-])(=O)O
+enol-phenylpyruvate	InChIKey=DEDGUGJNLNLJSR-VURMDHGXSA-M	C([O-])(=O)C(\O)=C\C1(\C=C/C=C\C=1)
+(S)-3-hydroxy-3-methylglutaryl-CoA	InChIKey=CABVTRNMFUVUDM-VRHQGPGLSA-I	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)C[C@@](C)(O)CC(=O)[O-])COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+6-diazo-5-oxo-L-norleucine	InChIKey=YCWQAMGASJSUIP-YFKPBYRVSA-N	C([R])(=O)[O-]
+b-dgal-HEX-1:5		
+mevalonolactone	InChIKey=JYVXNLLUYHCIIH-LURJTMIESA-N	C[C@]1(O)(CCOC(=O)C1)
+2-keto-6-acetamidocaproate	InChIKey=NGCXIFFZXAZRAF-UHFFFAOYSA-M	C([R])(=O)[O-]
+EGTA	InChIKey=DEFVIWRASFVYLL-UHFFFAOYSA-J	C(N(CC(=O)[O-])CC(=O)[O-])COCCOCCN(CC(=O)[O-])CC(=O)[O-]
+a-dglc-HEX-1:5		
+N-acetylglutamyl-phosphate	InChIKey=FCVIHFVSXHOPSW-YFKPBYRVSA-K	CC(=O)N[C@H](C([O-])=O)CCC(=O)OP([O-])(=O)[O-]
+b-dxyl-PEN-1:5		
+lanthionine	InChIKey=DWPCPZJAHOETAG-IMJSIDKUSA-N	C([R])(=O)[O-]
+dCMP	InChIKey=NCMVOABPESMRCP-SHYZEUOFSA-L	C(OP(=O)([O-])[O-])[C@@H]2([C@H](C[C@H](N1(\C=C/C(/N)=N\C(=O)1))O2)O)
+pyruvate	InChIKey=LCTONWCANYUPML-UHFFFAOYSA-M	CC(=O)C(=O)[O-]
+docosanoyl-CoA	InChIKey=NDDZLVOCGALPLR-GNSUAQHMSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+2-(2-carboxy-4-methylthiazol-5-yl)ethyl phosphate	InChIKey=XWECMAHAKFWYNV-UHFFFAOYSA-K	CC1(\N=C(C(=O)[O-])/SC(/CCOP([O-])(=O)[O-])=1)
+(S)-2-acetolactate	InChIKey=NMDWGEGFJUBKLB-YFKPBYRVSA-M	CC(=O)[C@](C)(O)C(=O)[O-]
+mercuric chloride	InChIKey=LWJROJCJINYWOX-UHFFFAOYSA-L	Cl[Hg]Cl
+4alpha-methyl ergosta-8,25(27)-dienol	InChIKey=PXXNMGZTESSBFJ-UFMHMSNJSA-N	C=C(C)[C@@H](C)CC[C@@H](C)[C@H]2(CC[C@H]3(C4(\CC[C@H]1([C@H](C)[C@@H](O)CC[C@@](C)1C(\CC[C@](C)23)=4))))
+Cu+	InChIKey=VMQMZMRVKUZKQL-UHFFFAOYSA-N	[Cu+]
+guanosine 2'-monophosphate	InChIKey=WTIFIAZWCCBCGE-UUOKFMHZSA-L	C(O)[C@H]3(O[C@@H](N1(\C=N/C2(C(=O)NC(/N)=N/C1=2)))[C@H](OP([O-])(=O)[O-])[C@H](O)3)
+4alpha-methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol	InChIKey=HLAWVOWADPNAGN-BAHZUFOISA-N	CC(C)C(CC[C@@H](C)[C@H]2(CC=C3(C4(\CC[C@H]1([C@H](C)[C@@H](O)CC[C@@](C)1C(\CC[C@](C)23)=4)))))=C
+putrescine	InChIKey=KIDHWZJUCRJVML-UHFFFAOYSA-P	C([NH3+])CCC[NH3+]
+cerotoyl-CoA	InChIKey=FHLYYFPJDVYWQH-CPIGOPAHSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+(R,S)-2,3-butanediol	InChIKey=OWBTYPJTUOEWEK-ZXZARUISSA-N	C[C@@H]([C@@H](C)O)O
+1-18:1-2-18:1-phosphatidylethanolamine	InChIKey=MWRBNPKJOOWZPW-NYVOMTAGSA-N	C(OP([O-])(=O)OC[C@@H](COC(=O)[R1])OC(=O)[R2])C[NH3+]
+L-citrulline	InChIKey=RHGKLRLOHDJJDR-BYPYZUCNSA-N	C([R])(=O)[O-]
+maltotriose	InChIKey=FYGDTMLNYKFZSV-DZOUCCHMSA-N	C([C@H]1(O[C@@H]([C@@H]([C@H]([C@@H]1O)O)O)O[C@@H]2([C@H](O[C@@H]([C@@H]([C@H]2O)O)O[C@@H]3([C@H](OC([C@@H]([C@H]3O)O)O)CO))CO)))O
+pyridoxal 5'-phosphate	InChIKey=NGVDGCNFYWLIFO-UHFFFAOYSA-L	CC1(/N=C\C(\COP(=O)([O-])[O-])=C(C(/O)=1)\C=O)
+(R)-4-hydroxy-4-methyl-2-oxoglutarate	InChIKey=YRWAMSXHYBBHFL-ZCFIWIBFSA-L	C([R])(=O)[O-]
+keto-D-ribulose	InChIKey=ZAQJHHRNXZUBTE-NQXXGFSBSA-N	C(O)[C@@H](O)[C@@H](O)C(=O)CO
+O-ureido-L-homoserine	InChIKey=SFYVZOSIAIZWQU-VKHMYHEASA-N	C(C[C@@H](C(=O)[O-])[NH3+])ONC(=O)N
+a-dglc-HEX-1:5|6:d		
+alpha,alpha-trehalose	InChIKey=HDTRYLNUVZCQOY-LIZSDCNHSA-N	C([C@H]1(O[C@@H]([C@@H]([C@H]([C@@H]1O)O)O)O[C@@H]2([C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)))O
+(2E,4Z)-deca-2,4-dienoyl-CoA	InChIKey=FASAKYLWSRDQOH-IMVFQKDNSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+S2-	InChIKey=UCKMPCXJQFINFW-UHFFFAOYSA-N	[S-2]
+UMP	InChIKey=DJJCXFVJDGTHFX-XVFCMESISA-L	C(OP(=O)([O-])[O-])[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O)
+4,4-dimethyl-5-alpha-cholesta-8,14,24-trien-3-beta-ol	InChIKey=LFQXEZVYNCBVDO-PBJLWWPKSA-N	CC(C)=CCC[C@H]([C@@H]4([C@]2(C)(C(C3(\CC[C@@H]1(C(C)(C)[C@@H](O)CC[C@@]1(C(\CC2)=3)C)))=CC4)))C
+N-methyl-N-[(2S)-1-phenylpropan-2-yl]hydroxylamine	InChIKey=PCDVFYKROPOLBF-VIFPVBQESA-N	C[C@@H](CC1(\C=C/C=C\C=1))N(O)C
+terbinafine	InChIKey=DOMXUEMWDBAQBQ-WEVVVXLNSA-O	CC(C#C/C=C/C[NH+](C)CC1(\C2(\C=C/C=C\C(\C=C/C=1)=2)))(C)C
+sphinganine 1-phosphate	InChIKey=YHEDRJPUIRMZMP-ZWKOTPCHSA-M	CCCCCCCCCCCCCCC[C@H]([C@H](COP([O-])(=O)[O-])[NH3+])O
+D-serine	InChIKey=MTCFGRXMJLQNBG-UWTATZPHSA-N	C([R])(=O)[O-]
+L-saccharopine	InChIKey=ZDGJAHTZVHVLOT-YUMQZZPRSA-M	C([R])(=O)[O-]
+lipid A 1-(2-aminoethyl diphosphate) (E. coli)	InChIKey=FOCHAVFXCSYXDE-MCJXJNKNSA-K	CCCCCCCCCCCCCC(=O)O[C@H](CCCCCCCCCCC)CC(=O)O[C@@H]2([C@H]([C@H](OC[C@H]1(O[C@H](OP(=O)([O-])OP(OCC[NH3+])(=O)[O-])[C@H](NC(C[C@H](O)CCCCCCCCCCC)=O)[C@@H](OC(C[C@H](O)CCCCCCCCCCC)=O)[C@H](O)1))O[C@H](CO)[C@H]2OP(=O)([O-])[O-])NC(C[C@H](OC(CCCCCCCCCCC)=O)CCCCCCCCCCC)=O)
+L-erythro-7,8-dihydrobiopterin	InChIKey=FEMXZDUTFRTWPE-DZSWIPIPSA-N	C[C@H](O)[C@H](O)C1(\CNC2(NC(/N)=N/C(C(/N=1)=2)=O))
+N6-(D-glucosyl)-L-lysine	InChIKey=IGBBBLSQXFDCHI-MIDKXNQYSA-O	C([R])(=O)[O-]
+cytosine	InChIKey=OPTASPLRGRRNAP-UHFFFAOYSA-N	C1(\NC(=O)/N=C(\C=1)/N)
+(2E)-tetradec-2-enoyl-CoA	InChIKey=MBCVYCOKMMMWLX-YYMFEJJQSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+phosphatidylglycerolphosphate (1-oleoyl, 2-palmitoyl)	InChIKey=WQMDYQSTTXRXLQ-HGWHEPCSSA-K	C(OP([O-])(=O)[O-])[C@@H](COP([O-])(=O)OC[C@H](OC(=O)[R2])COC(=O)[R1])O
+GDP	InChIKey=QGWNDRXFNXRZMB-UUOKFMHZSA-K	C(OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+9,10-DiHODE	InChIKey=QRHSEDZBZMZPOA-ZJSQCTGTSA-M	C([R])(=O)[O-]
+(R)-NADPHX	InChIKey=SZKXTJUOKARGIY-MTKBYBFRSA-J	C5(/N([C@@H]1(O[C@@H]([C@H]([C@H]1O)O)COP(OP(OC[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](OP([O-])(=O)[O-])[C@H](O)4))(=O)[O-])(=O)[O-]))[C@H](O)CCC(/C(=O)N)=5)
+(S)-propane-1,2-diol	InChIKey=DNIAPMSPPWPWGF-VKHMYHEASA-N	C[C@@H](CO)O
+hypusine	InChIKey=BZUIJMCJNWUGKQ-BDAKNGLRSA-P	[C@@H]([NH3+])([R])C(=O)[O-]
+propionamide	InChIKey=QLNJFJADRCOGBJ-UHFFFAOYSA-N	CCC(N)=O
+dCTP	InChIKey=RGWHQCVHVJXOKC-SHYZEUOFSA-J	C(OP(OP(=O)([O-])OP(=O)([O-])[O-])(=O)[O-])[C@@H]2([C@H](C[C@H](N1(C(/N=C(\C=C/1)/N)=O))O2)O)
+3-dehydroquinate	InChIKey=WVMWZWGZRAXUBK-SYTVJDICSA-M	C([R])(=O)[O-]
+S-adenosyl-L-homocysteine	InChIKey=ZJUKTBDSGOFHSH-WFMPWKQPSA-N	C([R])(=O)[O-]
+(3S)-3-methyl-2-oxopentanoate	InChIKey=JVQYSWDUAOAHFM-BYPYZUCNSA-M	C([R])(=O)[O-]
+4-cis-undecenoyl-CoA	InChIKey=AFMMIIQKXQNEDN-NSDZGHCESA-J	CCCCCC\C=C/CCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+(octanoyl)adenylate	InChIKey=AJYSFZDSJUTHRW-XKLVTHTNSA-M	C([R])(=O)[O-]
+(R)-2,3-dihydroxy-3-methylpentanoate	InChIKey=PDGXJDXVGMHUIR-UJURSFKZSA-M	CC[C@@](C)(O)[C@H](C([O-])=O)O
+ATP	InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+1-deoxymannojirimycin	InChIKey=LXBIFEVIBLOUGU-KVTDHHQDSA-O	C(O)[C@@H]1([C@@H](O)[C@H](O)[C@H](O)C[NH2+]1)
+GDP group		C(OP(=O)([O-])OP(=O)([O-])O)[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+triacetylfusarinine C	InChIKey=UIVTVLVVAXJPKM-IJGXQDLJSA-N	CC3(\CCOC(=O)[C@@H](NC(C)=O)CCCN6(C1(=[O+][Fe-3]245([O+]=C(N(CCC[C@H](NC(C)=O)C(=O)OCCC(/C)=C/1)O2)\C=C(C)/CCOC(=O)[C@@H](NC(C)=O)CCCN(C(\C=3)=[O+]4)O5)O6)))
+1-stearoyl-sn-glycerol	InChIKey=VBICKXHEKHSIBG-FQEVSTJZSA-N	CCCCCCCCCCCCCCCCCC(=O)OC[C@H](CO)O
+2-deoxy-alpha-D-ribose 1-phosphate	InChIKey=KBDKAJNTYKVSEK-VPENINKCSA-L	C(O)[C@H]1(O[C@H](OP([O-])(=O)[O-])C[C@H](O)1)
+iron(III)-[N-(2,3-dihydroxybenzoyl)-L-serine trimer] complex	InChIKey=QNAUHHROLOGFEY-UVJOBNTFSA-G	C(O)[C@@H]4(NC(C8(/C=C\C=C1(C(\O[Fe-3]257(O1)(OC3(/C=C\C=C(C(\O2)=3)\C(=O)N[C@@H](COC(=O)4)C(=O)OC[C@@H](C([O-])=O)NC(C6(\C(\O5)=C(\C=C/C=6)\O7))=O)))=8)))=O)
+monodehydroascorbate radical	InChIKey=LHFJOBMTAJJOTB-JLAZNSOCSA-N	C(O)[C@H](O)[C@@H]1(C(\O)=C(C(=O)O1)\O)
+b-HEX-1:5|6:a		
+CDP-N-dimethylethanolamine	InChIKey=FOYCPAILIPEVBT-HJQYOEGKSA-M	C[NH+](C)CCOP(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)O)O))(=O)[O-])([O-])=O
+mono-trans,octa-cis-decaprenyl group		C\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC/C=C(C)/CCC=C(C)C
+S-formylglutathione	InChIKey=FHXAGOICBFGEBF-BQBZGAKWSA-M	C(NC(=O)[C@H](CSC=O)NC(=O)CC[C@H]([NH3+])C(=O)[O-])C(=O)[O-]
+(R,R)-2,3-butanediol	InChIKey=OWBTYPJTUOEWEK-QWWZWVQMSA-N	C[C@H]([C@H](O)C)O
+3-methyl-2-oxobutanoate	InChIKey=QHKABHOOEWYVLI-UHFFFAOYSA-M	CC(C(C([O-])=O)=O)C
+3-aminopropanal	InChIKey=PCXDJQZLDDHMGX-UHFFFAOYSA-O	C(=O)CC[NH3+]
+biotinyl-5'-adenylate	InChIKey=UTQCSTJVMLODHM-RHCAYAJFSA-M	C(OP(OC(=O)CCCC[C@@H]1(SC[C@@H]2(NC(=O)N[C@H]12)))(=O)[O-])[C@H]5(O[C@@H](N3(C4(\C(\N=C/3)=C(N)/N=C\N=4)))[C@H](O)[C@H](O)5)
+IMP	InChIKey=GRSZFWQUAKGDAV-KQYNXXCUSA-L	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C/NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+2,5-dichloro-trans-dienelactone	InChIKey=XJQKWSUIZRECMR-ONEGZZNKSA-M	C1(/C(/OC(=O)C(/Cl)=1)=C(C(=O)[O-])\Cl)
+[(R)-lipoyl]adenylate	InChIKey=QWEGOCJRZOKSOE-ADUAKINBSA-M	C1(SS[C@@H](C1)CCCCC(=O)OP(OC[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](O)[C@H](O)4))(=O)[O-])
+3-demethylubiquinol-6	InChIKey=ZQXNZNKHQXLVCV-HGJBZHBGSA-N	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC1(/C(\C)=C(C(\O)=C(C(/O)=1)\OC)/O)
+3-all trans-hexaprenyl-4-amino-5-methoxybenzoate	InChIKey=DNPLRSNKHVWUBM-FRICUITQSA-M	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC1(\C(\N)=C(/C=C(\C=1)/C(=O)[O-])\OC)
+arsenous acid	InChIKey=GCPXMJHSNVMWNM-UHFFFAOYSA-N	[As](O)(O)O
+b-PEN-1:5		
+cytidine	InChIKey=UHDGCWIWMRVCDJ-XVFCMESISA-N	C(O)[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C(=O)1))O2)O)O)
+adenylosuccinate	InChIKey=OFBHPPMPBOJXRT-VWJPMABRSA-J	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N[C@@H](CC(=O)[O-])C([O-])=O)/N=C\N=2)))[C@H](O)[C@H](O)3)
+arachidoyl-CoA	InChIKey=JYLSVNBJLYCSSW-IBYUJNRCSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+2-all-trans-hexaprenyl-6-methoxy-3-methyl-1,4-benzoquinol	InChIKey=ATQQULXELMEJIX-NSUIJKAQSA-N	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC1(/C(\C)=C(/C=C(C(/O)=1)/OC)/O)
+hydroxyferroheme i	InChIKey=WLGRCQGURUMQMH-JEZRNDINSA-J	C=CC4(\C6(/C=C8(C(/C)=C(CCC(=O)[O-])/C1(/N([Fe-2]35([N+]2(\C(/C(/C(O)O)=C(CCC(=O)[O-])\C(/C=1)=2)=C/C7(/N3C(\C=C(C(/C)=4)/[N+]\5=6)=C(C(/C)=7)/[C@@H](O)CC/C=C(C)/CC/C=C(C)/CCC=C(C)C))))8))))
+a-lgal-HEX-1:5|6:d		
+4-phosphooxy-L-threonine	InChIKey=FKHAKIJOKDGEII-GBXIJSLDSA-L	C(=O)([O-])[C@@H]([NH3+])[C@H](O)COP([O-])(=O)[O-]
+geranyl diphosphate	InChIKey=GVVPGTZRZFNKDS-JXMROGBWSA-K	CC(C)=CCCC(\C)=C/COP([O-])(OP(=O)([O-])[O-])=O
+beta-D-ribosylnicotinate	InChIKey=PUEDDPCUCPRQNY-ZYUZMQFOSA-N	C(O)[C@@H]1([C@@H](O)[C@@H](O)[C@@H](O1)[N+]2(\C=C/C=C(/C=2)/C(=O)[O-]))
+L-isoleucine	InChIKey=AGPKZVBTJJNPAG-WHFBIAKZSA-N	[C@@H]([NH3+])([R])C([O-])=O
+methanethiol	InChIKey=LSDPWZHWYPCBBB-UHFFFAOYSA-N	C[R]
+2-deoxy-D-glucose 6-phosphate	InChIKey=UQJFZAAGZAYVKZ-CERMHHMHSA-L	C(OP([O-])(=O)[O-])[C@H]1(OC(O)C[C@@H](O)[C@H](O)1)
+aldehydo-D-ribose 5-phosphate	InChIKey=PPQRONHOSHZGFQ-LMVFSUKVSA-L	C(=O)[C@H](O)[C@H](O)[C@@H](COP([O-])([O-])=O)O
+precorrin-2	InChIKey=OQIIYZQTTMKFAU-ZNLOQLQNSA-G	C[C@]1(CC(=O)[O-])([C@@H](C3(\[NH2+]C\1=C/C2([C@@H](CCC(=O)[O-])[C@](C(\N=2)=C\C5(\NC(/CC4(\NC(/C=3)=C(CC(=O)[O-])/C(\CCC(=O)[O-])=4))=C(CCC(=O)[O-])/C(\CC(=O)[O-])=5))(C)CC(=O)[O-])))CCC(=O)[O-])
+hexanoyl-CoA	InChIKey=OEXFMSFODMQEPE-HDRQGHTBSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+4alpha-methyl-5alpha-cholesta-8-en-3-ol	InChIKey=SCEZIHJVTBQOLS-YIJYGBTNSA-N	CC(C)CCC[C@H]([C@@H]4([C@]1(C)([C@H](C2(\CC[C@@H]3([C@@](C)(C(\CC1)=2)CC[C@H](O)[C@@H](C)3)))CC4)))C
+beta-D-fructofuranose 1,6-bisphosphate	InChIKey=RNBGYGVWRKECFJ-ARQDHWQXSA-J	C(OP(=O)([O-])[O-])[C@@H]1([C@H]([C@@H]([C@](O)(O1)COP(=O)([O-])[O-])O)O)
+carboxyphosphate	InChIKey=LQQCGEGRINLHDP-UHFFFAOYSA-L	C(=O)([O-])OP([O-])(=O)O
+Mn2+	InChIKey=WAEMQWOKJMHJLA-UHFFFAOYSA-N	[Mn+2]
+(E)-4-coumaroyl-CoA	InChIKey=DMZOKBALNZWDKI-MATMFAIHSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+stearoyl-CoA	InChIKey=SIARJEKBADXQJG-LFZQUHGESA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+pteridine-ring		C1(\C=N/C2(\C=N/C=N\C(\N=1)=2))
+arsenic trioxide	InChIKey=GOLCXWYRSKYTSP-UHFFFAOYSA-N	[As]12(O[As](O1)O2)
+3-hydroxy-L-kynurenine	InChIKey=VCKPUUFAIGNJHC-LURJTMIESA-N	C([O-])(=O)[C@@H]([NH3+])CC(=O)C1(/C=C\C=C(C(\N)=1)\O)
+6-phospho D-glucono-1,5-lactone	InChIKey=IJOJIVNDFQSGAB-SQOUGZDYSA-L	C(OP([O-])(=O)[O-])[C@@H]1([C@@H](O)[C@H](O)[C@@H](O)C(=O)O1)
+4-amino-4-deoxychorismate	InChIKey=OIUJHGOLFKDBSU-HTQZYQBOSA-M	C=C(C(=O)[O-])O[C@H]1([C@H]([NH3+])\C=C/C(/C([O-])=O)=C\1)
+aldehydo-D-galacturonate	InChIKey=IAJILQKETJEXLJ-RSJOWCBRSA-M	C([R])(=O)[O-]
+O-acetyl-L-serine	InChIKey=VZXPDPZARILFQX-BYPYZUCNSA-N	C([R])(=O)[O-]
+(2S)-2-isopropyl-3-oxosuccinate	InChIKey=HIIZAGQWABAMRR-BYPYZUCNSA-L	CC([C@H](C(=O)[O-])C(=O)C(=O)[O-])C
+cyclic-AMP	InChIKey=IVOMOUWHDPKRLL-KQYNXXCUSA-M	C3([C@H]4(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](OP([O-])(=O)O3)4))
+ferrioxamine B		CC(=O)N2(O[Fe]1(ON(CCCCCNC(=O)CCC(=O)N(CCCCC[NH3+])O1)C(CCC(=O)NCCCCC2)=O))
+di-trans,trideca-cis-tetradecaprenyl diphosphate	InChIKey=TUNIPIPDJADHSR-HIQRJCTMSA-K	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/[R]CC(/C)=C/CCC(/C)=C/COP(=O)([O-])OP(=O)([O-])[O-]
+(R)-NADHX	InChIKey=IDBZKGQRLBFUFQ-MTKBYBFRSA-L	C1(/N([C@H](O)CCC(/C(N)=O)=1)[C@@H]5(O[C@H](COP(OP(OC[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](O)[C@H](O)4))(=O)[O-])(=O)[O-])[C@@H](O)[C@@H](O)5))
+2-oxoadipate	InChIKey=FGSBNBBHOZHUBO-UHFFFAOYSA-L	C([R])(=O)[O-]
+binuclear non-heme iron cluster		
+all-trans-retinol	InChIKey=FPIPGXGPPPQFEQ-OVSJKPMPSA-N	CC(/C=C/C1(/C(C)(C)CCCC(/C)=1))=C\C=C\C(/C)=C\CO
+beta-L-arabinofuranose	InChIKey=HMFHBZSHGGEWLO-KLVWXMOXSA-N	C(=O)[R]
+O-perylenebutylmethylphosphonic-acid-p-nitrophenyl ester	InChIKey=TZCMIDUYESNULG-UHFFFAOYSA-N	CP(OC1(\C=C/C(/N(=O)=O)=C\C=1))(=O)OCCCCC5(\C=C/C6(C3(\C=C/C=C2(\C=C/C=C(C2=3)C4(C(C(/C=C\C=4)=5)=6)))))
+4-hydroxy-3-hexaprenylbenzoate	InChIKey=LKMQQQABIGIHGL-LAAQXVIISA-M	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC1(/C=C(\C=C/C(/O)=1)/C(=O)[O-])
+(7R,8S)-8-amino-7-(carboxyamino)nonanoate	InChIKey=OQNJZSIPDMTUAJ-JGVFFNPUSA-M	C[C@@H]([C@@H](CCCCCC([O-])=O)NC(=O)[O-])[NH3+]
+ADP	InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K	C(OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+P1,P4-bis(5'-adenosyl) tetraphosphate	InChIKey=YOAHKNVSNCMZGQ-XPWFQUROSA-J	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])OC[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3))[C@H]6(O[C@@H](N4(C5(\C(\N=C/4)=C(N)/N=C\N=5)))[C@H](O)[C@H](O)6)
+N-acetyl-L-glutamate 5-semialdehyde	InChIKey=BCPSFKBPHHBDAI-LURJTMIESA-M	CC(=O)N[C@H](C([O-])=O)CCC=O
+taurocholate	InChIKey=WBWWGRHZICKQGZ-HZAMXZRMSA-M	C[C@H](CCC(=O)NCCS([O-])(=O)=O)[C@H]2(CC[C@H]3([C@@H]4([C@H](O)C[C@@H]1(C[C@H](O)CC[C@@](C)1[C@@H](C[C@H](O)[C@](C)23)4))))
+L-serine	InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N	[C@@H]([NH3+])([R])C([O-])=O
+5-chloromaleylacetate	InChIKey=SCSZJXOTAAUHEL-UPHRSURJSA-L	C(=O)([O-])\C=C/C(=O)C(Cl)C(=O)[O-]
+3-oxomyristoyl-CoA	InChIKey=IQNFBGHLIVBNOU-QSGBVPJFSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+beta-D-ribofuranose	InChIKey=HMFHBZSHGGEWLO-TXICZTDVSA-N	C(O)[C@@H]1([C@H]([C@H](C(O)O1)O)O)
+3-phospho-D-glycerate	InChIKey=OSJPPGNTCRNQQC-UWTATZPHSA-K	C(O[R2])[C@@H](O[R1])C(=O)[O-]
+(2E,6E)-farnesal	InChIKey=YHRUHBBTQZKMEX-YFVJMOTDSA-N	C(=O)[R]
+glutarate	InChIKey=JFCQEDHGNNZCLN-UHFFFAOYSA-L	C([R])(=O)[O-]
+hydrogen cyanide	InChIKey=LELOWRISYMNNSU-UHFFFAOYSA-N	C#N
+1-(5-phospho-beta-D-ribosyl)-ATP	InChIKey=RKNHJBVBFHDXGR-KEOHHSTQSA-H	C(OP([O-])(=O)[O-])[C@H]4(O[C@@H](N1(C(C2(\N=C/N(C(\N=C/1)=2)[C@@H]3(O[C@H](COP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@@H](O)[C@@H](O)3)))=N))[C@H](O)[C@@H]4O)
+4-(2-amino-3-hydroxyphenyl)-2,4-dioxobutanoate	InChIKey=YCJNYHCCOXVYAF-UHFFFAOYSA-M	C(=O)([O-])C(=O)CC(=O)C1(/C=C\C=C(C(\N)=1)\O)
+(3E)-undec-3-enoyl-CoA	InChIKey=HVXCCJIYXIZGOP-NADLOITOSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+GLYCO-CT-AMINO		
+6-cis, 3-oxo-tridecenoyl-CoA	InChIKey=FDXHXLPCLXEYSU-DXAZUOFZSA-J	CCCCCC\C=C/CCC(=O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+1-(oleoyl)-sn-glycero-3-phosphoethanolamine	InChIKey=PYVRVRFVLRNJLY-MZMPXXGTSA-N	C(OP([O-])(=O)OC[C@@H](COC(=O)[R1])OC(=O)[R2])C[NH3+]
+3-deoxy-D-arabino-heptulosonate 7-phosphate	InChIKey=PJWIPEXIFFQAQZ-PUFIMZNGSA-K	C(=O)([O-])C(=O)C[C@@H](O)[C@H](O)[C@H](O)COP([O-])(=O)[O-]
+sn-glycerol 1-phosphate	InChIKey=AWUCVROLDVIAJX-VKHMYHEASA-L	C(O)C(COP([O-])(=O)[O-])O
+6-O-methyl-beta-D-galacturonate	InChIKey=DICCNWCUKCYGNF-SXUWKVJYSA-N	C([R])(=O)[O-]
+x-dglc-HEX-1:5|6:d		
+L-selenomethionine	InChIKey=RJFAYQIBOAGBLC-BYPYZUCNSA-N	C([R])(=O)[O-]
+chloride	InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M	[Cl-]
+phosphoribulosylformimino-AICAR-phosphate	InChIKey=BLKFNHOCHNCLII-GHVQHMAVSA-J	C(OP(=O)([O-])[O-])[C@@H](O)[C@@H](O)C(=O)C/N=C/NC1(\N(\C=N/C(\C(=O)N)=1)[C@@H]2(O[C@H](COP([O-])([O-])=O)[C@@H](O)[C@@H](O)2))
+beta-L-rhamnopyranose	InChIKey=SHZGCJCMOBCMKK-YJRYQGEOSA-N	C(=O)[R]
+N-(1-deoxy-D-fructopyranos-1-yl)glycine	InChIKey=YGUYJMQMTNJNFS-LPBLVHEISA-N	C([R])(=O)[O-]
+dUMP	InChIKey=JSRLJPSBLDHEIO-SHYZEUOFSA-L	C(OP(=O)([O-])[O-])[C@H]2(O[C@@H](N1(\C=C/C(=O)NC1=O))C[C@H](O)2)
+8-oxo-dGMP	InChIKey=AQIVLFLYHYFRKU-VPENINKCSA-L	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(NC(=O)1)=2)))C[C@H](O)3)
+ferrirubin	InChIKey=SEQVPEQKJMMKNO-RQCMKQRDSA-N	CC(\CCO)=C\C4(=[O+][Fe-3]1236(ON(CCC[C@@H]5(NC(=O)[C@H](CCCN(C(\C=C(C)/CCO)=[O+]1)O2)NC(=O)[C@H](CO)NC(=O)[C@H](CO)NC(=O)CNC(=O)[C@H](CCCN(O3)4)NC(=O)5))C(=[O+]6)\C=C(C)/CCO))
+3-acetamidopropanal	InChIKey=ARJPPNFIEQKVBB-UHFFFAOYSA-N	C(=O)[R]
+alpha-L-idopyranuronate	InChIKey=AEMOLEFTQBMNLQ-VCSGLWQLSA-M	C([R])(=O)[O-]
+glycolate	InChIKey=AEMRFAOFKBGASW-UHFFFAOYSA-M	C([R])(=O)[O-]
+4-coumaryl alcohol	InChIKey=PTNLHDGQWUGONS-OWOJBTEDSA-N	C(/CO)=C\C1(\C=C/C(/O)=C\C=1)
+4alpha-carboxy-4beta-methyl-5alpha-cholesta-8-en-3beta-ol	InChIKey=GLCDBDRQLZKKOJ-LJAIZBFVSA-M	CC(C)CCC[C@H]([C@@H]4([C@]1(C)([C@H](C2(\CC[C@@H]3([C@@](C)(C(\CC1)=2)CC[C@H](O)[C@@](C)(C([O-])=O)3)))CC4)))C
+b-dgal-HEX-1:4		
+coumaryl acetate	InChIKey=UUEPXFWSBUIUAZ-NSCUHMNNSA-N	CC(=O)OC/C=C/C1(\C=C/C(/O)=C\C=1)
+aldehydo-D-glucose	InChIKey=GZCGUPFRVQAUEE-SLPGGIOYSA-N	C(=O)[R]
+R'C(R)S-S(R)CR'		C(SSC([R2])[R1])([R4])[R3]
+uroporphyrinogen-I	InChIKey=QTTNOSKSLATGQB-UHFFFAOYSA-F	C(=O)([O-])CCC2(\C(/CC(=O)[O-])=C1(CC5(\NC(/CC4(\NC(/CC3(\NC(/CC(\N1)=2)=C(CC(=O)[O-])/C(\CCC([O-])=O)=3))=C(CC(=O)[O-])/C(\CCC(=O)[O-])=4))=C(CC([O-])=O)/C(\CCC(=O)[O-])=5)))
+D-xylulose 5-phosphate	InChIKey=FNZLKVNUWIIPSJ-RFZPGFLSSA-L	C(OP([O-])(=O)[O-])[C@@H](O)[C@H](O)C(=O)CO
+beta-D-mannosyl-(C55 omega-saturated dolichyl phosphate)	InChIKey=MBYVKTIIZNUHKN-NIVAAIEQSA-M	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/[R]CC(/C)=C/CCC(CCOP(=O)([O-])O[C@@H]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@H](O)1))C
+S-(2-succinyl)-glutathione	InChIKey=PWCIUOASSAHGHI-WPZUCAASSA-K	C(S[R])[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+4-amino-2-methyl-5-pyrimidinemethanol	InChIKey=VUTBELPREDJDDH-UHFFFAOYSA-N	CC1(\N=C(C(/CO)=C\N=1)\N)
+L-methionine	InChIKey=FFEARJCKVFRZRR-BYPYZUCNSA-N	[C@@H]([NH3+])([R])C([O-])=O
+Al3+	InChIKey=REDXJYDRNCIFBQ-UHFFFAOYSA-N	[Al+3]
+urea-1-carboxylate	InChIKey=AVWRKZWQTYIKIY-UHFFFAOYSA-M	C(N)(NC([O-])=O)=O
+nitric oxide	InChIKey=MWUXSHHQAYIFBG-UHFFFAOYSA-N	N=O
+O-acetyl-L-carnitine	InChIKey=RDHQFKQIGNGIED-MRVPVSSYSA-N	CC(=O)O[C@H](CC(=O)[O-])C[N+](C)(C)C
+2-(2-methylpyridin-3-yl)ethanol	InChIKey=MFPDJTXHKIFPNP-UHFFFAOYSA-N	CC1(\N=C/C=C\C(/CCO)=1)
+a-lman-HEX-1:5|6:d		
+carbamate	InChIKey=KXDHJXZQYSOELW-UHFFFAOYSA-M	C(=O)([O-])N
+Cd2+	InChIKey=WLZRMCYVCSSEQC-UHFFFAOYSA-N	[Cd+2]
+(S)-nicotine	InChIKey=SNICXCGAKADSCV-JTQLQIEISA-O	C1(CC[C@H]([NH+](C)1)C2(\C=N/C=C\C=2))
+UTP	InChIKey=PGAVKCOVUIYSFO-XVFCMESISA-J	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]2(O[C@@H](N1(\C=C/C(=O)NC1=O))[C@H](O)[C@H](O)2)
+4-(methylsulfanyl)-2-oxobutanoate	InChIKey=SXFSQZDSUWACKX-UHFFFAOYSA-M	C([R])(=O)[O-]
+avenastenone	InChIKey=XHRPJMCAEXVFFM-KADTVRCUSA-N	C\C=C(CC[C@@H](C)[C@H]3(CC[C@H]4(C1([C@@H]([C@@]2(C)(CCC(=O)C[C@H](CC=1)2))CC[C@](C)34))))/C(C)C
+nicotinate adenine dinucleotide	InChIKey=SENPVEZBRZQVST-HISDBWNOSA-L	C5(/C(/C([O-])=O)=C\C=C/[N+](/[C@@H]4(O[C@H](COP(OP(OC[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3))(=O)[O-])(=O)[O-])[C@@H](O)[C@@H](O)4))=5)
+a-dgal-HEX-1:5		
+shikimate 3-phosphate	InChIKey=QYOJSKGCWNAKGW-PBXRRBTRSA-K	C(=O)([O-])C1(\C[C@@H](O)[C@H](O)[C@H](OP(=O)([O-])[O-])/C=1)
+2-isopropylmaleate	InChIKey=NJMGRJLQRLFQQX-HYXAFXHYSA-L	CC(C(\C(=O)[O-])=C\C(=O)[O-])C
+(Z)-2-methylaconitate	InChIKey=NUZLRKBHOBPTQV-ARJAWSKDSA-K	C([R])(=O)[O-]
+dihomo gamma-linolenoyl-CoA	InChIKey=FJWJALRUNNZIBB-DDQUOPDJSA-J	CCCCC\C=C/C\C=C/C\C=C/CCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+3-phenylpropanoate	InChIKey=XMIIGOLPHOKFCH-UHFFFAOYSA-M	C([R])(=O)[O-]
+AMP	InChIKey=UDMBCSSLTHHNCD-KQYNXXCUSA-L	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+2,5-hexanedione	InChIKey=OJVAMHKKJGICOG-UHFFFAOYSA-N	CC(=O)CCC(=O)C
+4-amino-3-methoxybenzoate	InChIKey=JNFGLYJROFAOQP-UHFFFAOYSA-M	C([R])(=O)[O-]
+[aryl-carrier protein] group		CC(C)(COP(=O)([O-])OC[C@H](N[an aryl-carrier protein])C(=O)[an aryl-carrier protein])[C@@H](O)C(=O)NCCC(=O)NCCS
+1-stearoyl-2-palmitoyl-sn-glycerol 3-phosphate	InChIKey=USQMHZSVXZAKAI-PGUFJCEWSA-L	C(OC([R1])=O)[C@@H](OC(=O)[R2])COP([O-])(=O)[O-]
+cholate	InChIKey=BHQCQFFYRZLCQQ-OELDTZBJSA-M	C([R])(=O)[O-]
+acetic acid	InChIKey=QTBSBXVTEAMEQO-UHFFFAOYSA-N	C([R])(=O)[O-]
+(gamma-glutamylcysteine-S-yl)-bimane	InChIKey=GDOCADMPVSPYIX-RYUDHWBXSA-M	C(S[R])[C@@H](C([O-])=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+D-erythro-1-(imidazol-4-yl)-glycerol 3-phosphate	InChIKey=HFYBTHCYPKEDQQ-RITPCOANSA-L	C1(\N\C=N/C(\[C@@H]([C@H](O)COP(=O)([O-])[O-])O)=1)
+di-trans,octa-cis-undecaprenyl group		C\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC/C=C(C)/CC/C=C(C)/CCC=C(C)C
+L-asparagine	InChIKey=DCXYFEDJOCDNAF-REOHCLBHSA-N	[C@@H]([NH3+])([R])C([O-])=O
+ubiquinol-8	InChIKey=LOJUQFSPYHMHEO-SGHXUWJISA-N	C1([R1])(=C([R4])C(/O)=C([R3])\C(/[R2])=C1\O)
+N7-methylguanosine 5'-phosphate	InChIKey=AOKQNZVJJXPUQA-KQYNXXCUSA-M	C[N+]1(\C3(C(=O)NC(/N)=N/C(N(\C=1)[C@@H]2(O[C@H](COP(=O)([O-])[O-])[C@@H](O)[C@@H](O)2))=3))
+trans-4-hydroxy-L-proline	InChIKey=PMMYEEVYMWASQN-DMTCNVIQSA-N	C([R])(=O)[O-]
+Ni2+	InChIKey=VEQPNABPJHWNSG-UHFFFAOYSA-N	[Ni+2]
+(L-prolyl)adenylate	InChIKey=KQFKHTAASHMYDJ-TWBCTODHSA-N	C([R])(=O)[O-]
+N1-acetylspermine	InChIKey=GUNURVWAJRRUAV-UHFFFAOYSA-Q	CC(=O)NCCC[NH2+]CCCC[NH2+]CCC[NH3+]
+(2E)-dec-2-enoyl-CoA	InChIKey=MGNBGCRQQFMNBM-YJHHLLFWSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+3-(imidazol-4-yl)-2-oxopropyl phosphate	InChIKey=YCFFMSOLUMRAMD-UHFFFAOYSA-L	C1(\N\C=N/C(\CC(COP([O-])(=O)[O-])=O)=1)
+1-deoxy-L-glycero-tetrulose 4-phosphate	InChIKey=OKYHYXLCTGGOLM-SCSAIBSYSA-L	CC(=O)[C@H](O)COP(=O)([O-])[O-]
+succinate	InChIKey=KDYFGRWQOYBRFD-UHFFFAOYSA-L	C([R])(=O)[O-]
+alpha-D-glucose 6-phosphate	InChIKey=NBSCHQHZLSJFNQ-DVKNGEFBSA-L	C([C@H]1(OC([C@@H]([C@H]([C@@H]1O)O)O)O))OP([O-])([O-])=O
+lignoceroyl-CoA	InChIKey=MOYMQYZWIUKGGY-JBKAVQFISA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+antimonite	InChIKey=JXYAODGLKNBUTA-UHFFFAOYSA-N	[O-][Sb]([O-])[O-]
+5-(hydroxymethyl)-2-methylphenol	InChIKey=XGYCFBRLHVWRLV-UHFFFAOYSA-N	CC1(/C=C\C(\CO)=C/C(/O)=1)
+methylglyoxal	InChIKey=AIJULSRZWUXGPQ-UHFFFAOYSA-N	CC(C=O)=O
+4,4-dimethyl-5alpha-cholesta-8-en-3beta-ol	InChIKey=FYHRVINOXYETMN-QGBOJXOESA-N	CC(C)CCC[C@H]([C@@H]4([C@]1(C)([C@H](C2(\CC[C@@H]3([C@@](C)(C(\CC1)=2)CC[C@H](O)C(C)(C)3)))CC4)))C
+thiosulfate	InChIKey=DHCDFWKWKRSZHF-UHFFFAOYSA-M	O=S(=O)([O-])S
+L-glutamate	InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M	C(CC[C@@H](C(=O)[O-])[NH3+])([O-])=O
+CO2	InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N	C(=O)=O
+homofuraneol	InChIKey=GWCRPYGYVRXVLI-UHFFFAOYSA-N	CCC1(C(=O)C(/O)=C(C)\O1)
+L-methionine-(R)-S-oxide	InChIKey=QEFRNWWLZKMPFJ-ZXPFJRLXSA-N	C([R])(=O)[O-]
+4-methylumbelliferyl glucoside	InChIKey=YUDPTGPSBJVHCN-YMILTQATSA-N	CC2(\C3(/C=C\C(\O[C@@H]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)1))=C/C(/OC(=O)\C=2)=3))
+3-hydroxy-3-(4-hydroxyphenyl)propanoate	InChIKey=AKWHTKRUNUYXDS-UHFFFAOYSA-M	C([R])(=O)[O-]
+arsenate	InChIKey=DJHGAFSJWGLOIV-UHFFFAOYSA-L	[As](=O)(O)([O-])[O-]
+K+	InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N	[K+]
+8-epi-prostaglandin F2alpha	InChIKey=PXGPLTODNUVGFL-NAPLMKITSA-M	C([R])(=O)[O-]
+NADH	InChIKey=BOPGDPNILDQYTO-NNYOXOHSSA-L	C1(/N(\C=C/CC(/C(N)=O)=1)[C@@H]5(O[C@H](COP(OP(OC[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](O)[C@H](O)4))(=O)[O-])(=O)[O-])[C@@H](O)[C@@H](O)5))
+3-hydroxybenzyl alcohol	InChIKey=OKVJCVWFVRATSG-UHFFFAOYSA-N	C(O)C1(\C=C(\C=C/C=1)\O)
+melezitose	InChIKey=QWIZNVHXZXRPDR-WSCXOGSTSA-N	C(O)[C@]3(O[C@H]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)1))([C@@H](O[C@H]2(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)2))[C@H](O)[C@@H](CO)O3)
+30-oxolanosterol	InChIKey=PGGIMLIQOHYFIS-PUXRVUTHSA-N	CC(C)=CCC[C@H]([C@@H]1([C@]3(C)([C@@](C=O)(CC1)C4(\CC[C@@H]2(C(C)(C)[C@@H](O)CC[C@@]2(C(\CC3)=4)C)))))C
+3-chlorobenzyl alcohol	InChIKey=ZSRDNPVYGSFUMD-UHFFFAOYSA-N	C(O)C1(\C=C/C=C(/C=1)/Cl)
+oxaloacetate	InChIKey=KHPXUQMNIQBQEV-UHFFFAOYSA-L	C([R])(=O)[O-]
+cyclic-2,3-O-oxalyl-L-threonate	InChIKey=NKBSFRFTBUHMJF-UHFFFAOYSA-M	C(O)C1(OC(=O)C(=O)OC(C(=O)[O-])1)
+x-HEX-1:5		
+S-adenosyl-4-methylsulfanyl-2-oxobutanoate	InChIKey=UOKVQQMBGVMXPU-BPIXLOBBSA-N	C([R])(=O)[O-]
+adjacent thymidine-2'-deoxycytidine in DNA		CC1(\C(=O)NC(N(\C=1)[C@@H]4(O[C@H](COP(=O)([O-])O[a deoxyribonucleic acid])[C@@H](OP(OC[C@H]3(O[C@@H](N2(C(=O)/N=C(\C=C/2)/N))C[C@H](OP([O-])(O[a deoxyribonucleic acid])=O)3))([O-])=O)C4))=O)
+D-glyceraldehyde 3-phosphate	InChIKey=LXJXRIRHZLFYRP-VKHMYHEASA-L	C(=O)[C@H](O)COP(=O)([O-])[O-]
+trans-dienelactone	InChIKey=AYFXPGXAZMFWNH-ONEGZZNKSA-M	C1(\C(\OC(=O)\C=1)=C/C(=O)[O-])
+GMP	InChIKey=RQFCJASXJCIDSX-UUOKFMHZSA-L	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+isobutyl acetate	InChIKey=GJRQTCIYDGXPES-UHFFFAOYSA-N	CC(C)COC(=O)C
+2-myristoleoyl-sn-glycero-3-phosphoethanolamine	InChIKey=OMFJMHRPSFBIAJ-OOFWQKGWSA-N	CCCC\C=C/CCCCCCCC(=O)O[C@H](CO)COP(OCC[NH3+])([O-])=O
+avenasterol	InChIKey=MCWVPSBQQXUCTB-OQTIOYDCSA-N	C\C=C(CC[C@@H](C)[C@H]3(CC[C@H]4(C1([C@@H]([C@@]2(C)(CC[C@H](O)C[C@H](CC=1)2))CC[C@](C)34))))/C(C)C
+5-(hydroxymethyl)-2-methyl-4(1H)-pyrimidinone	InChIKey=ATTZFOQANXUZIP-UHFFFAOYSA-N	CC1(\N=C(C(/CO)=C/N=1)\O)
+ubiquinol-6	InChIKey=DYOSCPIQEYRQEO-LPHQIWJTSA-N	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC1(\C(\O)=C(C(\OC)=C(C(/C)=1)\O)\OC)
+5,6,7,8-tetrahydrofolate	InChIKey=MSTNYGQPCMXVAQ-RYUDHWBXSA-L	C([C@@H]1(NC2(\C(NC(/N)=N/C(\NC1)=2)=O)))NC3(\C=C/C(/C(N[C@H](C(=O)[O-])CCC([R])=O)=O)=C\C=3)
+propanoate	InChIKey=XBDQKXXYIPTUBI-UHFFFAOYSA-M	C([R])(=O)[O-]
+N2-formyl-N1-(5-phospho-beta-D-ribosyl)glycinamide	InChIKey=VDXLUNDMVKSKHO-XVFCMESISA-L	C(NC=O)C(=O)N[C@H]1([C@H](O)[C@H](O)[C@@H](COP([O-])(=O)[O-])O1)
+(L-isoleucyl)adenylate	InChIKey=ACZWYNUJBRLCEC-XATJSACLSA-N	C([R])(=O)[O-]
+3-(methylsulfanyl)propanoate	InChIKey=CAOMCZAIALVUPA-UHFFFAOYSA-M	C([R])(=O)[O-]
+7,8-dihydroneopterin 3'-triphosphate	InChIKey=DGGUVLXVLHAAGT-XINAWCOVSA-J	C1(NC2(/N=C(N)\NC(=O)C(/N=C1/[C@H](O)[C@H](O)COP([O-])(=O)OP([O-])(=O)OP([O-])(=O)[O-])=2))
+tetrahydropteroyl tri-L-glutamate	InChIKey=RXWVHRYZTWZATH-XSLAGTTESA-J	C([C@@H]1(NC2(\C(NC(/N)=N/C(\NC1)=2)=O)))NC3(\C=C/C(/C(N[C@H](C(=O)[O-])CCC([R])=O)=O)=C\C=3)
+protoporphyrinogen IX	InChIKey=UHSGPDMIQQYNAX-UHFFFAOYSA-L	C=CC2(\C(/C)=C1(CC5(\NC(/CC4(\NC(/CC3(\NC(/CC(\N1)=2)=C(C)/C(\C=C)=3))=C(C)/C(\CCC([O-])=O)=4))=C(CCC(=O)[O-])/C(\C)=5)))
+carbon monoxide	InChIKey=UGFAIRIUMAVXCW-UHFFFAOYSA-N	[C-]#[O+]
+L-canavanine	InChIKey=FSBIGDSBMBYOPN-VKHMYHEASA-O	C([R])(=O)[O-]
+beta-D-fructofuranose 6-phosphate	InChIKey=BGWGXPAPYGQALX-ARQDHWQXSA-L	C(OP(=O)([O-])[O-])[C@H]1(O[C@@](CO)(O)[C@@H](O)[C@H](O)1)
+methyl alpha-D-glucoside	InChIKey=HOVAGTYPODGVJG-ZFYZTMLRSA-N	CO[C@H]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)1)
+GLYCO-CT-ACETYL		
+(E)-N-(1-phenylpropan-2-ylidene)hydroxylamine	InChIKey=AUYFJUMCPAMOKN-CSKARUKUSA-N	CC(/CC1(\C=C/C=C\C=1))=N\O
+a carboxyl group		C(=O)[O-]
+isethionate	InChIKey=SUMDYPCJJOFFON-UHFFFAOYSA-M	C(CO)S(=O)(=O)[O-]
+L-alanine	InChIKey=QNAYBMKLOCPYGJ-REOHCLBHSA-N	[C@@H]([NH3+])([R])C([O-])=O
+a-dara-HEX-2:5|2:keto		
+GDP-alpha-D-mannose	InChIKey=MVMSCBBUIHUTGJ-GDJBGNAASA-L	C(OP(=O)([O-])OP(O[C@H]1(O[C@@H]([C@@H](O)[C@H](O)[C@H](O)1)CO))(=O)[O-])[C@H]4(O[C@@H](N2(C3(\N=C(N)/NC(=O)C(\N=C/2)=3)))[C@H](O)[C@H](O)4)
+ubiquinone-8	InChIKey=ICFIZJQGJAJRSU-SGHXUWJISA-N	C1([R4])(=C([R3])C(=O)C(/[R3])=C([R1])/C(=O)1)
+all-trans-undecaprenyl group		C/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CC/C=C(C)/CCC=C(C)C
+beta-D-ribulofuranose	InChIKey=LQXVFWRQNMEDEE-UOWFLXDJSA-N	C(O)[C@]1(O)([C@H](O)[C@H](O)CO1)
+2-hydroxy-2-methylpropanoate	InChIKey=BWLBGMIXKSTLSX-UHFFFAOYSA-M	CC(O)(C)C(=O)[O-]
+S-methylglutathione	InChIKey=QTQDDTSVRVWHMO-BQBZGAKWSA-M	C(S[R])[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+ADP group		C(OP(OP([O-])(=O)O)(=O)[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+a-lido-HEX-1:5|6:a		
+all-trans-hexaprenyl diphosphate	InChIKey=NGFSMHKFTZROKJ-MMSZMYIBSA-K	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/COP(=O)([O-])OP(=O)([O-])[O-]
+uroporphyrinogen-III	InChIKey=HUHWZXWWOFSFKF-UHFFFAOYSA-F	C(=O)([O-])CCC2(\C(/CC(=O)[O-])=C1(CC5(\NC(/CC4(\NC(/CC3(\NC(/CC(\N1)=2)=C(CCC(=O)[O-])/C(\CC(=O)[O-])=3))=C(CC(=O)[O-])/C(\CCC(=O)[O-])=4))=C(CC([O-])=O)/C(\CCC(=O)[O-])=5)))
+dup 128	InChIKey=TVXOXGBTADZYCZ-UHFFFAOYSA-N	CCCCCCCN(C(\O)=N\C1(/C=C\C(\F)=C/C(/F)=1))CCCCCSC4(\NC(/C2(\C=C/C=C\C=2))=C(C3(\C=C/C=C\C=3))/N=4)
+2-all trans-hexaprenyl-6-methoxyhydroquinone	InChIKey=ZAGWHOPYPMUKOK-FRICUITQSA-N	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC1(\C(\O)=C(/C=C(\C=1)/O)\OC)
+beta-D-rhamnopyranose	InChIKey=SHZGCJCMOBCMKK-RWOPYEJCSA-N	C(=O)[R]
+verdoheme	InChIKey=JFGVATQDLBFQRV-HPQJSUICSA-K	C=CC1(\C3(/C=C8(C(/C)=C(CCC(=O)[O-])/C4(/N([Fe-2]26(N7(C(/[O+]=C(C(/C)=1)[N+]\2=3)=C(C=C)\C(/C)=C(\C=C5(C(/C)=C(CCC(=O)[O-])/C(\C=4)=[N+]5/6))/7)))8))))
+sulfite	InChIKey=LSNNMFCWUKXFEE-UHFFFAOYSA-L	[O-]S([O-])=O
+adenosine 3',5'-bisphosphate	InChIKey=WHTCPDAXWFLDIH-KQYNXXCUSA-J	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](OP([O-])(=O)[O-])3)
+vanillate	InChIKey=WKOLLVMJNQIZCI-UHFFFAOYSA-M	C([R])(=O)[O-]
+4alpha-formyl-4beta-methyl-5alpha-cholesta-8,24-dien-3beta-ol	InChIKey=GFGANDKVOKQAGH-WKYRUEGDSA-N	CC(C)=CCC[C@@H](C)[C@H]2(CC[C@H]3(C4(\CC[C@H]1([C@@](C=O)(C)[C@@H](O)CC[C@@](C)1C(\CC[C@](C)23)=4))))
+palmitoleoyl-CoA	InChIKey=QBYOCCWNZAOZTL-MDMKAECGSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+cis-dienelactone	InChIKey=AYFXPGXAZMFWNH-ARJAWSKDSA-M	C1(\C(\OC(=O)\C=1)=C\C(=O)[O-])
+2-(alpha-hydroxyethyl)thiamine diphosphate	InChIKey=RRUVJGASJONMDY-UHFFFAOYSA-L	CC2(\[N+](/CC1(\C=N/C(\C)=N\C(/N)=1))=C(C(O)C)/SC(/CCOP([O-])(=O)OP([O-])(=O)[O-])=2)
+5-aminopentanoate	InChIKey=JJMDCOVWQOJGCB-UHFFFAOYSA-N	C([R])(=O)[O-]
+4-vinylphenol	InChIKey=FUGYGGDSWSUORM-UHFFFAOYSA-N	C=CC1(\C=C/C(/O)=C\C=1)
+(2S)-2-aminohex-4-ynoate	InChIKey=VDWGCMRALYSYJV-YFKPBYRVSA-N	C([R])(=O)[O-]
+5-amino-1-(5-phospho-beta-D-ribosyl)imidazole	InChIKey=PDACUKOKVHBVHJ-XVFCMESISA-M	C1(\[NH+]=C/N(C(/N)=1)[C@@H]2(O[C@H](COP(=O)([O-])[O-])[C@@H](O)[C@@H](O)2))
+2-bromoacetyl CoA	InChIKey=RNBXHSPQPNFOKA-GRFIIANRSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)CBr)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+4-methyl-2-oxopentanoate	InChIKey=BKAJNAXTPSGJCU-UHFFFAOYSA-M	C([R])(=O)[O-]
+dihydroxyacetone	InChIKey=RXKJFZQQPQGTFL-UHFFFAOYSA-N	C(C(CO)=O)O
+3-aci-nitropropanoate	InChIKey=DCSLGQYKPBZRHI-UHFFFAOYSA-M	C(CC([O-])=O)=[N+]([O-])O
+4a-hydroxy-L-erythro-5,6,7,8-tetrahydrobiopterin	InChIKey=KJKIEFUPAPPGBC-XXKOCQOQSA-N	CC(O)C(O)[C@H]2(CNC1(\[C@](O)(C(\N=C(N)/N=1)=O)N2))
+D-sorbitol	InChIKey=FBPFZTCFMRRESA-JGWLITMVSA-N	C([C@@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O
+2-maleylacetate	InChIKey=SOXXPQLIZIPMIZ-UPHRSURJSA-L	C(\C(=O)CC([O-])=O)=C\C(=O)[O-]
+L-arginino-succinate	InChIKey=KDZOASGQNOPSCU-ZBHICJROSA-M	C(NC(NC(CC(=O)[O-])C(=O)[O-])=[NH2+])CC[C@@H](C(=O)[O-])[NH3+]
+1D-myo-inositol 4-monophosphate	InChIKey=INAPMGSXUVUWAF-CNWJWELYSA-L	[C@@H]1(O)([C@H](O)[C@@H](O)[C@H](OP(=O)([O-])[O-])[C@@H](O)[C@@H](O)1)
+hydrogen sulfide	InChIKey=RWSOTUBLDIXVET-UHFFFAOYSA-N	S
+2''-O-acetyl-ADP-ribose	InChIKey=BFNOPXRXIQJDHO-YDKGJHSESA-L	CC(O[C@H]4(C(O[C@H](COP(OP(OC[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3))(=O)[O-])(=O)[O-])[C@@H](O)4)O))=O
+N-(1-deoxy-D-fructos-1-yl)-L-alanine	InChIKey=MJRIHYBPSWPPOI-MLQRGLMKSA-N	C([R])(=O)[O-]
+all-trans-octaprenyl diphosphate	InChIKey=IKKLDISSULFFQO-DJMILUHSSA-K	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/COP(=O)([O-])OP(=O)([O-])[O-]
+3-(methylsulfanyl)propanal	InChIKey=CLUWOWRTHNNBBU-UHFFFAOYSA-N	CSCCC=O
+ammonia	InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-N	N
+sirohydrochlorin	InChIKey=KWIZRXMMFRBUML-AHGFGAHVSA-F	C[C@@]1(CC(=O)[O-])(C3(\NC(/[C@@H](CCC(=O)[O-])1)=C/C2(/C(\CC(=O)[O-])=C(CCC(=O)[O-])\C(\N=2)=C\C5(\NC(/C=C4([C@@](C)(CC(=O)[O-])[C@H](CCC(=O)[O-])C(\C=3)=N4))=C(CC(=O)[O-])/C(\CCC(=O)[O-])=5))))
+formate	InChIKey=BDAGIHXWWSANSR-UHFFFAOYSA-M	C([O-])=O
+4,5-secobiotin	InChIKey=ZARFDBYKHCOTRH-UHFFFAOYSA-M	C(S)C1(C(NC(N1)=O)CCCCCC(=O)[O-])
+Triton X-100	InChIKey=JYCQQPHGFMYQCF-UHFFFAOYSA-N	CC(C)(C)CC(C)(C)C1(\C=C/C(/OCCO)=C\C=1)
+ferricyanide	InChIKey=CRWNKXHVYMVLCY-UHFFFAOYSA-N	C(#N)[Fe-3](C#N)(C#N)(C#N)(C#N)C#N
+4-amino-2-methyl-5-(phosphooxymethyl)pyrimidine	InChIKey=PKYFHKIYHBRTPI-UHFFFAOYSA-L	CC1(\N=C/C(/COP(=O)([O-])[O-])=C(N)\N=1)
+a factor		CC(C)=CCCC(\C)=C/CCC(\C)=C/CSC[C@@H](C(OC)=O)NC(=O)[C@H]([R1])N[an oligopeptide]
+3'-azido-3'-deoxythymidine	InChIKey=HBOMLICNUCNMMY-XLPZGREQSA-N	CC1(\C(=O)NC(N(\C=1)[C@H]2(C[C@H](N=[N+]=[N-])[C@@H](CO)O2))=O)
+FMN	InChIKey=ANKZYBDXHMZBDK-SCRDCRAPSA-K	CC2(\C(/C)=C/C3(/N(C[C@H](O)[C@H](O)[C@H](O)COP([O-])(=O)[O-])C1(\C(\C(=O)[N-]C(=O)/N=1)=N/C(\C=2)=3)))
+(L-glutamyl)adenylate	InChIKey=KQRQKNUGLKGTSJ-LTOLZBHSSA-M	C([R])(=O)[O-]
+beta-D-glucopyranose	InChIKey=WQZGKKKJIJFFOK-VFUOTHLCSA-N	C([C@@H]1([C@H]([C@@H]([C@H](C(O1)O)O)O)O))O
+5-(2-hydroxyethyl)-4-methylthiazole	InChIKey=BKAWJIRCKVUVED-UHFFFAOYSA-N	CC1(\N=C/SC(/CCO)=1)
+dUTP	InChIKey=AHCYMLUZIRLXAA-SHYZEUOFSA-J	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]2(O[C@@H](N1(\C=C/C(=O)NC1=O))C[C@H](O)2)
+adenosine 2'-monophosphate	InChIKey=QDFHPFSBQFLLSW-KQYNXXCUSA-L	C(O)[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](OP([O-])(=O)[O-])[C@H](O)3)
+(indol-3-yl)pyruvate	InChIKey=RSTKLPZEZYGQPY-UHFFFAOYSA-M	C([O-])(=O)C(=O)CC1(\C2(/C=C\C=C/C(/N\C=1)=2))
+(3R)-hydroxy-5-trans-dodecenoyl-CoA	InChIKey=AYORDFMYYBNSBO-GKMLISQESA-J	CCCCCC/C=C/C[C@@H](O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+hexadecanal	InChIKey=NIOYUNMRJMEDGI-UHFFFAOYSA-N	CCCCCCCCCCCCCCCC=O
+5-phospho-alpha-D-ribose 1-diphosphate	InChIKey=PQGCEDQWHSBAJP-TXICZTDVSA-I	C(OP(=O)([O-])[O-])[C@@H]1([C@@H](O)[C@@H](O)[C@H](O1)OP(OP([O-])(=O)[O-])([O-])=O)
+UDP-N-acetyl-alpha-D-glucosamine	InChIKey=LFTYTUAZOPRMMI-CFRASDGPSA-L	CC(=O)N[C@H]3([C@@H](OP(OP(OC[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O))(=O)[O-])(=O)[O-])O[C@@H]([C@H]([C@@H]3O)O)CO)
+3-all trans-hexaprenyl-4-aminobenzoate	InChIKey=ZBVQLNVIBOLJDL-LAAQXVIISA-M	C([R])(=O)[O-]
+D-threo-isocitrate	InChIKey=ODBLHEXUDAPZAU-ZAFYKAAXSA-K	C([R])(=O)[O-]
+dAMP	InChIKey=KHWCHTKSEGGWEX-RRKCRQDMSA-L	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))C[C@H](O)3)
+reduced riboflavin	InChIKey=UTKDOUCGQVLJIN-PIGZVRMJSA-N	CC3(\C=C2(C(/N(C[C@H](O)[C@H](O)[C@H](O)CO)C1(\C(C(=O)NC(=O)/N=1)N2))=C\C(/C)=3))
+(2E,4E)-tetradeca-2,4-dienoyl-CoA	InChIKey=ULOGSHZMDLRQRY-INBGBNCRSA-J	CCCCCCCCC/C=C/C=C/C(SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])=O
+(3R)-hydroxy, 6-trans-tridecenoyl-CoA	InChIKey=ADZJVTNIXNSNGU-OVQIFRBASA-J	CCCCCC/C=C/CC[C@@H](O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+ergosteryl oleate	InChIKey=VVZNLLXLOKRQPH-NZIRWOIASA-N	CCCCCCCC\C=C/CCCCCCCC(O[C@H]1(CC[C@@]2(C)(C(/C1)=C/C=C3([C@@H]2CC[C@]4(C)([C@@H]([C@@H](/C=C/[C@H](C)C(C)C)C)CC[C@@H]34)))))=O
+2-all trans-hexaprenyl-6-methoxyaminophenol	InChIKey=JTLNJQPPHCEOEJ-FRICUITQSA-N	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC1(\C(\N)=C(/C=C(\C=1)/O)\OC)
+1-oleoyl-sn-glycerol 3-phosphate	InChIKey=WRGQSWVCFNIUNZ-GDCKJWNLSA-L	C([C@@H](O)COP([O-])(=O)[O-])OC(=O)[R]
+5-fluorouridine	InChIKey=FHIDNBAQOFJWCA-UAKXSSHOSA-N	C(O)[C@@H]2([C@H]([C@H]([C@H](N1(/C=C(C(=O)NC1=O)/F))O2)O)O)
+CDP group		C(OP(OP(O)([O-])=O)(=O)[O-])[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)O)O)
+3-dehydrosphinganine	InChIKey=KBUNOSOGGAARKZ-KRWDZBQOSA-O	CCCCCCCCCCCCCCCC([C@H](CO)[NH3+])=O
+H+	InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N	[H+]
+ferulate	InChIKey=KSEBMYQBYZTDHS-HWKANZROSA-M	COC1(\C(\O)=C/C=C(/C=C/C([O-])=O)/C=1)
+4alpha-methyl-cholesta-8,14-dienol	InChIKey=OUCINTVMAVITJZ-HESBYNJASA-N	CC(CCC[C@@H](C)[C@@H]3([C@]2(CCC4(/[C@]1(CC[C@@H]([C@H]([C@@H]1CCC(/C2=CC3)=4)C)O)C))(C)))C
+3-hydroxy-heptanoyl-CoA	InChIKey=VISQBWUSDZWVMM-FPVIQYCMSA-J	CCCCC(O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+S-methyl-5-thio-alpha-D-ribose 1-phosphate	InChIKey=JTFITTQBRJDSTL-KVTDHHQDSA-L	CSC[C@H]1(O[C@H](OP([O-])(=O)[O-])[C@@H]([C@@H]1O)O)
+b-dgal-HEX-1:5|6:a		
+glycine	InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N	C([NH3+])C([O-])=O
+methanol	InChIKey=OKKJLVBELUTLKV-UHFFFAOYSA-N	CO
+b-lman-HEX-1:5|6:d		
+decylglucoside	InChIKey=JDRSMPFHFNXQRB-CMTNHCDUSA-N	CCCCCCCCCCO[C@@H]1(O[C@@H](C([C@@H](C1O)O)O)CO)
+miltefosine	InChIKey=PQLXHQMOHUQAKB-UHFFFAOYSA-N	CCCCCCCCCCCCCCCCOP(OCC[N+](C)(C)C)(=O)[O-]
+(S)-ureidoglycolate	InChIKey=NWZYYCVIOKVTII-SFOWXEAESA-M	[C@@H](O)(C([O-])=O)NC(N)=O
+methylarsonate	InChIKey=QYPPRTNMGCREIM-UHFFFAOYSA-M	C[As](=O)([O-])O
+(R)-lactic acid	InChIKey=JVTAAEKCZFNVCJ-UWTATZPHSA-N	C([R])(=O)[O-]
+AMP group		C(OP(=O)([O-])O)[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+b-dglc-HEX-1:5		
+preuroporphyrinogen	InChIKey=WDFJYRZCZIUBPR-UHFFFAOYSA-F	C(O)C4(\NC(/CC3(\NC(/CC2(\NC(/CC1(\N\C=C(CCC(=O)[O-])/C(\CC([O-])=O)=1))=C(CCC(=O)[O-])/C(\CC([O-])=O)=2))=C(CCC(=O)[O-])/C(\CC(=O)[O-])=3))=C(CCC(=O)[O-])/C(\CC(=O)[O-])=4)
+x-dglc-HEX-1:4		
+6-(hydroxymethyl)-7,8-dihydropterin	InChIKey=CQQNNQTXUGLUEV-UHFFFAOYSA-N	C(O)C1(\CNC2(/N=C(N)\NC(=O)C(/N=1)=2))
+keto-D-fructose	InChIKey=BJHIKXHVCXFQLS-UYFOZJQFSA-N	C(O)C(=O)[C@@H](O)[C@H](O)[C@H](O)CO
+selenodiglutathione	InChIKey=GJEZZQVPWMCGSB-BJDJZHNGSA-L	C(S[Se]SC[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O)[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+isothiocyanate	InChIKey=ZBKFYXZXZJPWNQ-UHFFFAOYSA-N	C(=[N-])=S
+1,2-dipalmitoyl-sn-glycero-3-phosphocholine	InChIKey=KILNVBDSWZSGLL-KXQOOQHDSA-N	C([N+](C)(C)C)COP(=O)(OC[C@H](OC([R2])=O)COC([R1])=O)[O-]
+2-chloro-cis-dienelactone	InChIKey=ADSGHWJRPOXXTD-IHWYPQMZSA-M	C1(/C(/OC(=O)C(/Cl)=1)=C/C(=O)[O-])
+5-enolpyruvoyl-shikimate 3-phosphate	InChIKey=QUTYKIXIUDQOLK-PRJMDXOYSA-J	C=C(C(=O)[O-])O[C@@H]1(CC(/C(=O)[O-])=C\[C@@H](OP(=O)([O-])[O-])[C@@H](O)1)
+2-palmitoleoyl-sn-glycero-3-phosphoethanolamine	InChIKey=MAFRHGZTIOAXEL-WHXUGTBJSA-N	CCCCCC\C=C/CCCCCCCC(=O)O[C@H](CO)COP(OCC[NH3+])([O-])=O
+aminomethylpyrimidine	InChIKey=OZOHTVFCSKFMLL-UHFFFAOYSA-O	CC1(\N=C/C(\C[NH3+])=C(N)\N=1)
+cis-aconitate	InChIKey=GTZCVFVGUGFEME-IWQZZHSRSA-K	C([R])(=O)[O-]
+(L-aspartyl)adenylate	InChIKey=QPBSGQWTJLPZNF-VWJPMABRSA-M	C([R])(=O)[O-]
+beta-D-galactose 6-phosphate	InChIKey=NBSCHQHZLSJFNQ-FPRJBGLDSA-L	C(OP([O-])([O-])=O)[C@H]1(O[C@H]([C@@H]([C@H]([C@H]1O)O)O)O)
+benzaldehyde	InChIKey=HUMNYLRZRPPJDN-UHFFFAOYSA-N	C(=O)[R]
+D-threonine	InChIKey=AYFVYJQAPQTCCC-STHAYSLISA-N	C([R])(=O)[O-]
+5-amino-4-imidazolecarboxyamide	InChIKey=PYNDTGFTPOZGRW-UHFFFAOYSA-N	C1(\N=C(C(\N=1)C(N)=O)\N)
+(R)-pantoate	InChIKey=OTOIIPJYVQJATP-BYPYZUCNSA-M	C([R])(=O)[O-]
+L-valine	InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N	CC(C)[C@H]([NH3+])C([O-])=O
+3-oxolignoceroyl-CoA	InChIKey=JJSJTIWFKNSCHC-JBKAVQFISA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+phenanthrene-ring		C2(\C=C1(\C=C/C3(\C=C/C=C\C(C1=C\C=2)=3)))
+dehydro-D-arabinono-1,4-lactone	InChIKey=ZZZCUOFIHGPKAK-UWTATZPHSA-N	C(O)[C@@H]1(C(\O)=C(C(=O)O1)\O)
+N-acetyl-beta-glucosaminylamine	InChIKey=MCGXOCXFFNKASF-FMDGEEDCSA-N	CC(=O)N[C@H]1([C@H](N)O[C@H](CO)[C@@H](O)[C@H](O)1)
+x-dara-HEX-2:5|2:keto		
+sulfamate	InChIKey=IIACRCGMVDHOTQ-UHFFFAOYSA-M	NS([O-])(=O)=O
+(S)-2-aceto-2-hydroxybutanoate	InChIKey=VUQLHQFKACOHNZ-LURJTMIESA-M	C([R])(=O)[O-]
+glyoxylate	InChIKey=HHLFWLYXYJOTON-UHFFFAOYSA-M	C(C(=O)[O-])=O
+mesaconate	InChIKey=HNEGQIOMVPPMNR-NSCUHMNNSA-L	C([R])(=O)[O-]
+precorrin-1	InChIKey=CJLVUWULFKHGFB-NZCAJUPMSA-F	C[C@]5(C1(\N=C(CC4(\NC(/CC3(\NC(/CC2(\NC(/C=1)=C(CC([O-])=O)/C(\CCC([O-])=O)=2))=C(CCC([O-])=O)/C(\CC(=O)[O-])=3))=C(CCC([O-])=O)/C(\CC([O-])=O)=4))/[C@H]5CCC(=O)[O-]))(CC([O-])=O)
+dGTP	InChIKey=HAAZLUGHYHWQIW-KVQBGUIXSA-J	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))C[C@H](O)3)
+2-arachidonoylglycerol	InChIKey=RCRCTBLIHCHWDZ-DOFZRALJSA-N	C(O)C(CO)OC(=O)[R]
+N6-acetyl-L-lysine	InChIKey=DTERQYGMUDWYAZ-ZETCQYMHSA-N	[C@@H]([NH3+])([R])C(=O)[O-]
+3-methylbutanol	InChIKey=PHTQWCKDNZKARW-UHFFFAOYSA-N	CC(CCO)C
+sphingosine 1-phosphate	InChIKey=DUYSYHSSBDVJSM-KRWOKUGFSA-M	CCCCCCCCCCCCC/C=C/[C@@H](O)[C@@H]([NH3+])COP([O-])(=O)[O-]
+C20 sphinganine	InChIKey=UFMHYBVQZSPWSS-VQTJNVASSA-O	CCCCCCCCCCCCCCCCC[C@@H](O)[C@@H]([NH3+])CO
+(S)-2-aminobutanoate	InChIKey=QWCKQJZIFLGMSD-VKHMYHEASA-N	C([R])(=O)[O-]
+(indol-3-yl)acetamide	InChIKey=ZOAMBXDOGPRZLP-UHFFFAOYSA-N	C(N)(=O)CC1(\C2(/C=C\C=C/C(/N\C=1)=2))
+4'-phosphopantetheine	InChIKey=JDMUPRLRUUMCTL-VIFPVBQESA-L	CC([C@@H](O)C(=O)NCCC(NCCS)=O)(C)COP([O-])(=O)[O-]
+iron(III)-biliverdine-IX alpha	InChIKey=IWNXUEJVORLSHL-UHFFFAOYSA-J	C=CC7(\C5(\N([Fe]24([N+]1(/C(\C(/C)=C(C=C)/C(/O)=1)=C\C3(\C(/C)=C(CCC(=O)[O-])/C(/[N+]\2=3)=C/C6(/N4C(/C=5)=C(C)/C(\CCC(=O)[O-])=6)))))C(C(/C)=7)=O))
+1-piperideine 6-carboxylate	InChIKey=CSDPVAKVEWETFG-YFKPBYRVSA-M	C([C@@H]1(CCC\C=N/1))([O-])=O
+O-phospho-L-homoserine	InChIKey=FXDNYOANAXWZHG-VKHMYHEASA-L	C([R])(=O)[O-]
+2-methylbutanal	InChIKey=BYGQBDHUGHBGMD-UHFFFAOYSA-N	CCC(C)C=O
+orotidine 5'-phosphate	InChIKey=KYOBSHFOBAOFBF-XVFCMESISA-K	C(OP(=O)([O-])[O-])[C@H]1(O[C@H]([C@H](O)[C@H](O)1)N2(C(/C(=O)[O-])=C/C(=O)NC(=O)2))
+succinate semialdehyde	InChIKey=UIUJIQZEACWQSV-UHFFFAOYSA-M	C(C=O)CC(=O)[O-]
+(R)-4'-phosphopantothenoyl-L-cysteine	InChIKey=XQYALQVLCNHCFT-CBAPKCEASA-K	CC(C)(COP(=O)([O-])[O-])[C@@H](O)C(=O)NCCC(=O)N[C@@H](CS)C(=O)[O-]
+a-dido-HEX-1:5|6:a		
+Mg2+	InChIKey=JLVVSXFLKOJNIY-UHFFFAOYSA-N	[Mg+2]
+3-phenylpropionitrile	InChIKey=ACRWYXSKEHUQDB-UHFFFAOYSA-N	C(#N)CCC1(\C=C/C=C\C=1)
+4-hydroxy-5-methyl-2-methylene-3(2H)-furanone	InChIKey=NPMQEIOINVDLMV-UHFFFAOYSA-N	C=C1(C(=O)C(/O)=C(C)\O1)
+dimethylarsino-glutathione	InChIKey=JGDXFQORBMPJGR-YUMQZZPRSA-M	C(NC([C@@H](NC(=O)CC[C@H]([NH3+])C([O-])=O)CS[As](C)C)=O)C([O-])=O
+4-aminobenzoate	InChIKey=ALYNCZNDIQEVRV-UHFFFAOYSA-M	C(=O)([O-])C1(\C=C/C(/N)=C\C=1)
+3-dehydro-4-methylzymosterol	InChIKey=DBPZYKHQDWKORQ-SINUOACOSA-N	CC(C)=CCC[C@@H](C)[C@H]2(CC[C@H]3(C4(\CC[C@H]1([C@H](C)C(=O)CC[C@@](C)1C(\CC[C@](C)23)=4))))
+1-oleoyl-sn-glycerol	InChIKey=RZRNAYUHWVFMIP-QJRAZLAKSA-N	CCCCCCCC\C=C/CCCCCCCC(=O)OC[C@H](CO)O
+lathosterone	InChIKey=FLRPNSKUGCVRRB-IINKENNYSA-N	CC(C)CCC[C@H]([C@@H]4([C@]1(C)([C@H](C2([C@H](CC1)[C@]3(C)([C@@H](CC=2)CC(=O)CC3)))CC4)))C
+N-(1-deoxy-D-fructos-1-yl)-L-valine	InChIKey=JEQHVKBNRPNQDY-UTINFBMNSA-N	C([R])(=O)[O-]
+crystal violet	InChIKey=LGLFFNDHMLKUMI-UHFFFAOYSA-N	C[N+](C)=C1(\C=C/C(\C=C/1)=C(C2(\C=C/C(/N(C)C)=C\C=2))C3(\C=C/C(/N(C)C)=C\C=3))
+8-oxo-GTP	InChIKey=JCHLKIQZUXYLPW-UMMCILCDSA-J	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(NC(=O)1)=2)))[C@H](O)[C@H](O)3)
+(R)-N-formyl-beta-hydroxy-L-kynurenine	InChIKey=GADDUKLGJYJXSL-WCBMZHEXSA-N	C(=O)NC1(/C=C\C=C/C(/C(=O)[C@H](O)[C@H]([NH3+])C(=O)[O-])=1)
+cycloleucine	InChIKey=NILQLFBWTXNUOE-UHFFFAOYSA-N	C([R])(=O)[O-]
+(R)-4'-phosphopantothenate	InChIKey=XHFVGHPGDLDEQO-ZETCQYMHSA-K	CC([C@H](C(=O)NCCC(=O)[O-])O)(COP([O-])([O-])=O)C
+phenylglyoxal	InChIKey=OJUGVDODNPJEEC-UHFFFAOYSA-N	C(=O)C(=O)C1(\C=C/C=C\C=1)
+5'-deoxyadenosine	InChIKey=XGYIMTFOTBMPFP-KQYNXXCUSA-N	C[C@H]3(O[C@@H](N1(C2(\N=C/N=C(C(\N=C/1)=2)/N)))[C@H](O)[C@H](O)3)
+beta-nicotinate D-ribonucleotide	InChIKey=JOUIQRNQJGXQDC-ZYUZMQFOSA-L	C(OP(=O)([O-])[O-])[C@@H]2([C@@H](O)[C@@H](O)[C@H]([N+]1(\C=C/C=C(/C=1)/C(=O)[O-]))O2)
+GLYCO-CT-N-ACETYL		
+x-HEP-1:5		
+shikimate	InChIKey=JXOHGGNKMLTUBP-HSUXUTPPSA-M	C([R])(=O)[O-]
+isoguanine	InChIKey=DRAVOWXCEBXPTN-UHFFFAOYSA-N	C1(\NC2(NC(/N=C(C(\N=1)=2)/N)=O))
+o-dgal-HEX-0:0|1:aldi		
+alpha-D-glucuronate	InChIKey=AEMOLEFTQBMNLQ-WAXACMCWSA-M	C([R])(=O)[O-]
+quinoxaline-2-carboxyl adenylate	InChIKey=VMJWEICPCDRXQL-SCFUHWHPSA-M	C([C@@H]3([C@H]([C@H]([C@H](N1(C2(\N=C/N=C(C(\N=C/1)=2)/N)))O3)O)O))OP(OC(=O)C4(\C=N/C5(\C(\N=4)=C/C=C\C=5)))([O-])=O
+x-dglc-HEX-x:x		
+monomethylarsino-diglutathione	InChIKey=PFYKVCFNANBHRF-CYDGBPFRSA-L	C(NC([C@@H](NC(=O)CC[C@H]([NH3+])C([O-])=O)CS[As](SC[C@H](NC(=O)CC[C@H]([NH3+])C([O-])=O)C(NCC([O-])=O)=O)C)=O)C([O-])=O
+S-adenosyl 3-(methylsulfanyl)propylamine	InChIKey=ZUNBITIXDCPNSD-LSRJEVITSA-O	C[S+](CCC[NH3+])C[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+Fe3+	InChIKey=VTLYFUHAOXGGBS-UHFFFAOYSA-N	[Fe+3]
+5-formamido-1-(5-phospho-D-ribosyl)-imidazole-4-carboxamide	InChIKey=ABCOOORLYAOBOZ-KQYNXXCUSA-L	C(OP(=O)([O-])[O-])[C@H]2(O[C@@H](N1(C(/NC=O)=C(C(=O)N)/N=C\1))[C@H](O)[C@H](O)2)
+uridine 2'3'-cyclic monophosphate	InChIKey=HWDMHJDYMFRXOX-XVFCMESISA-M	C(O)[C@H]2(O[C@@H](N1(\C=C/C(=O)NC1=O))[C@@H]3(OP(=O)([O-])O[C@H]23))
+4-coumarate	InChIKey=NGSWKAQJJWESNS-ZZXKWVIFSA-M	C([R])(=O)[O-]
+dGDP	InChIKey=CIKGWCTVFSRMJU-KVQBGUIXSA-K	C(OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))C[C@H](O)3)
+5-amino-6-(D-ribitylamino)uracil	InChIKey=XKQZIXVJVUPORE-RPDRRWSUSA-N	C(NC1(NC(NC(=O)C(N)=1)=O))[C@H](O)[C@H](O)[C@H](O)CO
+(2E,5E)-dodeca-2,5-dienoyl-CoA	InChIKey=ZSJRXHRCABOSNC-UOVVPLBNSA-J	CCCCCC/C=C/C/C=C/C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+S-adenosyl-L-methionine	InChIKey=MEFKEPWMEQBLKI-FCKMPRQPSA-O	C[S+](C[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3))CC[C@@H](C(=O)[O-])[NH3+]
+3-all trans-hexaprenyl-4-amino-5-hydroxybenzoate	InChIKey=RDJHHAKRFMKPKL-IRVXXIIISA-M	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC1(\C(\N)=C(/C=C(\C=1)/C(=O)[O-])\O)
+lathosterol	InChIKey=IZVFFXVYBHFIHY-SKCNUYALSA-N	CC(C)CCC[C@H]([C@@H]4([C@]1(C)([C@H](C2([C@H](CC1)[C@]3(C)([C@@H](CC=2)C[C@@H](O)CC3)))CC4)))C
+N-(1-deoxy-D-fructos-1-yl)-L-asparagine	InChIKey=SPIROCFTONGMLA-WGDRPHDWSA-N	C([R])(=O)[O-]
+ferroheme i	InChIKey=DUDFUCVGSNDDBK-PRYGPKJJSA-J	C=CC4(\C6(/C=C8(C(/C)=C(CCC(=O)[O-])/C1(/N([Fe-2]35([N+]2(\C(/C(/CO)=C(CCC(=O)[O-])\C(/C=1)=2)=C/C7(/N3C(\C=C(C(/C)=4)/[N+]\5=6)=C(C(/C)=7)/[C@@H](O)CC/C=C(C)/CC/C=C(C)/CCC=C(C)C))))8))))
+butan-1-ol	InChIKey=LRHPLDYGYMQRHN-UHFFFAOYSA-N	CCCCO
+thiamine phosphate	InChIKey=HZSAJDVWZRBGIF-UHFFFAOYSA-M	CC2(\[N+](/CC1(\C(\N)=N/C(\C)=N\C=1))=C/SC(/CCOP([O-])(=O)[O-])=2)
+leukotriene A4	InChIKey=UFPQIRYSPUYQHK-XWYPZHSRSA-M	C([R])(=O)[O-]
+anthranilate	InChIKey=RWZYAGGXGHYGMB-UHFFFAOYSA-M	C([R])(=O)[O-]
+dehydroascorbate (bicyclic form)	InChIKey=QPPOKIPSRPKDEM-VPGXFDHMSA-N	C2(=O)(O[C@H]1([C@](O)(OC[C@H](O)1)C(O)(O)2))
+NADPH	InChIKey=ACFIXJIJDZMPPO-NNYOXOHSSA-J	C1(\N(/C=C(C\C=1)/C(=O)N)[C@@H]2(O[C@@H]([C@H]([C@H]2O)O)COP(OP(OC[C@H]5(O[C@@H](N3(C4(\C(\N=C/3)=C(N)/N=C\N=4)))[C@H](OP([O-])(=O)[O-])[C@H](O)5))(=O)[O-])(=O)[O-]))
+(L-asparaginyl)adenylate	InChIKey=BZHVCXQAFQWXPZ-VWJPMABRSA-N	C([R])(=O)[O-]
+dihydrofurano derivative	InChIKey=FUIDCBUVLDEBJL-UHFFFAOYSA-N	CC(O)(C)CCC3(/C(/O)=C2(C(/O\C=C(C1(\C(\O)=C/C(/O)=C\C=1))/C(=O)2)=C\C(\OC)=3))
+L-cystine	InChIKey=LEVWYRKDKASIDU-IMJSIDKUSA-N	C([R])(=O)[O-]
+2-amino-2-deoxy-D-gluconate	InChIKey=UFYKDFXCZBTLOO-TXICZTDVSA-N	C([R])(=O)[O-]
+beta-sitosterol 3-O-beta-D-glucoside	InChIKey=NPJICTMALKLTFW-OFUAXYCQSA-N	CC[C@@H](C(C)C)CC[C@@H](C)[C@H]4(CC[C@H]5([C@@H]3(C\C=C2(C[C@@H](O[C@@H]1(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)1))CC[C@@](C)2[C@H]3CC[C@](C)45))))
+acetate	InChIKey=QTBSBXVTEAMEQO-UHFFFAOYSA-M	C([R])(=O)[O-]
+dityrosine	InChIKey=OQALFHMKVSJFRR-UHFFFAOYSA-L	C2(\C(/CC(N)C(=O)[O-])=C/C(/C1(\C=C(CC(N)C(=O)[O-])/C=C\C(\O)=1))=C(\C=2)/O)
+3-deoxy-D-glycero-alpha-D-galacto-nonulosonate	InChIKey=CLRLHXKNIYJWAW-LSRLBZCKSA-M	C([R])(=O)[O-]
+3-chloro-1-phenyl-1-propanone	InChIKey=KTJRGPZVSKWRTJ-UHFFFAOYSA-N	C(Cl)CC(=O)C1(\C=C/C=C\C=1)
+b-dman-OCT-2:6|1:a|2:keto|3:d		
+(3R)-3-hydroxy-arachidoyl-CoA	InChIKey=KNSVYMFEJLUJST-AFMYZWIISA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+3-methyladenine	InChIKey=FSASIHFSFGAIJM-UHFFFAOYSA-N	CN2(C1(\C(\N=C/N=1)=C(N)/N=C\2))
+(5E)-3-oxo-dodec-5-enoyl-CoA	InChIKey=VKLHSLOWDWGVGP-WOABMHMMSA-J	CCCCCC/C=C/CC(=O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+oleoyl-CoA	InChIKey=XDUHQPOXLUAVEE-BPMMELMSSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+arsenic triglutathione	InChIKey=UXNWJLSRLNSHSI-QQCJEOGWSA-K	C(NC([C@@H](NC(=O)CC[C@H]([NH3+])C([O-])=O)CS[As](SC[C@H](NC(=O)CC[C@H]([NH3+])C(=O)[O-])C(NCC([O-])=O)=O)SC[C@H](NC(=O)CC[C@H]([NH3+])C(=O)[O-])C(NCC([O-])=O)=O)=O)C([O-])=O
+ethyl caproate	InChIKey=SHZIWNPUGXLXDT-UHFFFAOYSA-N	CCCCCC(=O)OCC
+3-oxopalmitoyl-CoA	InChIKey=NQMPLXPCRJOSHL-BBECNAHFSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+a-dgal-HEX-1:5|6:a		
+4alpha-carboxy-4beta-methyl-5alpha-cholesta-8,24-dien-3beta-ol	InChIKey=MYWAIWDQTCHPTH-LJAIZBFVSA-M	CC(C)=CCC[C@@H](C)[C@H]2(CC[C@H]3(C4(\CC[C@H]1([C@@](C([O-])=O)(C)[C@@H](O)CC[C@@](C)1C(\CC[C@](C)23)=4))))
+superoxide	InChIKey=OUUQCZGPVNCOIJ-UHFFFAOYSA-M	[O-]O
+b-xglc-HEX-1:5|6:a		
+5-methyltetrahydropteroyl tri-L-glutamate	InChIKey=HVRNKDVLFAVCJF-VJANTYMQSA-J	CN1([C@H](CNC2(/N=C(N)\NC(C\1=2)=O))CNC3(\C=C/C(/C(N[C@H](C(=O)[O-])CCC([R])=O)=O)=C\C=3))
+pyrazine-2-carboxylate	InChIKey=NIPZZXUFJPQHNH-UHFFFAOYSA-M	C1(\N=C/C=N\C(/C([O-])=O)=1)
+a holo citrate-lyase		CC(C)(COP([O-])(=O)OP([O-])(=O)OC[C@@H]2([C@@H](O)[C@@H](O[C@@H]1([C@H](O)[C@H](O)[C@@H](COP(=O)([O-])OC[C@H](N[a [citrate-lyase]])C(=O)[a [citrate-lyase]])O1))[C@@H](O2)N3(\C=N/C4(C(/N)=N\C=N/C3=4))))[C@@H](O)C(=O)NCCC(=O)NCCS
+histidinal	InChIKey=VYOIELONWKIZJS-YFKPBYRVSA-O	C1(\N\C=N/C(\C[C@@H](C=O)[NH3+])=1)
+4-nitrobenzaldehyde	InChIKey=BXRFQSNOROATLV-UHFFFAOYSA-N	C(=O)[R]
+methylglyoxalbis(guanylhydrazone)	InChIKey=MXWHMTNPTTVWDM-UHFFFAOYSA-P	CC(/C=N/NC(N)=[NH2+])=N\NC(N)=[NH2+]
+3-hydroxy-5-methylbenzaldehyde	InChIKey=BTLHCFVCIGAAPF-UHFFFAOYSA-N	C(=O)[R]
+2-aminoprop-2-enoate	InChIKey=UQBOJOOOTLPNST-UHFFFAOYSA-N	C=C([NH3+])C(=O)[O-]
+L-cysteate	InChIKey=XVOYSCVBGLVSOL-REOHCLBHSA-M	C([C@H]([NH3+])C(=O)[O-])S(=O)(=O)[O-]
+4-nitrophenyl-beta-D-glucopyranoside	InChIKey=IFBHRQDFSNCLOZ-RMPHRYRLSA-N	C1(\C(\[N+]([O-])=O)=C/C=C(\C=1)/O[C@H]2([C@@H]([C@H]([C@@H]([C@@H](CO)O2)O)O)O))
+4alpha-hydroxymethyl-5alpha-cholesta-8,24-dien-3beta-ol	InChIKey=ORZKEIGPXNMCHC-NUESBDPTSA-N	CC(C)=CCC[C@@H](C)[C@H]2(CC[C@H]3(C4(\CC[C@H]1([C@H](CO)[C@@H](O)CC[C@@](C)1C(\CC[C@](C)23)=4))))
+(2E,4Z)-undeca-2,4-dienoyl-CoA	InChIKey=SZKPLUULGGERFD-NFPSBOAPSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+a linoleate group		CCCCC\C=C/C\C=C/CCCCCCCC=O
+bisoleoyl phosphatidate	InChIKey=MHUWZNTUIIFHAS-DSSVUWSHSA-L	C(OC([R1])=O)[C@@H](OC(=O)[R2])COP([O-])(=O)[O-]
+(2Z,4Z)-2-chloro-3-hydroxyhexa-2,4-dienedioate	InChIKey=KHWHQPFTGLTZEN-NWJCXACMSA-L	C(=O)([O-])\C=C/C(/O)=C(C(=O)[O-])/Cl
+dTDP group		CC1(\C(=O)NC(=O)N(\C=1)[C@H]2(C[C@H](O)[C@@H](COP(=O)([O-])OP(=O)([O-])O)O2))
+3'-phosphoadenylyl-sulfate	InChIKey=GACDQMDRPRGCTN-KQYNXXCUSA-J	C(OP(=O)([O-])OS(=O)([O-])=O)[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](OP([O-])(=O)[O-])3)
+ITP	InChIKey=HAEJPQIATWHALX-KQYNXXCUSA-J	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C/NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+S-(hydroxysulfenamide)glutathione	InChIKey=ZOIIDZWLSVVTGQ-WDSKDSINSA-M	C(S[R])[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+3-dehydroshikimate	InChIKey=SLWWJZMPHJJOPH-PHDIDXHHSA-M	C([O-])(=O)C1(\C[C@@H](O)[C@H](O)C(=O)/C=1)
+a-dgal-HEX-1:4		
+L-methionine-(S)-S-oxide	InChIKey=QEFRNWWLZKMPFJ-MFXDVPHUSA-N	C([R])(=O)[O-]
+aureobasidin A	InChIKey=RLMLFADXHJLPSQ-MJQYLNDYSA-N	CC[C@H](C)[C@@H]2(NC(=O)[C@@H]4(CCCN(C(=O)[C@@H](N(C)C([C@H](CC1(\C=C/C=C\C=1))NC(=O)[C@@H](N(C)C(=O)[C@@H](C(CC)C)OC(=O)[C@H](C(O)(C)C)N(C)C(=O)[C@H](CC(C)C)NC([C@H](C(C)C)N(C)C(=O)2)=O)C(C)C)=O)CC3(\C=C/C=C\C=3))4))
+a [1-Cys peroxiredoxin]-(S-hydroxy-S-oxocysteine)		C(=O)([a peroxiredoxin])[C@H](CS(=O)O)N[a peroxiredoxin]
+dehydroascorbate	InChIKey=OESHPIGALOBJLM-UHFFFAOYSA-N	C(O)C(O)[C-]1(C(=O)C(=O)C(=O)O1)
+adenine	InChIKey=GFFGJBXGBJISGV-UHFFFAOYSA-N	C2(N)(\N=C/N=C1(C(/N=C\N1)=2))
+a-lara-PEN-1:4		
+ribose 1,3-cyclic phosphate	InChIKey=ONTWKCPWRKFYOT-SOOFDHNKSA-M	C(O)[C@@H]1([C@H]2(OP(=O)([O-])OC(O1)[C@H](O)2))
+b-lara-PEN-1:4		
+3-hydroxy-cis,cis-muconate	InChIKey=DLKZGMNZEDNHKO-BXTBVDPRSA-L	C(\C(\O)=C/C(=O)[O-])=C\C(=O)[O-]
+glycerophosphoglycerol	InChIKey=LLCSXHMJULHSJN-UHFFFAOYSA-M	C(C(COP(OCC(CO)O)([O-])=O)O)O
+thiamine	InChIKey=JZRWCGZRTZMZEH-UHFFFAOYSA-N	CC2(\[N+](/CC1(\C(\N)=N/C(\C)=N\C=1))=C/SC(/CCO)=2)
+4-methyl-5-(2-phosphooxyethyl)thiazole	InChIKey=OCYMERZCMYJQQO-UHFFFAOYSA-L	CC1(\N=C/SC(/CCOP([O-])(=O)[O-])=1)
+L-cysteinylglycine	InChIKey=ZUKPVRWZDMRIEO-VKHMYHEASA-N	C(C([O-])=O)NC([C@H](CS)[NH3+])=O
+1-(5'-phospho-beta-D-ribofuranosyl)barbiturate	InChIKey=AODYJUNLDJOADV-YHSFNTFWSA-L	C(OP(=O)([O-])[O-])[C@H]2([C@@H]([C@H]([C@H](N1(C(=O)NC(=O)CC(=O)1))O2)O)O)
+2-amino-3-carboxymuconate-6-semialdehyde	InChIKey=KACPVQQHDVBVFC-PMRVSPHWSA-M	C(=O)([O-])C(\C=C\C=O)=C(C([O-])=O)/[NH3+]
+2-deoxy-D-glucono-1,5-lactone	InChIKey=DBXNZGWNBVNDSO-KODRXGBYSA-N	C(O)[C@H]1(OC(C[C@H]([C@@H]1O)O)=O)
+3-oxocerotoyl-CoA	InChIKey=VOMUIFOBQMYJPJ-CPIGOPAHSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+myo-inositol	InChIKey=CDAISMWEOUEBRE-GPIVLXJGSA-N	[C@H]1([C@@H]([C@H]([C@@H]([C@H]([C@H]1O)O)O)O)O)O
+2-oxoglutarate	InChIKey=KPGXRSRHYNQIFN-UHFFFAOYSA-L	C(CC([O-])=O)C(=O)C([O-])=O
+laurate	InChIKey=POULHZVOKOAJMA-UHFFFAOYSA-M	C([R])(=O)[O-]
+2-hydroxy-dATP	InChIKey=UOACBPRDWRDEHJ-KVQBGUIXSA-J	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(/N=C(/N=C(C(\N=C/1)=2)/N)/O)))C[C@H](O)3)
+GLYCO-CT-PYR		
+N-(2,3-dihydroxybenzoyl)-L-serine trimer	InChIKey=NTWRWGRCGVKQNS-BZSNNMDCSA-M	C1(\C=C(C(\O)=C(\C=1)\C(=O)N[C@@H](CO)C(OC[C@H](NC(=O)C2(/C=C\C=C(C(\O)=2)\O))C(OC[C@H](NC(=O)C3(/C=C\C=C(C(\O)=3)\O))C([O-])=O)=O)=O)\O)
+5,5'-dithio-bis-2-nitrobenzoate	InChIKey=KIUMMUBSPKGMOY-UHFFFAOYSA-L	C2(/C=C(C(/C(=O)[O-])=C\C(\SSC1(\C=C(C(/[N+]([O-])=O)=C\C=1)\C(=O)[O-]))=2)/[N+]([O-])=O)
+3-oxooctadecanoyl-CoA	InChIKey=LGOGWHDPDVAUNY-LFZQUHGESA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+D-gluconate 6-phosphate	InChIKey=BIRSGZKFKXLSJQ-SQOUGZDYSA-K	C([C@H]([C@H]([C@@H]([C@H](C([O-])=O)O)O)O)O)OP([O-])([O-])=O
+norfuraneol	InChIKey=DLVYTANECMRFGX-UHFFFAOYSA-N	CC1(/OCC(=O)C(/O)=1)
+1D-myo-inositol 3-monophosphate	InChIKey=INAPMGSXUVUWAF-PTQMNWPWSA-L	[C@H]1(O)([C@@H](O)[C@H](O)[C@@H](OP(=O)([O-])[O-])[C@@H](O)[C@@H](O)1)
+1-palmitoylglycerone 3-phosphate	InChIKey=MLWXSIMRTQAWHY-UHFFFAOYSA-L	CCCCCCCCCCCCCCCC(OCC(COP([O-])([O-])=O)=O)=O
+p-cumic aldehyde	InChIKey=WTWBUQJHJGUZCY-UHFFFAOYSA-N	C(=O)[R]
+pyridoxine	InChIKey=LXNHXLLTXMVWPM-UHFFFAOYSA-N	CC1(\C(\O)=C(C(/CO)=C\N=1)\CO)
+4-isopropylbenzyl alcohol	InChIKey=OIGWAXDAPKFNCQ-UHFFFAOYSA-N	CC(C1(\C=C/C(/CO)=C\C=1))C
+[non-ribosomal peptide synthase] group		CC(C)(COP(=O)([O-])OC[C@H](N[a non-ribosomal peptide synthase])C(=O)[a non-ribosomal peptide synthase])[C@@H](O)C(=O)NCCC(=O)NCCS
+2-iminobutanoate	InChIKey=WRBRCYPPGUCRHW-UHFFFAOYSA-N	CCC(C(=O)[O-])=[NH2+]
+N7-methylguanosine 5'-diphosphate	InChIKey=SBASPRRECYVBRF-KQYNXXCUSA-L	C[N+]1(\C3(C(=O)NC(/N)=N/C(N(\C=1)[C@@H]2(O[C@H](COP(=O)([O-])OP(=O)([O-])[O-])[C@@H](O)[C@@H](O)2))=3))
+1-chloro-2,4-dinitrobenzene	InChIKey=VYZAHLCBVHPDDF-UHFFFAOYSA-N	C1(/C=C(C(/[N+]([O-])=O)=C\C(\[N+]([O-])=O)=1)/Cl)
+(S)-lactaldehyde	InChIKey=BSABBBMNWQWLLU-VKHMYHEASA-N	C[C@@H](C=O)O
+4alpha-methyl ergosta-8,14,25(27)-trienol	InChIKey=XMACHBCVXCCTCF-BKFTWGLRSA-N	C=C(C)[C@@H](C)CC[C@@H](C)[C@H]2(CC=C3(C4(\CC[C@H]1([C@H](C)[C@@H](O)CC[C@@](C)1C(\CC[C@](C)23)=4))))
+3-deoxy-D-glycero-beta-D-galacto-nonulosonate	InChIKey=CLRLHXKNIYJWAW-YOQZMRDMSA-M	C([R])(=O)[O-]
+(4-hydroxyphenyl)acetaldehyde	InChIKey=IPRPPFIAVHPVJH-UHFFFAOYSA-N	C(=O)CC1(\C=C/C(/O)=C\C=1)
+isobutanal	InChIKey=AMIMRNSIRUDHCM-UHFFFAOYSA-N	C(=O)[R]
+alpha-D-quinovopyranose	InChIKey=SHZGCJCMOBCMKK-DVKNGEFBSA-N	C(=O)[R]
+UDP-alpha-D-galactose	InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L	C(O)[C@@H]1([C@H](O)[C@H](O)[C@@H](O)[C@H](O1)OP(OP(OC[C@@H]3([C@H]([C@H]([C@H](N2(\C=C/C(=O)NC2=O))O3)O)O))(=O)[O-])(=O)[O-])
+two adjacent 2'-deoxycytidines in DNA		C1(\N(C(=O)/N=C(\C=1)/N)[C@@H]4(O[C@H](COP(O[C@H]3(C[C@H](N2(C(=O)/N=C(\C=C/2)/N))O[C@H](COP(=O)([O-])O[a deoxyribonucleic acid])3))([O-])=O)[C@@H](OP([O-])(O[a deoxyribonucleic acid])=O)C4))
+beta-D-idopyranuronate	InChIKey=AEMOLEFTQBMNLQ-LVBGKUAWSA-M	C([R])(=O)[O-]
+episterol	InChIKey=BTCAEOLDEYPGGE-JVAZTMFWSA-N	CC(C)C(CC[C@@H](C)[C@H]3(CC[C@H]4(C1([C@@H]([C@]2(CC[C@H](O)C[C@H](CC=1)2)(C))CC[C@](C)34))))=C
+sphinganine	InChIKey=OTKJDMGTUTTYMP-ZWKOTPCHSA-O	CCCCCCCCCCCCCCC[C@H]([C@H](CO)[NH3+])O
+N-(1-phenylpropan-2-yl)hydroxylamine	InChIKey=LPZRPPBVFGJUOJ-UHFFFAOYSA-N	CC(CC1(\C=C/C=C\C=1))NO
+trans-docos-2-enoyl-CoA	InChIKey=KRTIFNFQCJTGMV-DYAVHEMFSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+ferrichrome	InChIKey=GGUNGDGGXMHBMJ-OCIDDWSYSA-N	CC1(N3(CCC[C@H]4(C(=O)NCC(=O)NCC(=O)NCC(=O)N[C@H]5(CCCN2(O[Fe-3]6([O+]=1)([O+]=C(C)2)(O3)([O+]=C(C)N(CCC[C@@H](C(=O)N4)NC(=O)5)O6))))))
+adenosine 5'-phosphosulfate	InChIKey=IRLPACMLTUPBCL-KQYNXXCUSA-L	C(OP([O-])(OS(=O)([O-])=O)=O)[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+guanosine	InChIKey=NYHBQMYGNKIUIF-UUOKFMHZSA-N	C(O)[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+alpha-D-arabinofuranose	InChIKey=HMFHBZSHGGEWLO-MBMOQRBOSA-N	C(O)[C@@H]1([C@@H](O)[C@H](O)C(O)O1)
+b-dman-HEX-1:5|6:a		
+dolichol-group		CC[C@@H](C)CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC\C=C(C)/CC/C=C(C)/CC/C=C(C)/CCC=C(C)C
+5-phospho-beta-D-ribosylamine	InChIKey=SKCBPEVYGOQGJN-TXICZTDVSA-M	C(OP([O-])(=O)[O-])[C@@H]1([C@@H](O)[C@@H](O)[C@H]([NH3+])O1)
+NAD+	InChIKey=BAWFJGJZGIEFAR-NNYOXOHSSA-M	C5(/C(/C(N)=O)=C\C=C/[N+](/[C@@H]4(O[C@H](COP(OP(OC[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3))(=O)[O-])(=O)[O-])[C@@H](O)[C@@H](O)4))=5)
+9-cis, 11-trans-octadecadienoyl-CoA	InChIKey=AHZCZESKRQDJSS-CQBJTUNBSA-J	CCCCCC/C=C/C=C\CCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+beta-D-galactofuranose	InChIKey=AVVWPBAENSWJCB-DGPNFKTASA-N	C(=O)[R]
+beta-L-ribulofuranose	InChIKey=LQXVFWRQNMEDEE-YUPRTTJUSA-N	C(O)[C@@]1(O)([C@@H](O)[C@@H](O)CO1)
+arachidonoyl-CoA	InChIKey=JDEPVTUUCBFJIW-YQVDHACTSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+sn-glycero-3-phosphocholine	InChIKey=SUHOQUVVVLNYQR-MRVPVSSYSA-N	C([N+](C)(C)C)COP([O-])(=O)OC[C@H](O)CO
+a-HEP-1:5		
+a-dman-HEX-1:5|6:d		
+D-myo-inositol 1,3,4,5,6-pentakisphosphate	InChIKey=CTPQAXVNYGZUAJ-KXXVROSKSA-D	[C@@H]1(O)([C@@H](OP([O-])([O-])=O)[C@H](OP([O-])(=O)[O-])[C@@H](OP([O-])(=O)[O-])[C@H](OP(=O)([O-])[O-])[C@@H](OP(=O)([O-])[O-])1)
+cacodylate	InChIKey=OGGXGZAMXPVRFZ-UHFFFAOYSA-M	C[As](C)(=O)[O-]
+lanosteryl oleate	InChIKey=DKYFEOWQCCNWLB-GYZZQDEESA-N	CCCCCCCC\C=C/CCCCCCCC(=O)O[C@H]4(CC[C@@]1(C)([C@@H](CCC2(/[C@]3(C)(CC[C@H]([C@@H](CCC=C(C)C)C)[C@@](C)(CCC\1=2)3)))C(C)(C)4))
+2,5-diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one	InChIKey=ACIVVGBVOVHFPQ-RPDRRWSUSA-L	C(NC1(/N=C(N)\NC(=O)C(/N)=1))[C@H](O)[C@H](O)[C@H](O)COP([O-])(=O)[O-]
+benzyl benzoate	InChIKey=SESFRYSPDFLNCH-UHFFFAOYSA-N	C(C1(\C=C/C=C\C=1))(=O)OCC2(\C=C/C=C\C=2)
+leukotriene B4	InChIKey=VNYSSYRCGWBHLG-AMOLWHMGSA-M	C([R])(=O)[O-]
+2-oxovalerate	InChIKey=KDVFRMMRZOCFLS-UHFFFAOYSA-M	C([R])(=O)[O-]
+N-(1-deoxy-D-fructos-1-yl)-L-leucine	InChIKey=BUGJJLOUCDBMAS-AYHFEMFVSA-N	C([R])(=O)[O-]
+trifluoromethionine	InChIKey=YLJLTSVBCXYTQK-VKHMYHEASA-N	C([R])(=O)[O-]
+3-methylbutanal	InChIKey=YGHRJJRRZDOVPD-UHFFFAOYSA-N	CC(C)CC=O
+beta-L-galactopyranose	InChIKey=WQZGKKKJIJFFOK-KGJVWPDLSA-N	C(=O)[R]
+beta-D-galactopyranose	InChIKey=WQZGKKKJIJFFOK-FPRJBGLDSA-N	C(O)[C@H]1(O[C@@H](O)[C@H](O)[C@@H](O)[C@@H](O)1)
+dTTP	InChIKey=NHVNXKFIZYSCEB-XLPZGREQSA-J	CC1(\C(=O)NC(=O)N(\C=1)[C@H]2(C[C@H](O)[C@@H](COP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])O2))
+1D-myo-inositol 1-diphosphate 2,3,4,5,6-pentakisphosphate	InChIKey=UPHPWXPNZIOZJL-UOTPTPDRSA-A	[C@H]1(OP(=O)([O-])[O-])([C@H](OP([O-])(=O)[O-])[C@@H](OP([O-])(=O)[O-])[C@H](OP(OP([O-])(=O)[O-])([O-])=O)[C@H](OP([O-])([O-])=O)[C@H](OP(=O)([O-])[O-])1)
+dUDP	InChIKey=QHWZTVCCBMIIKE-SHYZEUOFSA-K	C(OP(=O)([O-])OP(=O)([O-])[O-])[C@H]2(O[C@@H](N1(\C=C/C(=O)NC1=O))C[C@H](O)2)
+4,4-dimethyl-5-alpha-cholesta-8,14-dien-3-beta-ol	InChIKey=OGQJUYXFIOFTMA-PBJLWWPKSA-N	CC(C)CCC[C@H]([C@@H]4([C@]1(C)(C(C2(\CC[C@@H]3([C@@](C)(C(\CC1)=2)CC[C@H](O)C(C)(C)3)))=CC4)))C
+(S)-malate	InChIKey=BJEPYKJPYRNKOW-REOHCLBHSA-L	C([R])(=O)[O-]
+cefoperazone	InChIKey=GCFBRXLSHGKWDP-XCGNWRKASA-N	CCN1(C(=O)C(=O)N(CC1)C(=O)N[C@H](C2(\C=C/C(/O)=C\C=2))C(=O)N[C@H]5(C(=O)N4(C(C(O)=O)=C(CSC3(\N(C)\N=N/N=3))CS[C@@H]45)))
+L-glyceraldehyde	InChIKey=MNQZXJOMYWMBOU-GSVOUGTGSA-N	C(=O)[R]
+methionol	InChIKey=CZUGFKJYCPYHHV-UHFFFAOYSA-N	CSCCCO
+2,3-pentane-dione	InChIKey=TZMFJUDUGYTVRY-UHFFFAOYSA-N	CCC(=O)C(=O)C
+alpha-L-arabinofuranose	InChIKey=HMFHBZSHGGEWLO-QMKXCQHVSA-N	C(=O)[R]
+ferrichrome A	InChIKey=YDEOVNTWYZIDCR-LDEMJYSLSA-K	CC(\CC([O-])=O)=C\C(N(CCCC1(NC(=O)CNC(=O)C(CO)NC(=O)C(CO)NC(=O)C(CCCN(C(\C=C(C)/CC([O-])=O)=O)O)NC(=O)C(CCCN(C(/C=C(C)/CC([O-])=O)=O)O)NC(=O)1))O)=O.[Fe+3]
+Hg2+	InChIKey=BQPIGGFYSBELGY-UHFFFAOYSA-N	[Hg+2]
+(9Z,15Z)-12,13-epoxy-octadeca-9,15-dienoate	InChIKey=BKKGUKSHPCTUGE-OOHFSOINSA-M	C([R])(=O)[O-]
+phytosphingosine (C18) 1-phosphate	InChIKey=AYGOSKULTISFCW-KSZLIROESA-M	CCCCCCCCCCCCCC[C@@H](O)[C@H]([C@H](COP([O-])(=O)[O-])[NH3+])O
+diacetyl	InChIKey=QSJXEFYPDANLFS-UHFFFAOYSA-N	CC(C(C)=O)=O
+4-nitrophenol	InChIKey=BTJIUGUIPKRLHP-UHFFFAOYSA-M	C1(/C=C(\C=C/C(/[N+](=O)[O-])=1)/[O-])
+L-cystathionine	InChIKey=ILRYLPWNYFXEMH-WHFBIAKZSA-N	[C@@H]([NH3+])([R])C(=O)[O-]
+(5Z,8Z,11Z,14Z,17Z)-icosapentaenoyl-CoA	InChIKey=JWZLRYCDDXHXDL-LCMHIRPZSA-J	CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+(Z)-methyl(oxido)(1-phenylpropan-2-ylidene)azanium	InChIKey=SHDIBBHPJOKRNX-LUAWRHEFSA-N	CC(\CC1(\C=C/C=C\C=1))=[N+](C)\[O-]
+sphingosine	InChIKey=WWUZIQQURGPMPG-KRWOKUGFSA-O	CCCCCCCCCCCCC/C=C/[C@@H](O)[C@@H]([NH3+])CO
+1-stearoyl-2-palmitoyl-sn-glycerol	InChIKey=VYQDALBEQRZDPL-DHUJRADRSA-N	C(O)[C@@H](COC(=O)[R1])OC(=O)[R2]
+N,N-dimethylaniline	InChIKey=JLTDJTHDQAWBAV-UHFFFAOYSA-N	CN(C1(\C=C/C=C\C=1))C
+coproporphyrinogen III	InChIKey=NIUVHXTXUXOFEB-UHFFFAOYSA-J	CC2(\C(/CCC([O-])=O)=C1(CC5(\NC(/CC4(\NC(/CC3(\NC(/CC(\N1)=2)=C(C)/C(\CCC([O-])=O)=3))=C(CCC([O-])=O)/C(\C)=4))=C(CCC(=O)[O-])/C(\C)=5)))
+prephenate	InChIKey=FPWMCUPFBRFMLH-XGAOUMNUSA-L	C(=O)([O-])C(=O)C[C@]1(C(=O)[O-])(\C=C/[C@@H](O)\C=C/1)
+omega-saturated C55 dolichol phosphate	InChIKey=KTGSDHZXAKCYHM-LSTWDCEHSA-L	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/[R]CC(/C)=C/CCC(C)CCOP(=O)([O-])[O-]
+alpha,alpha-trehalose 6-phosphate	InChIKey=LABSPYBHMPDTEL-LIZSDCNHSA-L	C([C@H]1(O[C@@H]([C@@H]([C@H]([C@@H]1O)O)O)O[C@@H]2([C@@H]([C@H]([C@@H]([C@H](O2)COP([O-])(=O)[O-])O)O)O)))O
+beta-L-idopyranuronate	InChIKey=AEMOLEFTQBMNLQ-URDJKYRMSA-M	C([R])(=O)[O-]
+1-[18-hydroxyoeoyl]-2-[18-hydroxy-lioleoyl]-sn-glycerol 3-phosphate	InChIKey=ZXBGEIHFXPHRJY-NKFDZXFUSA-L	C(OC([R1])=O)[C@@H](OC(=O)[R2])COP([O-])(=O)[O-]
+2-hydroxyisobutyramide	InChIKey=DRYMMXUBDRJPDS-UHFFFAOYSA-N	CC(O)(C)C(=O)N
+glutathione	InChIKey=RWSXRVCMGQZWBV-WDSKDSINSA-M	C(S)[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+(S)-dihydroorotate	InChIKey=UFIVEPVSAGBUSI-REOHCLBHSA-M	C1(C(=O)NC(=O)N[C@H](C(=O)[O-])1)
+prenol	InChIKey=ASUAYTHWZCLXAN-UHFFFAOYSA-N	CC(C)=CCO
+(3E)-dec-3-enoyl-CoA	InChIKey=CQGVNMQHZQJNII-ZJZQAHHTSA-J	CCCCCC/C=C/CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+oxalate	InChIKey=MUBZPKHOEPUJKR-UHFFFAOYSA-L	C([R])(=O)[O-]
+sucrose	InChIKey=CZMRCDWAGMRECN-UGDNZRGBSA-N	C(O)[C@H]2(O[C@H](O[C@]1(CO)(O[C@H](CO)[C@@H](O)[C@H](O)1))[C@H](O)[C@@H](O)[C@H](O)2)
+x-dman-HEX-x:x		
+L-ornithine	InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O	[C@@H]([NH3+])([R])C(=O)[O-]
+4-tyrosol	InChIKey=YCCILVSKPBXVIP-UHFFFAOYSA-N	C1(\C(/CCO)=C/C=C(\C=1)/O)
+8-oxo-GMP	InChIKey=MDSQIQSLWQTQDK-UMMCILCDSA-L	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(NC(=O)1)=2)))[C@H](O)[C@H](O)3)
+a-dman-OCT-2:6|1:a|2:keto|3:d		
+O-succinyl-L-homoserine	InChIKey=GNISQJGXJIDKDJ-YFKPBYRVSA-M	C([R])(=O)[O-]
+a coenzyme-A group		CC(C)(COP(OP([O-])(OC[C@@H]1([C@@H](OP([O-])([O-])=O)[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))=O)([O-])=O)[C@@H](O)C(=O)NCCC(=O)NCCS
+XMP	InChIKey=DCTLYFZHFGENCW-UUOKFMHZSA-L	C(OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(/NC(=O)NC(=O)C(\N=C/1)=2)))[C@H](O)[C@H](O)3)
+UDP group		C(OP(=O)([O-])OP(=O)([O-])O)[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)O)O)
+2'-deoxyuridine	InChIKey=MXHRCPNRJAMMIM-SHYZEUOFSA-N	C(O)[C@@H]2([C@H](C[C@H](N1(\C=C/C(=O)NC1=O))O2)O)
+(2E)-2-ethylidene-4-hydroxy-5-methyl-3(2H)-furanone	InChIKey=CWXWDRXNERDGHE-HWKANZROSA-N	C/C=C1(C(=O)C(/O)=C(C)\O1)
+flavone	InChIKey=VHBFFQKBGNRLFZ-UHFFFAOYSA-N	C3(\C=C/C(/C1(/OC2(\C(\C(=O)\C=1)=C/C=C\C=2)))=C\C=3)
+adjacent 2'-deoxycytidine-thymidine in DNA		CC1(\C(=O)NC(N(\C=1)[C@@H]4(O[C@H](COP(O[C@H]3(C[C@H](N2(C(=O)/N=C(\C=C/2)/N))O[C@H](COP(=O)([O-])O[a deoxyribonucleic acid])3))([O-])=O)[C@@H](OP([O-])(O[a deoxyribonucleic acid])=O)C4))=O)
+4-hydroxybenzaldehyde	InChIKey=RGHHSNMVTDWUBI-UHFFFAOYSA-N	C(C1(\C=C/C(/O)=C\C=1))=O
+3-chlorobenzaldehyde	InChIKey=SRWILAKSARHZPR-UHFFFAOYSA-N	C(=O)[R]
+stearate	InChIKey=QIQXTHQIDYTFRH-UHFFFAOYSA-M	C([R])(=O)[O-]
+(R)-pantothenate	InChIKey=GHOKWGTUZJEAQD-ZETCQYMHSA-M	CC(C)(CO)[C@@H](O)C(=O)NCCC(=O)[O-]
+fluoride	InChIKey=KRHYYFGTRYWZRS-UHFFFAOYSA-M	[F-]
+L-phenylalanine	InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N	[C@@H]([NH3+])([R])C([O-])=O
+L-cysteine	InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N	C(S)[C@@H](C(=O)[O-])[NH3+]
+(3Z)-dodec-3-enoyl-CoA	InChIKey=XEMIVMKTVGRFTD-REDSNERGSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+phosphate	InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L	[O-]P(=O)(O)[O-]
+(2S,3R)-3-hydroxy-2-isopropyl-4-methoxy-4-oxobutanoate	InChIKey=YFUPBIBIDVFELV-NTSWFWBYSA-M	CC(C)[C@H](C([O-])=O)[C@H](C(OC)=O)O
+alpha-L-fucopyranose	InChIKey=SHZGCJCMOBCMKK-SXUWKVJYSA-N	C(=O)[R]
+beta-D-xylopyranose	InChIKey=SRBFZHDQGSBBOR-KKQCNMDGSA-N	C(=O)[C@H](O)[C@@H](O)[C@H](O)CO
+uracil	InChIKey=ISAKRJDGNUQOIC-UHFFFAOYSA-N	C1(\NC(=O)NC(=O)\C=1)
+4alpha-methylfecosterol	InChIKey=QLDNWJOJCDIMKK-XLFBYWHPSA-N	CC(C)C(CC[C@@H](C)[C@H]2(CC[C@H]3(C4(\CC[C@H]1([C@H](C)[C@@H](O)CC[C@@](C)1C(\CC[C@](C)23)=4)))))=C
+x-lgal-HEX-1:5|6:d		
+thiamine diphosphate	InChIKey=AYEKOFBPNLCAJY-UHFFFAOYSA-L	CC2(\[N+](/CC1(\C(\N)=N/C(\C)=N\C=1))=C/SC(/CCOP([O-])(=O)OP([O-])(=O)[O-])=2)
+glyoxal	InChIKey=LEQAOMBKQFMDFZ-UHFFFAOYSA-N	C(C=O)=O
+isobutanol	InChIKey=ZXEKIIBDNHEJCQ-UHFFFAOYSA-N	CC(C)CO
+roseoflavin 5'-phosphate	InChIKey=KBASEDIREZTYND-GUTXKFCHSA-K	CC3(/C=C2(C(/N(C[C@H](O)[C@H](O)[C@H](O)COP([O-])(=O)[O-])C1(\C(\C(=O)[N-]C(=O)/N=1)=N/2))=C\C(\N(C)C)=3))
+formylaminopyrimidine	InChIKey=PVWNFAGYFUUDRC-UHFFFAOYSA-N	CC1(\N=C/C(\CNC=O)=C(N)\N=1)
+a methyl group		C
+(R)-5-phosphomevalonate	InChIKey=OKZYCXHTTZZYSK-ZCFIWIBFSA-K	C[C@@](O)(CCOP(=O)([O-])[O-])CC(=O)[O-]
+(R)-acetoin	InChIKey=ROWKJAVDOGWPAT-GSVOUGTGSA-N	C[C@@H](O)C(=O)C
+N-acetyl-L-ornithine	InChIKey=JRLGPAXAGHMNOL-LURJTMIESA-N	[C@@H]([NH3+])([R])C(=O)[O-]
+10-cis-heptadecenoyl-CoA	InChIKey=KFMWWNZRDBMYES-YGUIASHKSA-J	CCCCCC\C=C/CCCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+alpha-D-glucopyranose	InChIKey=WQZGKKKJIJFFOK-DVKNGEFBSA-N	C([C@@H]1([C@H]([C@@H]([C@H](C(O1)O)O)O)O))O
+1-deoxynojirimycin	InChIKey=LXBIFEVIBLOUGU-JGWLITMVSA-O	C1([NH2+][C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)1)
+5-aminolevulinate	InChIKey=ZGXJTSGNIOSYLO-UHFFFAOYSA-N	C(C(C[NH3+])=O)CC([O-])=O
+(2R,3S)-2-methylisocitrate	InChIKey=HHKPKXCSHMJWCF-WVBDSBKLSA-K	C([R])(=O)[O-]
+4-nitrophenyl phosphate	InChIKey=XZKIHKMTEMTJQX-UHFFFAOYSA-L	C1(/C=C(\C=C/C(/[N+](=O)[O-])=1)/OP([O-])(=O)[O-])
+2'-hydroxypyridoxol	InChIKey=FLVIETJQVDUKMQ-UHFFFAOYSA-N	C(O)C1(\C(\CO)=C(C(/CO)=N/C=1)\O)
+beta-D-galacturonate	InChIKey=AEMOLEFTQBMNLQ-DTEWXJGMSA-M	C([R])(=O)[O-]
+S-sulfo-L-cysteine	InChIKey=NOKPBJYHPHHWAN-REOHCLBHSA-M	C([R])(=O)[O-]
+D-sedoheptulose 1-phosphate	InChIKey=JPTRNFAYXMBCLJ-SHUUEZRQSA-L	C(O)[C@@H](O)[C@@H](O)[C@@H](O)[C@H](O)C(COP([O-])(=O)[O-])=O
+(3R)-3-hydroxylignoceroyl-CoA	InChIKey=QIBKBVRVOFIKLN-YSOWJFSKSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+S-methyl-5-thio-D-ribulose 1-phosphate	InChIKey=CNSJRYUMVMWNMC-RITPCOANSA-L	CSC[C@@H](O)[C@@H](O)C(=O)COP([O-])(=O)[O-]
+di-trans,octa-cis-undecaprenyl diphosphate	InChIKey=NTXGVHCCXVHYCL-NTDVEAECSA-K	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(/C)=C/[R]CC(/C)=C/CCC(/C)=C/COP(=O)([O-])OP(=O)([O-])[O-]
+1,2-dipalmitoyl-sn-glycerol	InChIKey=JEJLGIQLPYYGEE-XIFFEERXSA-N	C(O)[C@@H](COC(=O)[R1])OC(=O)[R2]
+CDP	InChIKey=ZWIADYZPOWUWEW-XVFCMESISA-K	C(OP(OP([O-])([O-])=O)(=O)[O-])[C@@H]2([C@H]([C@H]([C@H](N1(C(/N=C(\C=C/1)/N)=O))O2)O)O)
+2-oxohexanoate	InChIKey=XNIHZNNZJHYHLC-UHFFFAOYSA-M	C([R])(=O)[O-]
+porphobilinogen	InChIKey=QSHWIQZFGQKFMA-UHFFFAOYSA-M	C(C1(\N\C=C(CCC(=O)[O-])/C(\CC(=O)[O-])=1))[NH3+]
+L-iditol	InChIKey=FBPFZTCFMRRESA-UNTFVMJOSA-N	C([C@@H]([C@H]([C@@H]([C@@H](O)CO)O)O)O)O
+geranylgeranyl diphosphate	InChIKey=OINNEUNVOZHBOX-QIRCYJPOSA-K	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/COP(=O)([O-])OP(=O)([O-])[O-]
+1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	InChIKey=QKMBYNRMPRKVTO-MNOVXSKESA-K	C(OP([O-])(=O)[O-])[C@@H](O)[C@@H](O)C(=O)CNC1(/C=C\C=C/C(/C(=O)[O-])=1)
+(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate	InChIKey=NQEQTYPJSIEPHW-MNOVXSKESA-L	C1(/NC2(/C=C\C=C/C(/C(/[C@@H]([C@@H](COP([O-])(=O)[O-])O)O)=1)=2))
+beta-D-mannopyranose	InChIKey=WQZGKKKJIJFFOK-RWOPYEJCSA-N	C(O)[C@@H]1([C@@H](O)[C@H](O)[C@H](O)C(O)O1)
+pyridoxamine 5'-phosphate	InChIKey=ZMJGSOSNSPKHNH-UHFFFAOYSA-M	CC1(\C(\O)=C(C(/COP([O-])([O-])=O)=C\N=1)\C[NH3+])
+zymosterol	InChIKey=CGSJXLIKVBJVRY-XTGBIJOFSA-N	CC(C)=CCC[C@@H](C)[C@H]2(CC[C@H]3(C4(\CC[C@H]1(C[C@@H](O)CC[C@@](C)1C(\CC[C@](C)23)=4))))
+14-demethyllanosterol	InChIKey=CHGIKSSZNBCNDW-QGBOJXOESA-N	CC(C)=CCC[C@@H](C)[C@H]2(CC[C@H]3(C4(\CC[C@H]1(C(C)(C)[C@@H](O)CC[C@@](C)1C(\CC[C@](C)23)=4))))
+3-sulfino-L-alanine	InChIKey=ADVPTQAUNPRNPO-REOHCLBHSA-M	C([R])(=O)[O-]
+5-oxo-L-proline	InChIKey=ODHCTXKNWHHXJC-VKHMYHEASA-M	C(=O)([C@H]1(NC(CC1)=O))[O-]
+7,8-dihydroneopterin 3'-phosphate	InChIKey=PLSQMGZYOGSOCE-XINAWCOVSA-L	C1(NC2(/N=C(N)\NC(=O)C(/N=C1/[C@H](O)[C@H](O)COP(=O)([O-])[O-])=2))
+arsenite2-	InChIKey=RJFGWSIMCQVVJS-UHFFFAOYSA-N	[As](O)([O-])[O-]
+2-oxobutanoate	InChIKey=TYEYBOSBBBHJIV-UHFFFAOYSA-M	C([R])(=O)[O-]
+(2R)-homocitrate	InChIKey=XKJVEVRQMLKSMO-SSDOTTSWSA-K	C([R])(=O)[O-]
+4-hydroxy-3-octaprenylbenzoate	InChIKey=UTIBHEBNILDQKX-LQOKPSQISA-M	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC1(/C=C(\C=C/C(/O)=1)/C(=O)[O-])
+N-acetyl-L-glutamate	InChIKey=RFMMMVDNIPUKGG-YFKPBYRVSA-L	C([R])(=O)[O-]
+(1R,2S)-homoisocitrate	InChIKey=OEJZZCGRGVFWHK-WVZVXSGGSA-K	C([R])(=O)[O-]
+chorismate	InChIKey=WTFXTQVDAKGDEY-HTQZYQBOSA-L	C=C(C(=O)[O-])O[C@H]1([C@H](O)\C=C/C(/C([O-])=O)=C\1)
+b-dman-HEX-1:5		
+a holo malonate-decarboxylase		CC(C)(COP([O-])(=O)OP([O-])(=O)OC[C@@H]2([C@@H](O)[C@@H](O[C@@H]1([C@H](O)[C@H](O)[C@@H](COP(=O)([O-])OC[C@H](N[[an apo malonate decarboxylase acyl-carrier protein]])C(=O)[[an apo malonate decarboxylase acyl-carrier protein]])O1))[C@@H](O2)N3(\C=N/C4(C(/N)=N\C=N/C3=4))))[C@@H](O)C(=O)NCCC(=O)NCCS
+(5Z)-tetradecenoyl-CoA	InChIKey=MRVDZOHJMLTLHJ-STFCKWFXSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+L-ascorbate	InChIKey=CIWBSHSKHKDKBQ-JLAZNSOCSA-M	C([R])(=O)[O-]
+roseoflavin adenine dinucleotide	InChIKey=MHLHGXADKUHZGN-MZWSMYJRSA-K	CC6(/C=C5(C(/N(C[C@@H]([C@H](O)[C@H](O)COP(OP([O-])(OC[C@@H]3([C@@H](O)[C@@H](O)[C@H](N1(\C=N/C2(C(/N)=N\C=N/C1=2)))O3))=O)([O-])=O)O)C4(\C(\C(=O)[N-]C(=O)/N=4)=N/5))=C\C(\N(C)C)=6))
+GLYCO-CT-SULFATE		
+D-myo-inositol (1,3,4,5)-tetrakisphosphate	InChIKey=CIPFCGZLFXVXBG-CNWJWELYSA-F	[C@@H]1(O)([C@@H](OP([O-])(=O)[O-])[C@H](OP(=O)([O-])[O-])[C@@H](OP(=O)([O-])[O-])[C@@H](O)[C@@H](OP([O-])([O-])=O)1)
+(2E)-2-butylidene-4-hydroxy-5-methyl-3(2H)-furanone	InChIKey=JJPKPKGALPXILL-FNORWQNLSA-N	CCC/C=C1(C(=O)C(/O)=C(C)\O1)
+FAD	InChIKey=IMGVNJNCCGXBHD-UYBVJOGSSA-K	CC6(\C=C5(C(/N(C[C@@H]([C@H](O)[C@H](O)COP(OP([O-])(OC[C@@H]3([C@@H](O)[C@@H](O)[C@H](N1(\C=N/C2(C(/N)=N\C=N/C1=2)))O3))=O)([O-])=O)O)C4(\C(\C(=O)[N-]C(=O)/N=4)=N/5))=C\C(/C)=6))
+4-methylbenzaldehyde	InChIKey=FXLOVSHXALFLKQ-UHFFFAOYSA-N	C(=O)[R]
+(2S)-2-isopropylmalate	InChIKey=BITYXLXUCSKTJS-ZETCQYMHSA-L	CC(C)[C@@](O)(CC(=O)[O-])C([O-])=O
+(3R)-hydroxynonanoyl-CoA	InChIKey=PDYUUZANEPCZPL-JOQFVOQGSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+N-carbamoyl-L-aspartate	InChIKey=HLKXYZVTANABHZ-REOHCLBHSA-L	[C@@H]([NH3+])([R])C(=O)[O-]
+(9Z,12Z)-15,16-epoxyoctadeca-9,12-dienoate	InChIKey=HKSDVVJONLXYKL-OHPMOLHNSA-M	C([R])(=O)[O-]
+x-dgal-HEX-1:5|6:a		
+1-butanal	InChIKey=ZTQSAGDEMFDKMZ-UHFFFAOYSA-N	C(=O)[R]
+4-trans-3-oxo-undecenoyl-CoA	InChIKey=XBFQFVLNMJDDNG-DUPKWVSKSA-J	CCCCCC/C=C/C(=O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+2-hydroxy-5-(methylsulfanyl)-3-oxopent-1-enyl 1-phosphate	InChIKey=YIEMFVNCENFBSD-XQRVVYSFSA-K	CSCCC(C(\[O-])=C\OP([O-])(=O)[O-])=O
+tributyrin	InChIKey=UYXTWWCETRIEDR-UHFFFAOYSA-N	C([C@H](OC([R2])=O)COC(=O)[R1])OC([R3])=O
+taurine	InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N	C(S(=O)(=O)[O-])C[NH3+]
+3-ethylmalate	InChIKey=JUCRENBZZQKFGK-UHFFFAOYSA-L	CCC(C([O-])=O)C(C(=O)[O-])O
+D-myo-inositol (1,3,4)-trisphosphate	InChIKey=MMWCIQZXVOZEGG-MLQGYMEPSA-H	[C@H]1(O)([C@@H](O)[C@H](OP(=O)([O-])[O-])[C@@H](OP(=O)([O-])[O-])[C@@H](O)[C@@H](OP([O-])([O-])=O)1)
+L-tyrosine	InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N	[C@@H]([NH3+])([R])C([O-])=O
+(3R)-3-hydroxybehenoyl-CoA	InChIKey=VNJQSRVXTRJVAZ-ZUIQSSPPSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+8-oxo-dGTP	InChIKey=BUZOGVVQWCXXDP-VPENINKCSA-J	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])[O-])[C@H]3(O[C@@H](N1(C2(\N=C(N)/NC(=O)C(NC(=O)1)=2)))C[C@H](O)3)
+phenylhydrazine	InChIKey=HKOOXMFOFWEVGF-UHFFFAOYSA-N	C1(\C=C/C(/NN)=C\C=1)
+1-oleoyl-2-lyso-glycerone phosphate	InChIKey=YZKFNNQAEBNCEN-KTKRTIGZSA-L	C(CCCCCCCCCCCC(OCC(COP([O-])(=O)[O-])=O)=O)[R]
+7,8-dihydrofolate monoglutamate	InChIKey=OZRNSSUDZOLUSN-LBPRGKRZSA-L	C(NC1(\C=C/C(/C(=O)N[C@H](C(=O)[O-])CCC([O-])=O)=C\C=1))C2(CNC3(/N=C(N)\NC(=O)C(/N=2)=3))
+1-palmitoyl-sn-glycerol 3-phosphate	InChIKey=YNDYKPRNFWPPFU-GOSISDBHSA-L	C([C@@H](O)COP([O-])(=O)[O-])OC(=O)[R]
+styrene	InChIKey=PPBRXRYQALVLMV-UHFFFAOYSA-N	C=CC1(\C=C/C=C\C=1)
+L-penicillamine	InChIKey=VVNCNSJFMMFHPL-GSVOUGTGSA-N	C([R])(=O)[O-]
+pentadecanoate	InChIKey=WQEPLUUGTLDZJY-UHFFFAOYSA-M	C([R])(=O)[O-]
+boric acid	InChIKey=KGBXLFKZBHKPEV-UHFFFAOYSA-N	B(O)(O)O
+beta-nicotinamide D-ribonucleotide	InChIKey=DAYLJWODMCOQEW-TURQNECASA-M	C(OP(=O)([O-])[O-])[C@@H]1([C@@H](O)[C@@H](O)[C@@H](O1)[N+]2(\C=C/C=C(/C=2)/C(=O)N))
+6,7-dimethyl-8-(1-D-ribityl)lumazine	InChIKey=SXDXRJZUAJBNFL-XKSSXDPKSA-M	CC1(\N=C2(C(/N(C[C@H](O)[C@H](O)[C@H](O)CO)C(/C)=1)=N\C(=O)[N-]C(=O)2))
+butanoyl-CoA	InChIKey=CRFNGMNYKDXRTN-CITAKDKDSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+amphomycin	InChIKey=XBNDESPXQUOOBQ-WYMLVPIESA-K	CCC(C)CCCCC/C=C/CC(NC(C(NC(C(NC(C(NCC(NC(C(NCC(NC(C(NC(C(N3(C(C(NC(C1(C(=O)N2(C(C(=O)N1)CCCC2)))C)=O)CCC3))=O)C(C)C)=O)C(C)[NH3+])=O)=O)CC(=O)[O-])=O)=O)CC(=O)[O-])=O)C(C(=O)[O-])C)=O)CC(=O)[O-])=O
+6-cis-tridecenoyl-CoA	InChIKey=UUIVZEBYPBPKLL-DXAZUOFZSA-J	CCCCCC\C=C/CCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+semicarbazide	InChIKey=DUIOPKIIICUYRZ-UHFFFAOYSA-N	C(N)(=O)NN
+a carbonyl group		C(=O)([R1])[R1]
+(L-alanyl)adenylate	InChIKey=ISYFCRWDMNBLTM-MACXSXHHSA-N	C([R])(=O)[O-]
+phosphocholine	InChIKey=YHHSONZFOIEMCP-UHFFFAOYSA-M	C[N+](CCOP([O-])([O-])=O)(C)C
+1D-myo-inositol 1-monophosphate	InChIKey=INAPMGSXUVUWAF-UOTPTPDRSA-L	[C@@H]1(O)([C@H](O)[C@@H](O)[C@H](OP([O-])(=O)[O-])[C@H](O)[C@H](O)1)
+C20 phytosphingosine	InChIKey=UQAUXYMLKGFKBX-ZCNNSNEGSA-O	C([R])CCCCCCCCCCCCC[C@@H](O)[C@H]([C@H](CO)[NH3+])O
+1,2-dihydroxy-5-(methylsulfanyl)pent-1-en-3-one	InChIKey=CILXJJLQPTUUSS-XQRVVYSFSA-M	CSCCC(C(\[O-])=C\O)=O
+tetrahydroobvatol	InChIKey=OGJJXRXSJDUVGA-UHFFFAOYSA-N	CCCC2(\C=C/C(/OC1(\C(\O)=C(\C=C(CCC)/C=1)\O))=C\C=2)
+x-dglc-HEX-1:5|6:a		
+N-formyl-L-kynurenine	InChIKey=BYHJHXPTQMMKCA-QMMMGPOBSA-N	C(=O)NC1(/C=C\C=C/C(/C(=O)C[C@H]([NH3+])C(=O)[O-])=1)
+4alpha-methyl-5alpha-cholest-7-en-3-one	InChIKey=OWKGVPXWOHLTSL-LIUJFMQASA-N	CC(C)CCC[C@@H](C)[C@H]3(CC[C@H]4(C1([C@@H]([C@]2(CCC(=O)[C@@H](C)[C@H](CC=1)2)(C))CC[C@](C)34)))
+alpha-D-ribofuranose	InChIKey=HMFHBZSHGGEWLO-AIHAYLRMSA-N	C(O)[C@@H]1([C@H]([C@H](C(O)O1)O)O)
+4-amino-2-methyl-5-(diphosphooxymethyl)pyrimidine	InChIKey=AGQJQCFEPUVXNK-UHFFFAOYSA-K	CC1(\N=C(C(/COP([O-])(=O)OP([O-])(=O)[O-])=C\N=1)\N)
+UDP-alpha-D-glucose	InChIKey=HSCJRCZFDFQWRP-JZMIEXBBSA-L	C(O)[C@@H]1([C@@H](O)[C@H](O)[C@@H](O)[C@H](O1)OP(OP(OC[C@@H]3([C@H]([C@H]([C@H](N2(\C=C/C(=O)NC2=O))O3)O)O))(=O)[O-])(=O)[O-])
+ethene	InChIKey=VGGSQFUCUMXWEO-UHFFFAOYSA-N	C=C
+2-18:1-lysophosphatidylglycerol	InChIKey=UJUVFUFXJONDDC-SNZQZGEVSA-M	CCCCCCCC\C=C/CCCCCCCC(O[C@@H](COP(OC[C@@H](O)CO)([O-])=O)CO)=O
+aldehydo-D-ribose	InChIKey=PYMYPHUHKUWMLA-LMVFSUKVSA-N	C(=O)[R]
+nitrite	InChIKey=IOVCWXUNBOPUCH-UHFFFAOYSA-M	N([O-])=O
+hydroxylamine	InChIKey=AVXURJPOCDRRFD-UHFFFAOYSA-N	NO
+2-O-(6-phospho-alpha-D-mannosyl)-D-glycerate	InChIKey=BOLXAGHGKNGVBE-MTXRGOKVSA-K	C(O)[C@H](C([O-])=O)O[C@H]1(O[C@H](COP(=O)([O-])[O-])[C@@H](O)[C@H](O)[C@H](O)1)
+[acyl-carrier protein]-group		CC(C)(COP(=O)([O-])OC[C@H](N[a soluble apo-[acyl-carrier protein]])C(=O)[a soluble apo-[acyl-carrier protein]])[C@@H](O)C(=O)NCCC(=O)NCCS
+4-aminobutanoate	InChIKey=BTCSSZJGUNDROE-UHFFFAOYSA-N	C([R])(=O)[O-]
+NADP+	InChIKey=XJLXINKUBYWONI-NNYOXOHSSA-K	C5(/C=C\C(\C(=O)N)=C/[N+](/[C@@H]1(O[C@@H]([C@H]([C@H]1O)O)COP(OP(OC[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](OP([O-])(=O)[O-])[C@H](O)4))(=O)[O-])(=O)[O-]))=5)
+a-dxyl-PEN-1:5		
+methamphetamine	InChIKey=MYWUZJCMWCOHBA-VIFPVBQESA-O	C[C@@H](CC1(\C=C/C=C\C=1))[NH2+]C
+carbonate	InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-L	C([O-])(=O)[O-]
+x-dgro-dgal-NON-2:6|1:a|2:keto|3:d		
+3''-O-acetyl-ADP-ribose	InChIKey=HNHCIVXQBMBKPQ-YDKGJHSESA-L	CC(O[C@@H]4([C@@H](COP(OP(OC[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3))(=O)[O-])(=O)[O-])OC(O)[C@H](O)4))=O
+palmitoleate	InChIKey=SECPZKHBENQXJG-FPLPWBNLSA-M	C([R])(=O)[O-]
+cholesteryl-beta-D-glucoside	InChIKey=FSMCJUNYLQOAIM-UQBZCTSOSA-N	CC(C)CCC[C@@H](C)[C@H]1(CC[C@@H]2([C@@](C)1CC[C@H]5([C@H]2C\C=C4(C[C@@H](O[C@@H]3(O[C@H](CO)[C@@H](O)[C@H](O)[C@@H](O)3))CC[C@@](C)45))))
+uridine 2'-monophosphate	InChIKey=HQIDPEYTETUCNF-XVFCMESISA-L	C(O)[C@@H]2([C@H]([C@H]([C@H](N1(\C=C/C(=O)NC1=O))O2)OP([O-])(=O)[O-])O)
+bisorganyltrisulfane	InChIKey=IMZRQZICOZIGNP-UHFFFAOYSA-L	C(SSSCC(NC(=O)CCC([NH3+])C(=O)[O-])C(=O)NCC(=O)[O-])C(C(O)NCC(=O)[O-])NC(CCC(C([O-])=O)[NH3+])=O
+b-lido-HEX-1:5|6:a		
+urea	InChIKey=XSQUKJJJFZCRTK-UHFFFAOYSA-N	C(=O)(N)N
+histidinol	InChIKey=ZQISRDCJNBUVMM-YFKPBYRVSA-O	C1(\N\C=N/C(\C[C@@H](CO)[NH3+])=1)
+pyruvic oxime	InChIKey=MVGBKLTYYAYYGY-DUXPYHPUSA-M	CC(/C(=O)[O-])=N\O
+GLYCO-CT-N-SULFATE		
+dimethylarsinic acid	InChIKey=OGGXGZAMXPVRFZ-UHFFFAOYSA-N	C[As](C)(=O)O
+1-arachidinoyl-sn-glycerol 3-phosphate	InChIKey=XBFQFMCUPHZKTI-NZRYSPDRSA-L	C([C@@H](O)COP([O-])(=O)[O-])OC(=O)[R]
+carbonic acid	InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-N	C(O)(=O)O
+palmitoyl-CoA	InChIKey=MNBKLUUYKPBKDU-BBECNAHFSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+dTMP	InChIKey=GYOZYWVXFNDGLU-XLPZGREQSA-L	CC1(\C(=O)NC(=O)N(\C=1)[C@H]2(C[C@H](O)[C@@H](COP(=O)([O-])[O-])O2))
+b-dido-HEX-1:5|6:a		
+alpha-L-galactopyranose	InChIKey=WQZGKKKJIJFFOK-SXUWKVJYSA-N	C(=O)[R]
+phytate	InChIKey=IMQLKJBTEOYOSI-GPIVLXJGSA-B	[C@@H]1(OP([O-])([O-])=O)([C@H](OP([O-])(=O)[O-])[C@@H](OP([O-])(=O)[O-])[C@H](OP(=O)([O-])[O-])[C@@H](OP(=O)([O-])[O-])[C@@H](OP([O-])([O-])=O)1)
+b-HEX-1:5		
+(3E,5Z)-tetradeca-3,5-dienoyl-CoA	InChIKey=QADUDNMSWUFMGZ-ROGIYNEGSA-J	CCCCCCCC\C=C/C=C/CC(SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-])=O
+5-amino-6-(5-phospho-D-ribitylamino)uracil	InChIKey=RQRINYISXYAZKL-RPDRRWSUSA-L	C(NC1(NC(NC(=O)C(N)=1)=O))[C@H](O)[C@H](O)[C@H](O)COP([O-])(=O)[O-]
+copper-bound copper ligand		[Cu][R]
+ergosterol	InChIKey=DNVPQKQSNYMLRS-APGDWVJJSA-N	CC(C)[C@@H](C)/C=C/[C@@H](C)[C@H]3(CC[C@H]4(C2([C@@H]([C@]1(CC[C@H](O)CC/1=C\C=2)(C))CC[C@](C)34)))
+3-methylbutyl acetate	InChIKey=MLFHJEHSLIIPHL-UHFFFAOYSA-N	CC(C)CCOC(C)=O
+L-carnitine	InChIKey=PHIQHXFUZVPYII-ZCFIWIBFSA-N	C([R])(=O)[O-]
+ferroheme a	InChIKey=ZGGYGTCPXNDTRV-PRYGPKJJSA-J	C=CC4(\C6(/C=C8(C(/C)=C(CCC(=O)[O-])/C1(/N([Fe-2]35([N+]2(\C(/C(/C=O)=C(CCC(=O)[O-])\C(/C=1)=2)=C/C7(/N3C(\C=C(C(/C)=4)/[N+]\5=6)=C(C(/C)=7)/[C@@H](O)CC/C=C(C)/CC/C=C(C)/CCC=C(C)C))))8))))
+D-hexose 6-phosphate	InChIKey=NBSCHQHZLSJFNQ-UHFFFAOYSA-L	C(OP(=O)([O-])[O-])C1(OC(O)C(O)C(O)C(O)1)
+dioxygen	InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N	O=O
+2,3-diphospho-D-glycerate	InChIKey=XOHUEYCVLUUEJJ-UWTATZPHSA-I	C(OP([O-])(=O)[O-])[C@@H](OP(=O)([O-])[O-])C(=O)[O-]
+ethanol	InChIKey=LFQSCWFLJHTTHZ-UHFFFAOYSA-N	CCO
+Li+	InChIKey=HBBGRARXTFLTSG-UHFFFAOYSA-N	[Li+]
+indole	InChIKey=SIKJAQJRHWYJAI-UHFFFAOYSA-N	C1(\C=C/C2(N\C=C/C(\C=1)=2))
+a hydroxyl group		[OH-]
+dTDP	InChIKey=UJLXYODCHAELLY-XLPZGREQSA-K	CC1(\C(=O)NC(=O)N(\C=1)[C@H]2(C[C@H](O)[C@@H](COP(=O)([O-])OP(=O)([O-])[O-])O2))
+prenyl diphosphate	InChIKey=CBIDRCWHNCKSTO-UHFFFAOYSA-K	CC(C)=CCOP(=O)([O-])OP(=O)([O-])[O-]
+L-arabinitol	InChIKey=HEBKCHPVOIAQTA-IMJSIDKUSA-N	C([C@@H]([C@@H]([C@H](CO)O)O)O)O
+alpha-D-galacturonosyl-(1→4)-alpha-D-galacturonate	InChIKey=IGSYEZFZPOZFNC-MMGXBETBSA-L	C(=O)([O-])[C@@H]1([C@H](O)[C@H](O)[C@@H](O)[C@H](O1)O[C@@H]2([C@H](O)[C@@H](O)[C@@H](O)O[C@H](C(=O)[O-])2))
+(R)-2-hydroxyglutarate	InChIKey=HWXBTNAVRSUOJR-GSVOUGTGSA-L	C([R])(=O)[O-]
+methylarsonite	InChIKey=OMPSDEOAXJHSLH-UHFFFAOYSA-N	C[As]([O-])[O-]
+hydrogensulfite	InChIKey=LSNNMFCWUKXFEE-UHFFFAOYSA-M	OS(=O)[O-]
+p-hydroxymercuribenzoate	InChIKey=WMHRYLDWLOGHSG-UHFFFAOYSA-L	C1(=C/C=C(\C=C/1)/C(=O)[O-])[Hg]O
+31-norcycloartanone	InChIKey=MCZKAQHKWYEXEU-XJXRDSNCSA-N	CC(C)CCC[C@@H](C)[C@H]3(CC[C@@]4(C)([C@@H]1(CC[C@H]5([C@H](C)C(=O)CC[C@@]2(C[C@@]12CC[C@](C)34)5))))
+prenylated FMNH2	InChIKey=GLNFBGKHGHVPRL-IYOUNJFTSA-L	CC1(\C(/C)=C2(C(C)(C)CCN3(C4(/C(=O)NC(=O)NC(\N(C[C@H](O)[C@H](O)[C@H](O)COP([O-])(=O)[O-])C(/C=1)=C2/3)=4))))
+P1,P3-bis(5'-adenosyl) triphosphate	InChIKey=QCICUPZZLIQAPA-XPWFQUROSA-K	C(OP(=O)([O-])OP(=O)([O-])OP(=O)([O-])OC[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3))[C@H]6(O[C@@H](N4(C5(\C(\N=C/4)=C(N)/N=C\N=5)))[C@H](O)[C@H](O)6)
+(L-cysteinyl)adenylate	InChIKey=CHQCHJWWSCSGOJ-MACXSXHHSA-N	C([R])(=O)[O-]
+2-all trans-hexaprenyl-6-methoxy-3-methylaminophenol	InChIKey=NEHNYHODQZCAIT-NSUIJKAQSA-N	CC(C)=CCCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CCC(\C)=C/CC1(\C(\N)=C(/C=C(C(/C)=1)/O)\OC)
+12,13-DiHOME	InChIKey=CQSLTKIXAJTQGA-FLIBITNWSA-M	C([R])(=O)[O-]
+palmitate	InChIKey=IPCSVZSSVZVIGE-UHFFFAOYSA-M	C([R])(=O)[O-]
+18-hydroxyoleoyl-CoA	InChIKey=MQACSUXWIYYZAK-UTNXWDCOSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+phenylacetate	InChIKey=WLJVXDMOQOGPHL-UHFFFAOYSA-M	C([R])(=O)[O-]
+hydrogen selenide	InChIKey=SPVXKVOXSXTJOY-UHFFFAOYSA-N	[SeH2]
+4-hydroxybenzoate	InChIKey=FJKROLUGYXJWQN-UHFFFAOYSA-M	C([R])(=O)[O-]
+ethyl decanoate	InChIKey=RGXWDWUGBIJHDO-UHFFFAOYSA-N	CCCCCCCCCC(=O)OCC
+4-(2-aminophenyl)-2,4-dioxobutanoate	InChIKey=CAOVWYZQMPNAFJ-UHFFFAOYSA-M	C(C(CC(C1(\C(\N)=C/C=C\C=1))=O)=O)([O-])=O
+(R)-S-lactoylglutathione	InChIKey=VDYDCVUWILIYQF-CSMHCCOUSA-M	C(S[R])[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+4alpha-methyl-zymosterol	InChIKey=FOUJWBXBKVVHCJ-YIJYGBTNSA-N	CC(C)=CCC[C@@H](C)[C@H]2(CC[C@H]3(C4(\CC[C@H]1([C@H](C)[C@@H](O)CC[C@@](C)1C(\CC[C@](C)23)=4))))
+3-deoxy-alpha-D-manno-2-octulosonate	InChIKey=NNLZBVFSCVTSLA-HXUQBWEZSA-M	C([R])(=O)[O-]
+O-phospho-L-serine	InChIKey=BZQFBWGGLXLEPQ-REOHCLBHSA-L	C([R])(=O)[O-]
+30-hydroxylanosterol	InChIKey=DWVYYKFZEDMMPU-PUXRVUTHSA-N	CC(C)=CCC[C@H]([C@@H]1([C@]3(C)([C@@](CO)(CC1)C4(\CC[C@@H]2(C(C)(C)[C@@H](O)CC[C@@]2(C(\CC3)=4)C)))))C
+fumarate	InChIKey=VZCYOOQTPOCHFL-OWOJBTEDSA-L	C(/C([O-])=O)=C\C(=O)[O-]
+iron(III)-enterobactin complex	InChIKey=NGILTSZTOFYVBF-UVJOBNTFSA-H	C7(OC([C@H]6(NC(C8(\C9(\O[Fe-3]135(OC2(\C(\O1)=C(\C=C/C=2)\C(N[C@H](C(=O)OC[C@H](NC(=O)C4(\C(\O3)=C(\C=C/C=4)\O5))C(=O)OC6)7)=O))OC(/C=C\C=8)=9)))=O))=O)
+(2E,5Z)-tetradec-2,5-enoyl-CoA	InChIKey=JVEFYXPCQBMMAA-ZMLWRGBOSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+roseoflavin	InChIKey=IGQLDUYTWDABFK-GUTXKFCHSA-M	CC3(/C=C2(C(/N(C[C@H](O)[C@H](O)[C@H](O)CO)C1(\C(\C(=O)[N-]C(=O)/N=1)=N/2))=C\C(\N(C)C)=3))
+S-D-mandeloylglutathione	InChIKey=YUKXYNWSJMQEBV-GYZKLXCISA-M	C(S[R])[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+gamma-L-glutamyl 5-phosphate	InChIKey=PJRXVIJAERNUIP-VKHMYHEASA-L	C(CC[C@@H](C(=O)[O-])[NH3+])(OP([O-])(=O)[O-])=O
+S-lactoylglutathione hemithioacetal	InChIKey=NITDPUFIYQDBCA-UDUUBDRPSA-M	C(S[R])[C@@H](C(NCC([O-])=O)=O)NC(=O)CC[C@H]([NH3+])C([O-])=O
+(2E)-icos-2-enoyl-CoA	InChIKey=ROOFWBIMBMJYGA-DSAUMYHJSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+(2R)-2,3-dihydroxy-3-methylbutanoate	InChIKey=JTEYKUFKXGDTEU-VKHMYHEASA-M	CC(C)(O)[C@@H](O)C(=O)[O-]
+D-glyceraldehyde	InChIKey=MNQZXJOMYWMBOU-VKHMYHEASA-N	C(=O)[R]
+hypoxanthine	InChIKey=FDGQSTZJBFJUBT-UHFFFAOYSA-N	C1(\NC2(C(=O)N\C=N/C(\N=1)=2))
+carbamoyl phosphate	InChIKey=FFQKYPRQEYGKAF-UHFFFAOYSA-L	C(=O)(N)OP(=O)([O-])[O-]
+guanine	InChIKey=UYTPUPDQBNUYGX-UHFFFAOYSA-N	C1(\NC2(/N=C(N)\NC(=O)C(/N=1)=2))
+mannose-1P	InChIKey=HXXFSFRBOHSIMQ-RWOPYEJCSA-L	
+(R)-3-(4-hydroxyphenyl)lactate	InChIKey=JVGVDSSUAVXRDY-MRVPVSSYSA-M	C([R])(=O)[O-]
+a-lgal-HEX-1:5		
+dimethylarsinous acid	InChIKey=VDEGQTCMQUFPFH-UHFFFAOYSA-N	C[As](C)O
+acetoacetyl-CoA	InChIKey=OJFDKHTZOUZBOS-CITAKDKDSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+brocresine	InChIKey=QNWOSJAGFSUDFE-UHFFFAOYSA-N	C(ON)C1(\C=C/C(/Br)=C(/C=1)/O)
+x-HEP-x:x		
+1,2-dihydro-beta-NADP	InChIKey=SNZSFAQYVLPEBZ-FUXVTKQXSA-J	C1(\N(CC(/C(=O)N)=C\C=1)[C@@H]2(O[C@@H]([C@H]([C@H]2O)O)COP(OP(OC[C@H]5(O[C@@H](N3(C4(\C(\N=C/3)=C(N)/N=C\N=4)))C(OP([O-])(=O)[O-])[C@H](O)5))(=O)[O-])(=O)[O-]))
+zymosterone	InChIKey=AUNLIRXIJAVBNM-ZSBATXSLSA-N	CC(C)=CCC[C@@H](C)[C@H]2(CC[C@H]3(C4(\CC[C@H]1(CC(=O)CC[C@@](C)1C(\CC[C@](C)23)=4))))
+coproporphyrinogen I	InChIKey=WIUGGJKHYQIGNH-UHFFFAOYSA-J	CC2(\C(/CCC([O-])=O)=C1(CC5(\NC(/CC4(\NC(/CC3(\NC(/CC(\N1)=2)=C(CCC([O-])=O)/C(\C)=3))=C(CCC([O-])=O)/C(\C)=4))=C(CCC([O-])=O)/C(\C)=5)))
+dodecyl sulfate	InChIKey=MOTZDAYCYVMXPC-UHFFFAOYSA-M	CCCCCCCCCCCCOS([O-])(=O)=O
+two adjacent thymidines in DNA		CC1(\C(=O)NC(N(\C=1)[C@@H]4(O[C@H](COP(O[C@H]3(C[C@H](N2(C(=O)NC(=O)C(/C)=C/2))O[C@H](COP(=O)([O-])O[a deoxyribonucleic acid])3))([O-])=O)[C@@H](OP([O-])(O[a deoxyribonucleic acid])=O)C4))=O)
+phosphoinositol-alpha-mannoside-phosphoinositol	InChIKey=BCJXLUMCLOOKBY-BEUVOYNRSA-L	C(OP(O[C@H]1([C@H](O)[C@@H](O)[C@H](O)[C@@H](O)[C@@H](O)1))(=O)[O-])[C@@H]2([C@@H](O)[C@H](O)[C@H](O)[C@H](O2)O[C@H]3([C@H](O)[C@@H](O)[C@@H]([C@H](O)[C@H](O)3)OP([O-])(=O)O))
+2,5-dichloromaleylacetate	InChIKey=PLPVRWUZGSFJJB-OWOJBTEDSA-L	C(=O)([O-])C(/Cl)=C\C(=O)C(Cl)C(=O)[O-]
+3-phenyl-2-oxopropanoate	InChIKey=BTNMPGBKDVTSJY-UHFFFAOYSA-M	C([R])(=O)[O-]
+1,2-dioleoylglycerol	InChIKey=AFSHUZFNMVJNKX-LLWMBOQKSA-N	C(O)[C@@H](COC(=O)[R1])OC(=O)[R2]
+4-trans-undecenoyl-CoA	InChIKey=AFMMIIQKXQNEDN-DUPKWVSKSA-J	CCCCCC/C=C/CCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(OP(=O)(OC[C@@H]1([C@@H](OP([O-])(=O)[O-])[C@@H](O)[C@@H](O1)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+b-dglc-HEX-1:5|6:d		
+Ca2+	InChIKey=BHPQYMZQTOCNFJ-UHFFFAOYSA-N	[Ca+2]
+beta-L-fucopyranose	InChIKey=SHZGCJCMOBCMKK-KGJVWPDLSA-N	C(=O)[R]
+5-hydroxy-CTP	InChIKey=DMFODUNDODUQKK-UAKXSSHOSA-J	C(OP(OP(=O)([O-])OP(=O)([O-])[O-])(=O)[O-])[C@@H]2([C@H]([C@@H](O)[C@H](N1(/C=C(C(/N)=N\C1=O)/O))O2)O)
+OH-	InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-M	[OH-]
+N1-(1-deoxy-D-fructos-1-yl)-L-lysine	InChIKey=CBRUZJAJTKPLHF-AYHFEMFVSA-N	C([R])(=O)[O-]
+alpha-D-fructofuranose	InChIKey=RFSUNEUAIZKAJO-ZXXMMSQZSA-N	C(O)[C@H]1(O[C@@](O)(CO)[C@H]([C@@H]1O)O)
+seleno-L-homocysteine	InChIKey=RCWCGLALNCIQNM-VKHMYHEASA-N	C([R])(=O)[O-]
+(L-threonylcarbamoyl)adenylate	InChIKey=GHLUPQUHEIJRCU-DWVDDHQFSA-L	C[C@@H](O)[C@@H](C([O-])=O)NC(=O)OP(OC[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3))([O-])=O
+squalene	InChIKey=YYGNTYWPHWGJRM-AAJYLUCBSA-N	CC(C)=CCCC(\C)=C/CCC(\C)=C/CC/C=C(C)/CC/C=C(C)/CCC=C(C)C
+(2S)-2-amino-4-deoxy-chorismate	InChIKey=OKLGKGPAZUNROU-YUMQZZPRSA-M	C=C(O[C@H]1(\C=C/C=C([C@@H]1[NH3+])/C(=O)[O-]))C(=O)[O-]
+(L-valyl)adenylate	InChIKey=KAVINRUMCQFLGF-NIXGFCADSA-N	C([R])(=O)[O-]
+quinolinate	InChIKey=GJAWHXHKYYXBSV-UHFFFAOYSA-L	C1(\N=C(C(/C([O-])=O)=C\C=1)\C([O-])=O)
+3',5'-cyclic GMP	InChIKey=ZOOGRGPOEVQQDX-UUOKFMHZSA-M	C4([C@@H]3([C@H]([C@H]([C@H](N1(C2(\N=C(N)/NC(=O)C(\N=C/1)=2)))O3)O)OP(O4)(=O)[O-]))
+phytanoyl-CoA	InChIKey=NRJQGHHZMSOUEN-HHVNVSIESA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+gamma-L-glutamyl-D-alanine	InChIKey=WQXXXVRAFAKQJM-UHNVWZDZSA-M	C[C@@H](NC(=O)CC[C@H]([NH3+])C(=O)[O-])C(=O)[O-]
+cytidine 2',3'-cyclic monophosphate	InChIKey=NMPZCCZXCOMSDQ-XVFCMESISA-M	C(O)[C@@H]2([C@@H]3([C@H]([C@H](N1(\C=C/C(/N)=N\C1=O))O2)OP(=O)([O-])O3))
+adenosine	InChIKey=OIRDTQYFTABQOQ-KQYNXXCUSA-N	C(O)[C@H]3(O[C@@H](N1(C2(\C(\N=C/1)=C(N)/N=C\N=2)))[C@H](O)[C@H](O)3)
+a-dglc-HEX-1:4|6:a		
+sterone-ring		C3(CCC2(C4(CCC1(CCCC1C(CCC2C3)4))))
+ADP-alpha-D-glucose	InChIKey=WFPZSXYXPSUOPY-ROYWQJLOSA-L	C([C@@H]1([C@H]([C@@H]([C@H]([C@H](O1)OP(OP(OC[C@H]4(O[C@@H](N2(C3(\C(\N=C/2)=C(N)/N=C\N=3)))[C@H](O)[C@H](O)4))(=O)[O-])(=O)[O-])O)O)O))O
+cycloeucalenol	InChIKey=HUNLTIZKNQDZEI-PGFZVWMDSA-N	CC(C)C(CC[C@@H](C)[C@H]3(CC[C@@]4(C)([C@@H]1(CC[C@H]5([C@H](C)[C@@H](O)CC[C@@]2(C[C@@]12CC[C@](C)34)5)))))=C
+arsenite3-	InChIKey=OWTFKEBRIAXSMO-UHFFFAOYSA-N	[As]([O-])([O-])[O-]
+D-erythrose	InChIKey=YTBSYETUWUMLBZ-IUYQGCFVSA-N	C(=O)[R]
+3-oxobehenoyl-CoA	InChIKey=RKCOGGUHKPTOQJ-GNSUAQHMSA-J	CC(C)([C@@H](O)C(=O)NCCC(=O)NCCSC(=O)[R])COP(=O)(OP(=O)(OC[C@H]1(O[C@H]([C@@H]([C@@H]1OP([O-])(=O)[O-])O)N2(C3(\N=C/N=C(C(\N=C/2)=3)/N))))[O-])[O-]
+spermine	InChIKey=PFNFFQXMRSDOHW-UHFFFAOYSA-R	C(CCC[NH2+]CCC[NH3+])[NH2+]CCC[NH3+]
+x-dglc-HEX-1:5		
+a-dglc-HEX-1:5|6:a		

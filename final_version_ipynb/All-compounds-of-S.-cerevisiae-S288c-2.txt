@@ -1,0 +1,1317 @@
+Compound	InChI-Key
+FMNH<SUB>2</SUB>	InChIKey=YTNIXZGTHTVJBW-SCRDCRAPSA-L
+b-dglc-HEX-1:5|6:a	
+2-amino-4-methyl-5-hydroxyethylthiazole	InChIKey=XGHVUVFECVBQLK-UHFFFAOYSA-O
+(2<i>E</i>)-dodec-2-enoyl-CoA	InChIKey=IRFYVBULXZMEDE-DEEZISNZSA-J
+an imino group	
+(2<i>S</i>,3<i>S</i>)-2-methylcitrate	InChIKey=YNOXCRMFGMSKIJ-NFNCENRGSA-K
+<i>S</i>-methyl-5'-thioadenosine	InChIKey=WUUGFSXJNOTRMR-IOSLPCCCSA-N
+5,10-methylene-tetrahydromethanopterin	InChIKey=GBMIGEWJAPFSQI-CAFBYHECSA-K
+&alpha;-D-glucose 1,6-bisphosphate	InChIKey=RWHOZGRAXYWRNX-VFUOTHLCSA-J
+(R)-mevalonate diphosphate	InChIKey=SIGQQUBJQXSAMW-ZCFIWIBFSA-J
+2-<i>trans</i>, 5-<i>cis</i>, 7-<i>trans</i>-tetradecatrienoyl-CoA	InChIKey=XPVHXTGUZGACRU-MCFMHTHASA-J
+3-methylbenzaldehyde	InChIKey=OVWYEQOVUDKZNU-UHFFFAOYSA-N
+2,4-dinitrophenyl-S-glutathione	InChIKey=FXEUKVKGTKDDIQ-UWVGGRQHSA-M
+(<i>S</i>)-NADPHX	InChIKey=SZKXTJUOKARGIY-VPHRTNKSSA-J
+lanosterol	InChIKey=CAHGCLMLTWQZNJ-BQNIITSRSA-N
+malonyl-CoA	InChIKey=LTYOQGRJFJAKNA-DVVLENMVSA-I
+L-glutamate 5-semialdehyde	InChIKey=KABXUUFDPUOJMW-BYPYZUCNSA-N
+4'-phosphopantetheine group	
+L-aspartate	InChIKey=CKLJMWTZIZZHCS-REOHCLBHSA-M
+cyanate	InChIKey=XLJMAIOERFSOGZ-UHFFFAOYSA-M
+CDP-choline	InChIKey=RZZPDXZPRHQOCG-OJAKKHQRSA-M
+ubiquinone-<i>6</i>	InChIKey=GXNFPEOUKFOTKY-LPHQIWJTSA-N
+a-dgro-dgal-NON-2:6|1:a|2:keto|3:d	
+dethiobiotin	InChIKey=AUTOLBMXDDTRRT-JGVFFNPUSA-M
+(<i>R</i>)-lipoate	InChIKey=AGBQKNBQESQNJD-SSDOTTSWSA-M
+decanoyl-CoA	InChIKey=CNKJPHSEFDPYDB-HSJNEKGZSA-J
+ADP-D-ribose	InChIKey=SRNWOUGRCWSEMX-TYASJMOZSA-L
+3-(hydroxymethyl)-5-methylphenol	InChIKey=SDJQWNMVKBEBSJ-UHFFFAOYSA-N
+1-palmitoyl-<i>sn</i>-glycero-3-phosphocholine	InChIKey=ASWBNKHCZGQVJV-HSZRJFAPSA-N
+L-aspartate 4-semialdehyde	InChIKey=HOSWPDPVFBCLSY-VKHMYHEASA-N
+fenpropimorph	InChIKey=RYAUSSKQMZRMAI-UHFFFAOYSA-O
+ferroheme <i>o</i>	InChIKey=FISPASSVCDRERW-ARQJTVBPSA-J
+L-2-aminoadipate	InChIKey=OYIFNHCXNCRBQI-BYPYZUCNSA-M
+uridine	InChIKey=DRTQHJPVMGBUCF-XVFCMESISA-N
+2-iminopropanoate	InChIKey=DUAWRLXHCUAWMK-UHFFFAOYSA-N
+L-homoserine	InChIKey=UKAUYVFTDYCKQA-VKHMYHEASA-N
+(12Z,15Z)-9,10-epoxyoctadeca-12,15-dienoate	InChIKey=JTEGNNHWOIJBJZ-ZJSQCTGTSA-M
+(<i>R</i>)-2-hydroxyhexadecanoate	InChIKey=JGHSBPIZNUXPLA-OAHLLOKOSA-M
+3-(4-hydroxyphenyl)pyruvate	InChIKey=KKADPXVIOXHVKN-UHFFFAOYSA-M
+phenylacetaldehyde	InChIKey=DTUQWGWMVIHBKE-UHFFFAOYSA-N
+3-phospho-D-glyceroyl phosphate	InChIKey=LJQLQCAXBUHEAZ-UWTATZPHSA-J
+CTP	InChIKey=PCDQPRRSZKQHHS-XVFCMESISA-J
+(L-histidyl)adenylate	InChIKey=XTFBSLZFYLGYAT-OPYVMVOTSA-N
+xanthurenate	InChIKey=FBZONXHGGPHHIY-UHFFFAOYSA-M
+cerulenin	InChIKey=GVEZIHKRYBHEFX-NQQPLRFYSA-N
+3-hydroxyanthranilate	InChIKey=WJXSWCUQABXPFS-UHFFFAOYSA-M
+x-lido-HEX-1:5|6:a	
+EDTA	InChIKey=KCXVZYZYPLLWCC-UHFFFAOYSA-L
+(2<i>E</i>,6<i>E</i>)-farnesyl diphosphate	InChIKey=VWFJDQUYCIWHTN-YFVJMOTDSA-K
+&alpha;-D-galactofuranose	InChIKey=AVVWPBAENSWJCB-TVIMKVIFSA-N
+acrylate	InChIKey=NIXOWILDQLNWCW-UHFFFAOYSA-M
+(3<i>S</i>)-2,3-epoxy-2,3-dihydrosqualene	InChIKey=QYIMSPSDBYKPPY-RSKUXYSASA-N
+(L-leucyl)adenylate	InChIKey=AXWPLGAOCISUCB-OPYVMVOTSA-N
+formaldehyde	InChIKey=WSFSSNUMVMOOMR-UHFFFAOYSA-N
+5&alpha;-cholesta-8-en-3-one	InChIKey=RZSXSHNNQBIPTL-ZSBATXSLSA-N
+L-lysine	InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O
+xanthosine	InChIKey=UBORTCNDUKBEOP-UUOKFMHZSA-N
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide	InChIKey=NOTGFIUVDGNKRI-UUOKFMHZSA-L
+2-oleoylglycerol	InChIKey=UPWGQKDVAURUGE-KTKRTIGZSA-N
+phytenoyl-CoA	InChIKey=NYZPDFUAZACYOT-PEAQSEFFSA-J
+3-deoxy-D-arabino-heptulopyranuronate 7-phosphate	InChIKey=QOYBDYMPWLOFKG-YCHQMNKZSA-K
+b-lglc-HEX-1:5|6:a	
+2-hydroxy-4-oxobutane-1,2,4-tricarboxylate	InChIKey=RQMCNDRMPZBEOD-UHFFFAOYSA-K
+cycloeucalenone	InChIKey=NFRXSIOHGADFRG-MEMZBLDGSA-N
+mono-<i>trans</i>,octa-<i>cis</i>-decaprenyl diphosphate	InChIKey=FSCYHDCTHRVSKN-DJNGBRKISA-K
+<i>N</i>-acetyl-&alpha;-D-glucosamine 1-phosphate	InChIKey=FZLJPEPAYPUMMR-FMDGEEDCSA-L
+3-deoxy-&beta;-D-<i>manno</i>-2-octulosonate	InChIKey=NNLZBVFSCVTSLA-FBXMPTEYSA-M
+adenine-ring	
+fluconazole	InChIKey=RFHAOTPXVQNOHP-UHFFFAOYSA-N
+(7<i>R</i>,8<i>S</i>)-diaminononanoate	InChIKey=KCEGBPIYGIWCDH-JGVFFNPUSA-O
+(2E, 4E)-undeca-2,4-dienoyl-CoA	InChIKey=SZKPLUULGGERFD-MSNZEOPQSA-J
+1-C16:0-&alpha;,&omega;-dicarboxyl-2-lysophosphatidate	InChIKey=LSETUZAYSCHYKL-QGZVFWFLSA-K
+<i>cis</i>-homoaconitate	InChIKey=BJYPZFUWWJSAKC-ARJAWSKDSA-K
+&alpha;-D-ribose-1-phosphate	InChIKey=YXJDFQJKERBOBM-TXICZTDVSA-L
+arsenite	InChIKey=AQLMHYSWFMLWBS-UHFFFAOYSA-N
+(indol-3-yl)acetaldehyde	InChIKey=WHOOUMGHGSPMGR-UHFFFAOYSA-N
+<i>N,N',N''</i>-triacetylchitotriose	InChIKey=WZZVUHWLNMNWLW-MEWKLCDLSA-N
+&alpha;-D-glucopyranose 1-phosphate	InChIKey=HXXFSFRBOHSIMQ-VFUOTHLCSA-L
+glutathione disulfide	InChIKey=YPZRWBKMTBYPTK-BJDJZHNGSA-L
+ammonium	InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
+3-hydroxy-4-methylbenzaldehyde	InChIKey=DHVJHJQBQKKPNB-UHFFFAOYSA-N
+an &omega;-saturated C55 dolichol phosphate group	InChIKey=KTGSDHZXAKCYHM-LSTWDCEHSA-L
+3-oxoicosanoyl-CoA	InChIKey=FYBVHNZJDVUVLJ-IBYUJNRCSA-J
+10-<i>N</i>-nonyl acridine orange	InChIKey=CHKMESCAQLVOQU-UHFFFAOYSA-N
+pyridoxal	InChIKey=RADKZDMFGJYCBB-UHFFFAOYSA-N
+<i>N</i><sup>6</sup>-(1-deoxy-D-fructos-1-yl)-L-lysine	InChIKey=BFSYFTQDGRDJNV-AYHFEMFVSA-O
+(indol-3-yl)acetate	InChIKey=SEOVTRFCIGRIMH-UHFFFAOYSA-M
+&alpha;-L-ribulofuranose	InChIKey=LQXVFWRQNMEDEE-VAYJURFESA-N
+choline	InChIKey=OEYIOHPDSNJKLS-UHFFFAOYSA-N
+phytosphingosine	InChIKey=AERBNCYCJBRYDG-KSZLIROESA-O
+&gamma;-L-glutamyl-L-cysteine	InChIKey=RITKHVBHSGLULN-WHFBIAKZSA-M
+L-proline	InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
+orotate	InChIKey=PXQPEWDEAKTCGB-UHFFFAOYSA-M
+(3<i>R</i>)-3-hydroxycerotoyl-CoA	InChIKey=GBMJOTOUUWGTIA-CSLACTSSSA-J
+&gamma;-L-glutamyl-(<i>S</i>)-2-carboxypropyl-L-cysteine	InChIKey=USEJNLPKVXGAOO-ALKRTJFJSA-L
+(<i>Z,Z</i>)-biliverdin-IX &alpha;	InChIKey=QBUVFDKTZJNUPP-BBROENKCSA-L
+<i>N</i>-(5-phosphoribosyl)-anthranilate	InChIKey=PMFMJXPRNJUYMB-GWOFURMSSA-K
+oxalyl-CoA	InChIKey=QVXMZFTWJVBUHP-IBOSZNHHSA-I
+(<i>S</i>)-lactate	InChIKey=JVTAAEKCZFNVCJ-REOHCLBHSA-M
+(L-methionyl)adenylate	InChIKey=RZQLXQQLNKBFRX-TWBCTODHSA-N
+adenosine 2',3'-cyclic monophosphate	InChIKey=KMYWVDDIPVNLME-KQYNXXCUSA-M
+(2S,5S)-hexanediol	InChIKey=OHMBHFSEKCCCBW-WDSKDSINSA-N
+&alpha;-L-glucopyranose	InChIKey=WQZGKKKJIJFFOK-MDMQIMBFSA-N
+(R)-&beta;-hydroxy-L-kynurenine	InChIKey=MEMLLRTVGBILJW-IONNQARKSA-N
+L-<i>threo</i>-sphinganine	InChIKey=OTKJDMGTUTTYMP-ROUUACIJSA-O
+acetaldehyde	InChIKey=IKHGUXGNUITLKF-UHFFFAOYSA-N
+&alpha;-D-galactose 1-phosphate	InChIKey=HXXFSFRBOHSIMQ-FPRJBGLDSA-L
+(S)-acetoin	InChIKey=ROWKJAVDOGWPAT-VKHMYHEASA-N
+IDP	InChIKey=JPXZQMKKFWMMGK-KQYNXXCUSA-K
+xylitol	InChIKey=HEBKCHPVOIAQTA-SCDXWVJYSA-N
+(6R)-L-<i>erythro</i>-6,7-dihydrobiopterin	InChIKey=ZHQJVZLJDXWFFX-RPDRRWSUSA-N
+oxythiamine	InChIKey=SRDGSXVLAVRBLU-UHFFFAOYSA-O
+CI 976	InChIKey=WAFNZAURAWBNDZ-UHFFFAOYSA-N
+2-chloro-<i>trans</i>-dienelactone	InChIKey=ADSGHWJRPOXXTD-NSCUHMNNSA-M
+2-hydroxy-2-methylpropanenitrile	InChIKey=MWFMGBPGAXYFAR-UHFFFAOYSA-N
+2-<i>trans</i>,6-<i>cis</i>-tridecadienoyl-CoA	InChIKey=OOSDLBAXVXKFIB-GTUBXKNVSA-J
+ethylene glycol	InChIKey=LYCAIKOWRPUZTN-UHFFFAOYSA-N
+phenylarsine oxide	InChIKey=BQVCCPGCDUSGOE-UHFFFAOYSA-N
+nicotinamide	InChIKey=DFPAKSUCGFBDDF-UHFFFAOYSA-N
+&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;3)-[&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;3)-[&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;6)]-&alpha;-D-Man-(1&rarr;6)]-&beta;-D-Man-(1&rarr;4)-&beta;-D-GlcNAc-(1&rarr;4)-&alpha;-D-glucosaminylamine	InChIKey=CBRCWZPEYRVZSO-ZGFWTNSWSA-O
+sulfate	InChIKey=QAOWNCQODCNURD-UHFFFAOYSA-L
+kynurenate	InChIKey=HCZHHEIFKROPDY-UHFFFAOYSA-L
+5-acetamidovalerate	InChIKey=TZZSWAXSIGWXOS-UHFFFAOYSA-M
+4-guanidinobutanoate	InChIKey=TUHVEAJXIMEOSA-UHFFFAOYSA-N
+CDP-ethanolamine	InChIKey=WVIMUEUQJFPNDK-PEBGCTIMSA-M
+2-<i>all trans</i>-hexaprenyl-6-methoxyaminobenzene	InChIKey=JGVGCZFKHHNOKU-DUBIXASGSA-N
+L-glutamine	InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
+a [1-Cys peroxiredoxin]-(<i>S</i>-hydroxycysteine)	
+2,3-didehydro-L-gulonate	InChIKey=GJQWCDSAOUMKSE-STHAYSLISA-M
+3,5-bisdiphosphoinositol-1D-<i>myo</i>-inositol 2,3,4,6-tetrakisphosphate	InChIKey=HHQOOERQSFJGEP-ZSIQDKGESA-A
+3-methylbut-3-en-1-yl diphosphate	InChIKey=NUHSROFQTUXZQQ-UHFFFAOYSA-K
+L-kynurenine	InChIKey=YGPSJZOEDVAXAB-QMMMGPOBSA-N
+&alpha;-D-idopyranuronate	InChIKey=AEMOLEFTQBMNLQ-CLQWQSTFSA-M
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	InChIKey=XFVULMDJZXYMSG-ZIYNGMLESA-K
+cyclic- 3,4-<i>O</i>-oxalyl-L-threonate	InChIKey=FTDFTFXOJYXVTH-UHFFFAOYSA-M
+2-<i>trans</i>-6-<i>trans</i>-tridecadienoyl-CoA	InChIKey=OOSDLBAXVXKFIB-BJBRNGJVSA-J
+methylarsonic acid	InChIKey=QYPPRTNMGCREIM-UHFFFAOYSA-N
+hydroxyacetone	InChIKey=XLSMFKSTNGKWQX-UHFFFAOYSA-N
+nt-pentose-ring	
+&beta;-alanine	InChIKey=UCMIRNVEIXFBKS-UHFFFAOYSA-N
+&alpha;-L-xylopyranose	InChIKey=SRBFZHDQGSBBOR-SKNVOMKLSA-N
+(L-lysyl)adenylate	InChIKey=RZWIOOBQBMRZTQ-OPYVMVOTSA-O
+acetamide	InChIKey=DLFVBJFMPXGRIB-UHFFFAOYSA-N
+&alpha;-D-mannose 1-phosphate	InChIKey=HXXFSFRBOHSIMQ-RWOPYEJCSA-L
+L-homocysteine	InChIKey=FFFHZYDWPBMWHY-VKHMYHEASA-N
+ethyl octanoate	InChIKey=YYZUSRORWSJGET-UHFFFAOYSA-N
+glycerol	InChIKey=PEDCQBHIVMGVHV-UHFFFAOYSA-N
+dATP	InChIKey=SUYVUBYJARFZHO-RRKCRQDMSA-J
+hydrogen peroxide	InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
+2-<i>trans</i>-nonenoyl-CoA	InChIKey=HBLOTZDYPZAZLE-OWQWVSLFSA-J
+D-gluconate	InChIKey=RGHNJXZEOKUKBD-SQOUGZDYSA-M
+x-dman-HEX-1:5	
+(L-phenylalanyl)adenylate	InChIKey=ZFNOOEXYTZPIQS-URQYDQELSA-N
+3-hydroxypentan-2-one	InChIKey=HDKKRASBPHFULQ-UHFFFAOYSA-N
+(8<i>S</i>)-8-amino-7-oxononanoate	InChIKey=GUAHPAJOXVYFON-ZETCQYMHSA-N
+myristoyl-CoA	InChIKey=DUAFKXOFBZQTQE-QSGBVPJFSA-J
+(3E)-tetradec-3-enoyl-CoA	InChIKey=SSOCUKXLUZQJHU-CTFJFIKLSA-J
+<i>sn</i>-glycero-3-phosphoethanolamine	InChIKey=JZNWSCPGTDBMEW-RXMQYKEDSA-N
+&alpha;-L-rhamnopyranose	InChIKey=SHZGCJCMOBCMKK-HGVZOGFYSA-N
+<i>N</i>-ethylmaleimide	InChIKey=HDFGOPSGAURCEO-UHFFFAOYSA-N
+formyl-CoA	InChIKey=SXMOKYXNAPLNCW-GORZOVPNSA-J
+5-(methylsulfanyl)-2,3-dioxopentyl 1-phosphate	InChIKey=HKEAOVFNWRDVAJ-UHFFFAOYSA-L
+benzyl alcohol	InChIKey=WVDDGKGOMKODPV-UHFFFAOYSA-N
+glycerone phosphate	InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L
+(L-tryptophanyl)adenylate	InChIKey=IFQVDHDRFCKAAW-SQIXAUHQSA-N
+x-dman-HEX-1:4	
+2-[(2<i>R</i>,5<i>Z</i>)-2-carboxy-4-methylthiazol-5(2<i>H</i>)-ylidene]ethyl phosphate	InChIKey=PQMCQNOVNFNPFJ-HYIMLASBSA-K
+4&alpha;-methyl-5&alpha;-cholest-7-en-3&beta;-ol	InChIKey=LMYZQUNLYGJIHI-SPONXPENSA-N
+octyl &beta;-D-glucopyranoside	InChIKey=HEGSGKPQLMEBJL-RKQHYHRCSA-N
+D-glucono-1,5-lactone	InChIKey=PHOQVHQSTUBQQK-SQOUGZDYSA-N
+pentose-ring	
+24-methylenecycloartanol	InChIKey=BDHQMRXFDYJGII-UEBIAWITSA-N
+x-lgal-HEX-1:5	
+<i>(S)</i>-lactic acid	InChIKey=JVTAAEKCZFNVCJ-REOHCLBHSA-N
+15,16-DiHODE	InChIKey=LKLLJYJTYPVCID-OHPMOLHNSA-M
+oleate	InChIKey=ZQPPMHVWECSIRJ-KTKRTIGZSA-M
+acrylamide	InChIKey=HRPVXLWXLXDGHG-UHFFFAOYSA-N
+D-mannitol	InChIKey=FBPFZTCFMRRESA-KVTDHHQDSA-N
+1-(18-hydroxyoleoyl)-<i>sn</i>-glycrol 3-phosphate	InChIKey=GFJKJLHWWZXDAU-KXFGNQBASA-L
+6-<i>trans</i>-3-oxo-tridecenoyl-CoA	InChIKey=FDXHXLPCLXEYSU-HMXWSVNBSA-J
+L-leucine	InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
+<i>trans</i>-lignocer-2-enoyl-CoA	InChIKey=UVJKZCSQLMWPMV-LQJAWXTISA-J
+1-(&beta;-D ribofuranosyl)nicotinamide	InChIKey=JLEBZPBDRKPWTD-TURQNECASA-O
+2-<i>all trans</i>-hexaprenyl-6-methoxyphenol	InChIKey=WVPRAWNIVDFQBO-DUBIXASGSA-N
+phospho<i>enol</i>pyruvate	InChIKey=DTBNBXWJWCWCIK-UHFFFAOYSA-K
+hexadecanedioyl-CoA	InChIKey=GTCSHNMTNCXODY-CCAJQFMUSA-I
+a thiol group	
+2-dehydropantoate	InChIKey=PKVVTUWHANFMQC-UHFFFAOYSA-M
+5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole	InChIKey=NAQGHJTUZRHGAC-LBGUGVGYSA-J
+thiocyanate	InChIKey=ZMZDMBWJUHKJPS-UHFFFAOYSA-M
+D-sedoheptulose 1,7-bisphosphate	InChIKey=OKHXOUGRECCASI-SHUUEZRQSA-J
+(<i>E</i>)-(4-aminobutylidene)(3-aminopropyl)amine	InChIKey=YAVLYBVKPXLZEQ-UXBLZVDNSA-Q
+antimonous acid	InChIKey=SZOADBKOANDULT-UHFFFAOYSA-K
+pentadecanoyl-CoA	InChIKey=VLBCUOVMSMAIJC-VTINEICCSA-J
+glucosyl-oleandomycin	InChIKey=DGXXZLIJQKOLQC-GZFACOMDSA-O
+octanoate	InChIKey=WWZKQHOCKIZLMA-UHFFFAOYSA-M
+2-phospho-D-glycerate	InChIKey=GXIURPTVHJPJLF-UWTATZPHSA-K
+1,2-butanediol	InChIKey=BMRWNKZVCUKKSR-UHFFFAOYSA-N
+sulfoacetate	InChIKey=AGGIJOLULBJGTQ-UHFFFAOYSA-L
+RX	
+x-dara-PEN-1:4	
+4-nitrobenzyl alcohol	InChIKey=JKTYGPATCNUWKN-UHFFFAOYSA-N
+enol-oxaloacetate	InChIKey=UWYVPFMHMJIBHE-UPHRSURJSA-L
+1-(5-phospho-&beta;-D-ribosyl)-AMP	InChIKey=RTQMRTSPTLIIHM-KEOHHSTQSA-J
+citrate	InChIKey=KRKNYBCHXYNGOX-UHFFFAOYSA-K
+D-erythrose 4-phosphate	InChIKey=NGHMDNPXVRFFGS-IUYQGCFVSA-L
+1-palmitoyl-<i>sn</i>-glycerol	InChIKey=QHZLMUACJMDIAE-SFHVURJKSA-N
+C<sub>20</sub> 3-dehydrosphinganine	InChIKey=FVOLNXKBISLPQY-IBGZPJMESA-O
+&alpha;-D-mannopyranose	InChIKey=WQZGKKKJIJFFOK-PQMKYFCFSA-N
+a-HEX-1:5	
+(<i>R</i>)-mevalonate	InChIKey=KJTLQQUUPVSXIM-ZCFIWIBFSA-M
+<i>S</i>-(hydroxymethyl)glutathione	InChIKey=PIUSLWSYOYFRFR-BQBZGAKWSA-M
+phosphoinositol-&alpha;-mannoside	InChIKey=RKBZSOHCWNFBLV-AMEHKVJOSA-L
+1D-<i>myo</i>-inositol 1,5-bis(diphosphate) 2,3,4,6-tetrakisphosphate	InChIKey=HHQOOERQSFJGEP-SLWYWOEDSA-A
+pyrithiamine	InChIKey=UZLPMHGCXVJFGY-UHFFFAOYSA-N
+protocatechuate	InChIKey=YQUVCSBJEUQKSH-UHFFFAOYSA-M
+4-vinylguaiacol	InChIKey=YOMSJEATGXXYPX-UHFFFAOYSA-N
+ergosterol 3-O-&beta;-D-glucoside	InChIKey=MKZPNGBJJJZJMI-GBLVNJONSA-N
+b-dman-HEX-1:5|6:d	
+a-dman-HEX-1:5	
+(<i>S</i>)-1-pyrroline-5-carboxylate	InChIKey=DWAKNKKXGALPNW-BYPYZUCNSA-M
+&gamma;-L-glutamyl-(<i>S</i>)-methyl-L-cysteine	InChIKey=UPCDLBPYWXOCOK-WDSKDSINSA-M
+2-phenylethanol	InChIKey=WRMNZCZEMHIOCP-UHFFFAOYSA-N
+GLYCO-CT-METHYL	
+Na<SUP>+</SUP>	InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+1-methylnicotinamide	InChIKey=LDHMAVIPBRSVRG-UHFFFAOYSA-O
+L-arginine	InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
+(3R)-3-hydroxy-2-oxo-4 phosphooxybutanoate	InChIKey=MZJFVXDTNBHTKZ-UWTATZPHSA-K
+5-deoxy-&alpha;-D-ribose 1-phosphate	InChIKey=XXQFKXPJJNBLSU-TXICZTDVSA-L
+5-methylcytosine	InChIKey=LRSASMSXMSNRBT-UHFFFAOYSA-N
+3-<i>all trans</i>-hexaprenyl-4,5-dihydroxybenzoate	InChIKey=VEPICJBQCOUQPI-IRVXXIIISA-M
+<i>O</i>-acetyl-L-homoserine	InChIKey=FCXZBWSIAGGPCB-YFKPBYRVSA-N
+2-methylbutanol	InChIKey=QPRQEDXDYOZYLA-UHFFFAOYSA-N
+&alpha;-hydroxyheme	InChIKey=QIKCVSLEZBFGCU-CEPNNTPPSA-J
+4&alpha;-methyl-5&alpha;-cholesta-8-en-3-one	InChIKey=SDZUXFFGOQZLPK-SINUOACOSA-N
+nicotinate	InChIKey=PVNIIMVLHYAWGP-UHFFFAOYSA-M
+(<i>R</i>)-3-(4-hydroxyphenyl)lactoyl-CoA	InChIKey=GIITZIBVBMYMGJ-NHZRKUKBSA-J
+acetyl-CoA	InChIKey=ZSLZBFCDCINBPY-ZSJPKINUSA-J
+(3<i>S</i>)-3-hydroxy-L-aspartate	InChIKey=YYLQUHNPNCGKJQ-LWMBPPNESA-M
+1-(<i>sn</i>-glycero-3-phospho)-1D-myo-inositol	InChIKey=BMVUIWJCUQSHLZ-UJGXJMNGSA-M
+(3R)-hydroxy-undecanoyl-CoA	InChIKey=JIOGXINZSOQEGE-MAWALYKISA-J
+b-dara-HEX-2:5|2:keto	
+3-hydroxybenzaldehyde	InChIKey=IAVREABSGIHHMO-UHFFFAOYSA-N
+3'-dephospho-CoA	InChIKey=KDTSHFARGAKYJN-IBOSZNHHSA-L
+1-(5-phospho-&beta;-D-ribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide	InChIKey=QOUSHGMTBIIAHR-KEOHHSTQSA-J
+arachidonate	InChIKey=YZXBAPSDXZZRGB-DOFZRALJSA-M
+5-chloro-<i>trans</i>-dienelactone	InChIKey=AFKYGJZZMYXBLV-HWKANZROSA-M
+2-(glutathion-<i>S</i>-yl)-propene	InChIKey=HYWLPDOKCGRIQZ-IUCAKERBSA-M
+(2E)-undec-2-enoyl-CoA	InChIKey=CAVMKINPGRCURL-PHHHIDLGSA-J
+[polyketide synthase acyl-carrier protein]-group	
+a-xgal-HEX-1:5|6:a	
+siroheme	InChIKey=DLKSSIHHLYNIKN-QIISWYHFSA-D
+D-glycerate	InChIKey=RBNPOMFGQQGHHO-UWTATZPHSA-M
+Cu<sup>II</sup>-phytate	InChIKey=ARWMRCBCVDYYON-ZLVNENNRSA-B
+&beta;-D-mannuronate	InChIKey=AEMOLEFTQBMNLQ-SYJWYVCOSA-M
+GLYCO-CT-PHOSPHATE	
+b-lgal-HEX-1:5	
+1-oleoyl-2-palmitoyl-phosphatidylglycerol	InChIKey=GTCKEWVHTGGUSN-HGWHEPCSSA-M
+2-14:1-lysophosphatidylglycerol	InChIKey=ACWLYYNLRJOYRA-ZYHOBAKYSA-M
+(3Z,5E)-dodec-3,5-dienoyl-CoA	InChIKey=ARQUZFJQPYWSSL-NBLUIMTHSA-J
+D-ribulose 5-phosphate	InChIKey=FNZLKVNUWIIPSJ-UHNVWZDZSA-L
+(3R)-hydroxy, 6-<i>cis</i>-tridecenoyl-CoA	InChIKey=ADZJVTNIXNSNGU-UKOYHULUSA-J
+coniferyl alcohol	InChIKey=JMFRWRFFLBVWSI-NSCUHMNNSA-N
+oxidized DCPIP	InChIKey=CCBICDLNWJRFPO-UHFFFAOYSA-N
+(5Z,8Z,11Z,14Z,17Z)-icosapentaenoate	InChIKey=JAZBEHYOTPTENJ-JLNKQSITSA-M
+cyanamide	InChIKey=XZMCDFZZKTWFGF-UHFFFAOYSA-N
+D-arabinono-1,4-lactone	InChIKey=CUOKHACJLGPRHD-JJYYJPOSSA-N
+<i>keto</i>-L-sorbose	InChIKey=BJHIKXHVCXFQLS-OTWZMJIISA-N
+x-dxyl-PEN-1:5	
+prenyl phosphate	InChIKey=MQCJHQBRIPSIKA-UHFFFAOYSA-L
+4-methylbenzyl alcohol	InChIKey=KMTDMTZBNYGUNX-UHFFFAOYSA-N
+<i>p</i>-chloromercuribenzoate	InChIKey=YFZOUMNUDGGHIW-UHFFFAOYSA-L
+(L-tryrosyl)adenylate	InChIKey=NFCVQVDMLQEZAK-URQYDQELSA-N
+<i>N,N</i>-dimethylaniline-<i>N</i>-oxide	InChIKey=LKQUDAOAMBKKQW-UHFFFAOYSA-N
+<i>N</i><SUP>1</SUP>-acetylspermidine	InChIKey=MQTAVJHICJWXBR-UHFFFAOYSA-P
+zymostenol	InChIKey=QETLKNDKQOXZRP-XTGBIJOFSA-N
+dCDP	InChIKey=FTDHDKPUHBLBTL-SHYZEUOFSA-K
+hydroxyl radical	InChIKey=TUJKJAMUKRIRHC-UHFFFAOYSA-N
+(indol-3-yl)ethanol	InChIKey=MBBOMCVGYCRMEA-UHFFFAOYSA-N
+(6<i>R</i>)-L-<i>erythro</i>-5,6,7,8-tetrahydrobiopterin	InChIKey=FNKQXYHWGSIFBK-RPDRRWSUSA-N
+diphosphate	InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
+di-homo-&gamma;-linolenate	InChIKey=HOBAELRKJCKHQD-QNEBEIHSSA-M
+hydrosulfide	InChIKey=RWSOTUBLDIXVET-UHFFFAOYSA-M
+(indol-3-yl)acetonitrile	InChIKey=DMCPFOBLJMLSNX-UHFFFAOYSA-N
+<i>trans</i>-cinnamate	InChIKey=WBYWAXJHAXSJNI-VOTSOKGWSA-M
+12,13-DiHODE	InChIKey=RGRKFKRAFZJQMS-OOHFSOINSA-M
+a-lxyl-PEN-1:5	
+3-oxopropanoate	InChIKey=OAKURXIZZOAYBC-UHFFFAOYSA-M
+octanoyl-CoA	InChIKey=KQMZYOXOBSXMII-CECATXLMSA-J
+5-<i>cis</i>, 7-<i>trans</i>-3-oxo-tetradecadienoyl-CoA	InChIKey=NJXBFCFHVUIEMZ-QTJPLKLFSA-J
+b-dgro-dgal-NON-2:6|1:a|2:keto|3:d	
+guanosine 2',3'-cyclic monophosphate	InChIKey=UASRYODFRYWBRC-UUOKFMHZSA-M
+2-chloromaleylacetate	InChIKey=QOHGUQUQCPIROQ-DAFODLJHSA-L
+<i>N</i><SUP>8</SUP>-acetylspermidine	InChIKey=FONIWJIDLJEJTL-UHFFFAOYSA-P
+3-phosphooxypyruvate	InChIKey=LFLUCDOSQPJJBE-UHFFFAOYSA-K
+&gamma;-L-glutamyl-(<i>S</i>)-2-aminobutanoate	InChIKey=FUZOZPRKGAXGOB-WDSKDSINSA-M
+ketoconazole	InChIKey=XMAYWYJOQHXEEK-ZEQKJWHPSA-N
+3-<i>O</i>-methyl-D-mannose	InChIKey=SCBBSJMAPKXHAH-BWSJPXOBSA-N
+31-norcycloartanol	InChIKey=RXPPOAQPYLFCAS-WXPWFURYSA-N
+<i>S</i>-(2-succinyl)-L-cysteine	InChIKey=XPKKFTKCRVIDAG-WUCPZUCCSA-L
+reduced &beta;-nicotinamide D-ribonucleotide	InChIKey=XQHMUSRSLNRVGA-TURQNECASA-L
+4&alpha;-carboxy-5&alpha;-cholesta-8,24-dien-3&beta;-ol	InChIKey=JHIWIFRQJXLNEU-GSQAGGHASA-M
+protoheme	InChIKey=KABFMIBPWCXCRK-RGGAHWMASA-J
+ADP ribose 1'',2''-cyclic phosphate	InChIKey=NPSPRYXPOGPCPM-TYASJMOZSA-K
+propane-1,3-diamine	InChIKey=XFNJVJPLKCPIBV-UHFFFAOYSA-P
+(7,8-dihydropterin-6-yl)methyl diphosphate	InChIKey=FCQGJGLSOWZZON-UHFFFAOYSA-K
+D-<i>myo</i>-inositol (1,4,5,6)-tetrakisphosphate	InChIKey=MRVYFOANPDTYBY-YORTWTKJSA-F
+pyridoxamine	InChIKey=NHZMQXZHNVQTQA-UHFFFAOYSA-O
+ADP-5-ethyl-4-methylthiazole-2-carboxylate	InChIKey=VGXBGQACJQRWLV-LKGUXBDMSA-K
+<i>trans</i>-aconitate	InChIKey=GTZCVFVGUGFEME-HNQUOIGGSA-K
+thiamine triphosphate	InChIKey=IWLROWZYZPNOFC-UHFFFAOYSA-K
+&alpha;-D-galactopyranose	InChIKey=WQZGKKKJIJFFOK-PHYPRBDBSA-N
+<i>aldehydo</i>-D-galactose	InChIKey=GZCGUPFRVQAUEE-KCDKBNATSA-N
+pyrazinamide	InChIKey=IPEHBUMCGVEMRF-UHFFFAOYSA-N
+(<i>S</i>)-NADHX	InChIKey=IDBZKGQRLBFUFQ-VPHRTNKSSA-L
+[peptidyl-carrier protein] group	
+a-dara-PEN-1:4	
+glutarate semialdehyde	InChIKey=VBKPPDYGFUZOAJ-UHFFFAOYSA-M
+5,10-methylenetetrahydropteroyl mono-L-glutamate	InChIKey=QYNUQALWYRSVHF-OLZOCXBDSA-L
+glycolaldehyde	InChIKey=WGCNASOHLSPBMP-UHFFFAOYSA-N
+obvatol	InChIKey=OPGPFZQBCIAFLI-UHFFFAOYSA-N
+D-<i>myo</i>-inositol (1,4)-bisphosphate	InChIKey=PELZSPZCXGTUMR-RTPHHQFDSA-J
+L-histidinol phosphate	InChIKey=CWNDERHTHMWBSI-YFKPBYRVSA-M
+succinyl-CoA	InChIKey=VNOYUJKHFWYWIR-ITIYDSSPSA-I
+x-lman-HEX-1:5|6:d	
+p-chloromercuriphenylsulfonate	InChIKey=XXEBDPRHFAWOND-UHFFFAOYSA-L
+porphyrin-ring	
+5-methyluridine	InChIKey=DWRXFEITVBNRMK-JXOAFFINSA-N
+allantoate	InChIKey=NUCLJNSWZCHRKL-UHFFFAOYSA-M
+(<i>R</i>)-2-hydroxyhexadecanal	InChIKey=BKBDVQVDRVGXKT-MRXNPFEDSA-N
+&alpha;-D-galactose 6-phosphate	InChIKey=NBSCHQHZLSJFNQ-PHYPRBDBSA-L
+<i>S</i>-sulfanylglutathione	InChIKey=QBOLVLBSUGJHGB-WDSKDSINSA-M
+cytidine 2'-monophosphate	InChIKey=YQUAKORMLHPSLZ-XVFCMESISA-L
+pyridoxine 5'-phosphate	InChIKey=WHOMFKWHIQZTHY-UHFFFAOYSA-L
+<i>aci</i>-nitroethane	InChIKey=CPZLOQHKKRZRSD-UHFFFAOYSA-N
+thymine	InChIKey=RWQNBRDOKXIBIV-UHFFFAOYSA-N
+&beta;-D-mannopyranose 6-phosphate	InChIKey=NBSCHQHZLSJFNQ-RWOPYEJCSA-L
+(<i>Z</i>)-2-aminobutenoate	InChIKey=PAWSVPVNIXFKOS-IHWYPQMZSA-N
+CMP	InChIKey=IERHLVCPSMICTF-XVFCMESISA-L
+quinidine	InChIKey=LOUPRKONTZGTKE-JUMJFMMLSA-O
+tetrahydromethanopterin	InChIKey=SCBIBGUJSMHIAI-LHIIQLEZSA-K
+nitrate	InChIKey=NHNBFGGVMKEFGY-UHFFFAOYSA-N
+&alpha;-D-rhamnopyranose	InChIKey=SHZGCJCMOBCMKK-PQMKYFCFSA-N
+a-HEX-1:5|6:a	
+(3<i>E</i>,5<i>Z</i>)-tetradeca-3,5-dienoate	InChIKey=YRUMHTHCEZRHTN-XAZJVICWSA-M
+oxalosuccinate	InChIKey=UFSCUAXLTRFIDC-UHFFFAOYSA-K
+2-oleoyl-<i>sn</i>-glycero-3-phosphoethanolamine	InChIKey=NOVZJYYJYIFXJC-MZMPXXGTSA-N
+riboflavin	InChIKey=AUNGANRZJHBGPY-SCRDCRAPSA-M
+canavaninosuccinate	InChIKey=SGYMGUGIGTWWLU-ROLXFIACSA-M
+L-<I>allo</I>-threonine	InChIKey=AYFVYJQAPQTCCC-HRFVKAFMSA-N
+(<i>R</i>)-lactate	InChIKey=JVTAAEKCZFNVCJ-UWTATZPHSA-M
+dGMP	InChIKey=LTFMZDNNPPEQNG-KVQBGUIXSA-L
+ethanolamine	InChIKey=HZAXFHJVJLSVMW-UHFFFAOYSA-O
+spermidine	InChIKey=ATHGHQPFGPMSJY-UHFFFAOYSA-Q
+methylarsonous acid	InChIKey=OXBIRPQQKCQWGV-UHFFFAOYSA-N
+dihydrogen phosphate	InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-M
+(L-threonyl)adenylate	InChIKey=YYBNSQASHCKPHX-DWVDDHQFSA-N
+D-<i>erythro</i>-7,8-dihydroneopterin	InChIKey=YQIFAMYNGGOTFB-XINAWCOVSA-N
+5-iso prostaglandin F<sub>2&alpha;</sub>-VI	InChIKey=RZCPXIZGLPAGEV-SUHLLOIRSA-M
+(glutathion-<i>S</i>-yl)-bimane	InChIKey=KPJNKLWIESQKCG-STQMWFEESA-M
+D-<i>myo</i>-inositol (1,4,5)-trisphosphate	InChIKey=MMWCIQZXVOZEGG-XJTPDSDZSA-H
+&alpha;-D-galacturonate	InChIKey=AEMOLEFTQBMNLQ-BKBMJHBISA-M
+Zn<SUP>2+</SUP>	InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
+(S)-3-chloro-1-phenyl-1-propanol	InChIKey=JZFUHAGLMZWKTF-SECBINFHSA-N
+CDTA	InChIKey=FCKYPQBAHLOOJQ-UHFFFAOYSA-N
+b-lgal-HEX-1:5|6:d	
+cholesterol	InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
+&alpha;-D-ribulofuranose	InChIKey=LQXVFWRQNMEDEE-WDCZJNDASA-N
+protoporphyrin IX	InChIKey=KSFOVUSSGSKXFI-UJJXFSCMSA-L
+3-<i>all trans</i>-hexaprenyl-4-hydroxy-5-methoxybenzoate	InChIKey=YSZSVGFMAJXGMQ-FRICUITQSA-M
+<i>S</i>-methyl-L-methionine	InChIKey=YDBYJHTYSHBBAU-YFKPBYRVSA-O
+&alpha;-D-xylopyranose	InChIKey=SRBFZHDQGSBBOR-LECHCGJUSA-N
+&alpha;-D-mannopyranose 6-phosphate	InChIKey=NBSCHQHZLSJFNQ-PQMKYFCFSA-L
+biotin	InChIKey=YBJHBAHKTGYVGT-ZKWXMUAHSA-M
+2-(glutathion-<i>S</i>-yl)-2-carboxypropane	InChIKey=JQWABENXVMJJMW-NPPUSCPJSA-L
+(<i>S</i>)-2-amino-6-oxohexanoate	InChIKey=GFXYTQPNNXGICT-YFKPBYRVSA-N
+(L-arginyl)adenylate	InChIKey=AJYPLWAQPDERQG-TWBCTODHSA-O
+an acp domain within a type I fatty acid synthase	
+(3R)-hydroxy- 5-<i>cis</i>, 7-<i>trans</i>-tetradecadienoyl-CoA	InChIKey=ZZVZPDQTNSJQPZ-VOXMGFCCSA-J
+<i>trans</i>-cerot-2-enoyl-CoA	InChIKey=GGUUXBBWTGIIGE-KESUDTCVSA-J
+inosine	InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N
+fumonisin B<sub>1</sub>	InChIKey=UVBUBMSSQKOIBE-DSLOAKGESA-K
+GTP	InChIKey=XKMLYUALXHKNFT-UUOKFMHZSA-J
+1D-<i>myo</i>inositol 5-diphosphate 1,2,3,4,6-pentakisphosphate	InChIKey=UPHPWXPNZIOZJL-KXXVROSKSA-A
+&beta;-D-glucose 6-phosphate	InChIKey=NBSCHQHZLSJFNQ-VFUOTHLCSA-L
+L-threonine	InChIKey=AYFVYJQAPQTCCC-GBXIJSLDSA-N
+2'-deoxycytidine	InChIKey=CKTSBUTUHBMZGZ-SHYZEUOFSA-N
+(2<i>R</i>,3<i>S</i>)-3-isopropylmalate	InChIKey=RNQHMTFBUSSBJQ-CRCLSJGQSA-L
+kifunensine	InChIKey=OIURYJWYVIAOCW-PQMKYFCFSA-N
+1-[18-hydroxyoeoyl]-2-[18-hydroxy-linoleoyl]-<i>sn</i>-glycerol	InChIKey=RCALBBVHQNUWNO-OSFDYRCISA-N
+x-PEN-1:4	
+benzoate	InChIKey=WPYMKLBDIGXBTP-UHFFFAOYSA-M
+a phosphate group	
+<i>O</i>-phosphoethanolamine	InChIKey=SUHOOTKUPISOBE-UHFFFAOYSA-M
+L-tryptophan	InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
+&beta;-D-fructofuranose 1-phosphate	InChIKey=RHKKZBWRNHGJEZ-ARQDHWQXSA-L
+presqualene diphosphate	InChIKey=ATZKAUGGNMSCCY-QLYDTTAWSA-K
+2-(formamido)-N<sup>1</sup>-(5-phospho-&beta;-D-ribosyl)acetamidine	InChIKey=PMCOGCVKOAOZQM-XVFCMESISA-M
+5-fluorouracil	InChIKey=GHASVSINZRGABV-UHFFFAOYSA-N
+6-<i>trans</i>-tridecenoyl-CoA	InChIKey=UUIVZEBYPBPKLL-HMXWSVNBSA-J
+dADP	InChIKey=DAEAPNUQQAICNR-RRKCRQDMSA-K
+<i>N</i>-(1-deoxy-D-fructos-1-yl)-L-glutamine	InChIKey=UXVGPBLLNUTXSC-AJGMQJJTSA-N
+a pyrophosphate group	
+7,8-dihydropteroate	InChIKey=WBFYVDCHGVNRBH-UHFFFAOYSA-M
+(<i>2E,6E</i>)-farnesol	InChIKey=CRDAMVZIKSXKFV-YFVJMOTDSA-N
+ethylphosphate	InChIKey=ZJXZSIYSNXKHEA-UHFFFAOYSA-L
+<i>trans-(S</i>)-nicotine N<sup>1'</sup>-oxide	InChIKey=RWFBQHICRCUQJJ-JQWIXIFHSA-N
+Co<SUP>2+</SUP>	InChIKey=XLJKHNWPARRRJB-UHFFFAOYSA-N
+CMP group	
+<i>sn</i>-glycerol 3-phosphate	InChIKey=AWUCVROLDVIAJX-GSVOUGTGSA-L
+lauroyl-CoA	InChIKey=YMCXGHLSVALICC-GMHMEAMDSA-J
+1,2-dibutyrin	InChIKey=AWHAUPZHZYUHOM-VIFPVBQESA-N
+b-xxyl-PEN-1:5	
+purine-ring	
+(<i>S</i>)-(+)-allantoin	InChIKey=POJWUDADGALRAB-SFOWXEAESA-N
+10-<i>trans</i>-heptadecenoyl-CoA	InChIKey=KFMWWNZRDBMYES-HEVZYKJKSA-J
+coenzyme A	InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
+4&alpha;-formyl-5&alpha;-cholesta-8,24-dien-3&beta;-ol	InChIKey=ZLQSSFNCEUGGJF-NUESBDPTSA-N
+ergosta-5,7,22,24(28)-tetraen-3&beta;-ol	InChIKey=SQFQJKZSFOZDJY-CVGLIYDESA-N
+x-lara-PEN-1:4	
+x-dgal-HEX-1:5	
+triphosphate	InChIKey=UNXRWKVEANCORM-UHFFFAOYSA-J
+4-methylsalicylate	InChIKey=NJESAXZANHETJV-UHFFFAOYSA-M
+&beta;-D-fructofuranose	InChIKey=RFSUNEUAIZKAJO-ARQDHWQXSA-N
+fecosterol	InChIKey=SLQKYSPHBZMASJ-QKPORZECSA-N
+(L-glutaminyl)adenylate	InChIKey=WHAIODPVLKHEHE-LTOLZBHSSA-N
+5-fluorocytosine	InChIKey=XRECTZIEBJDKEO-UHFFFAOYSA-N
+&beta;-D-glucuronate	InChIKey=AEMOLEFTQBMNLQ-QIUUJYRFSA-M
+(<i>R</i>)-S-adenosyl-L-methionine	InChIKey=MEFKEPWMEQBLKI-TYYLHDHTSA-O
+7,8-dihydromonapterin	InChIKey=YQIFAMYNGGOTFB-NJGYIYPDSA-N
+L-selenocysteine	InChIKey=ZKZBPNGNEQAJSX-REOHCLBHSA-N
+coniferyl acetate	InChIKey=XLZFUNZRKIQHOL-ONEGZZNKSA-N
+ergosta-5,7,24(28)-trien-3&beta;-ol	InChIKey=ZEPNVCGPJXYABB-LOIOQLKMSA-N
+pyridine-ring	
+&beta;-D-fructose 2,6-bisphosphate	InChIKey=YXWOAJXNVLXPMU-ZXXMMSQZSA-J
+<i>N,N</i>'-dicyclohexylcarbodiimide	InChIKey=QOSSAOTZNIDXMA-UHFFFAOYSA-N
+C52-&alpha;-meroacyl-adenylate	InChIKey=WEZKVQUDSKEODW-VMDFNRFRSA-M
+4-acetamidobutanal	InChIKey=DDSLGZOYEPKPSJ-UHFFFAOYSA-N
+H<sub>2</sub>O	InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
+L-aspartyl-4-phosphate	InChIKey=IXZNKTPIYKDIGG-REOHCLBHSA-L
+Fe<sup>2+</sup>	InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
+UDP	InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
+<i>S</i>-nitrosoglutathione	InChIKey=HYHSBSXUHZOYLX-WDSKDSINSA-M
+4&alpha;-hydroxymethyl-4&beta;-methyl-5&alpha;-cholesta-8,24-dien-3&beta;-ol	InChIKey=LEUVIESGHNFBEK-WKYRUEGDSA-N
+<i>aldehydo</i>-L-arabinose	InChIKey=PYMYPHUHKUWMLA-VAYJURFESA-N
+galactitol	InChIKey=FBPFZTCFMRRESA-GUCUJZIJSA-N
+vanadate	InChIKey=LSGOVYNHVSXFFJ-UHFFFAOYSA-N
+1D-<i>myo</i>-inositol 3-diphosphate 1,2,4,5,6-pentakisphosphate	InChIKey=UPHPWXPNZIOZJL-PTQMNWPWSA-B
+(6R)-L-<i>threo</i>-6,7-dihydrobiopterin	InChIKey=ZHQJVZLJDXWFFX-MRKVFDINSA-N
+sucrose 6<sup>G</sup>-phosphate	InChIKey=WQQSIXKPRAUZJL-UGDNZRGBSA-L
+(3R)-hydroxy, 4-<i>trans</i>-undecenoyl-CoA	InChIKey=ANVRIWFXMMCUPH-QYZXFXBMSA-J
+Cu<SUP>2+</SUP>	InChIKey=JPVYNHNXODAKFH-UHFFFAOYSA-N
+&gamma;-L-glutamyl-[(<i>S</i>)-allyl]-L-cysteine	InChIKey=FUTHBNRZCFKVQZ-YUMQZZPRSA-M
+HX	
+melittin	InChIKey=VDXZNPDIRNWWCW-JFTDCZMZSA-T
+2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	InChIKey=OCLCLRXKNJCOJD-UMMCILCDSA-L
+L-histidine	InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
+an amino group	
+selenite	InChIKey=MCAHWIHFGHIESP-UHFFFAOYSA-L
+5-<i>cis</i>, 7-<i>trans</i>-tetradecadienoyl-CoA	InChIKey=AMANZGDVBADZLH-QTJPLKLFSA-J
+(3<i>R</i>,5<i>S</i>)-3-hydroxy-1-pyrroline-5-carboxylate	InChIKey=WFOFKRKDDKGRIK-DMTCNVIQSA-M
+3-methylbenzyl alcohol	InChIKey=JJCKHVUTVOPLBV-UHFFFAOYSA-N
+(E)-2-(methoxycarbonylmethyl)butenedioate	InChIKey=MRNZYUAGJLJQAM-DUXPYHPUSA-L
+ADP ribose 1''-phosphate	InChIKey=CUNFRFHBHMFVPH-TYASJMOZSA-J
+<i>N</i><sup>1</sup>-(5-phospho-&beta;-D-ribosyl)glycinamide	InChIKey=OBQMLSFOUZUIOB-SHUUEZRQSA-M
+4-guanidinobutanamide	InChIKey=YHVFECVVGNXFKO-UHFFFAOYSA-O
+butanoate	InChIKey=FERIUCNNQQJTOY-UHFFFAOYSA-M
+cycloartenol	InChIKey=ONQRKEUAIJMULO-YBXTVTTCSA-N
+(L-seryl)adenylate	InChIKey=UVSYURUCZPPUQD-MACXSXHHSA-N
+hydrogen carbonate	InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M
+enol-phenylpyruvate	InChIKey=DEDGUGJNLNLJSR-VURMDHGXSA-M
+(<i>S</i>)-3-hydroxy-3-methylglutaryl-CoA	InChIKey=CABVTRNMFUVUDM-VRHQGPGLSA-I
+6-diazo-5-oxo-L-norleucine	InChIKey=YCWQAMGASJSUIP-YFKPBYRVSA-N
+b-dgal-HEX-1:5	
+mevalonolactone	InChIKey=JYVXNLLUYHCIIH-LURJTMIESA-N
+2-keto-6-acetamidocaproate	InChIKey=NGCXIFFZXAZRAF-UHFFFAOYSA-M
+EGTA	InChIKey=DEFVIWRASFVYLL-UHFFFAOYSA-J
+a-dglc-HEX-1:5	
+<i>N</i>-acetylglutamyl-phosphate	InChIKey=FCVIHFVSXHOPSW-YFKPBYRVSA-K
+b-dxyl-PEN-1:5	
+lanthionine	InChIKey=DWPCPZJAHOETAG-IMJSIDKUSA-N
+dCMP	InChIKey=NCMVOABPESMRCP-SHYZEUOFSA-L
+pyruvate	InChIKey=LCTONWCANYUPML-UHFFFAOYSA-M
+docosanoyl-CoA	InChIKey=NDDZLVOCGALPLR-GNSUAQHMSA-J
+2-(2-carboxy-4-methylthiazol-5-yl)ethyl phosphate	InChIKey=XWECMAHAKFWYNV-UHFFFAOYSA-K
+(<i>S</i>)-2-acetolactate	InChIKey=NMDWGEGFJUBKLB-YFKPBYRVSA-M
+mercuric chloride	InChIKey=LWJROJCJINYWOX-UHFFFAOYSA-L
+4&alpha;-methyl ergosta-8,25(27)-dienol	InChIKey=PXXNMGZTESSBFJ-UFMHMSNJSA-N
+Cu<SUP>+</SUP>	InChIKey=VMQMZMRVKUZKQL-UHFFFAOYSA-N
+guanosine 2'-monophosphate	InChIKey=WTIFIAZWCCBCGE-UUOKFMHZSA-L
+4&alpha;-methyl-5&alpha;-ergosta-8,14,24(28)-trien-3&beta;-ol	InChIKey=HLAWVOWADPNAGN-BAHZUFOISA-N
+putrescine	InChIKey=KIDHWZJUCRJVML-UHFFFAOYSA-P
+cerotoyl-CoA	InChIKey=FHLYYFPJDVYWQH-CPIGOPAHSA-J
+(R,S)-2,3-butanediol	InChIKey=OWBTYPJTUOEWEK-ZXZARUISSA-N
+1-18:1-2-18:1-phosphatidylethanolamine	InChIKey=MWRBNPKJOOWZPW-NYVOMTAGSA-N
+L-citrulline	InChIKey=RHGKLRLOHDJJDR-BYPYZUCNSA-N
+maltotriose	InChIKey=FYGDTMLNYKFZSV-DZOUCCHMSA-N
+pyridoxal 5'-phosphate	InChIKey=NGVDGCNFYWLIFO-UHFFFAOYSA-L
+(<i>R</i>)-4-hydroxy-4-methyl-2-oxoglutarate	InChIKey=YRWAMSXHYBBHFL-ZCFIWIBFSA-L
+<i>keto</i>-D-ribulose	InChIKey=ZAQJHHRNXZUBTE-NQXXGFSBSA-N
+O-ureido-L-homoserine	InChIKey=SFYVZOSIAIZWQU-VKHMYHEASA-N
+a-dglc-HEX-1:5|6:d	
+&alpha;,&alpha;-trehalose	InChIKey=HDTRYLNUVZCQOY-LIZSDCNHSA-N
+(2E,4Z)-deca-2,4-dienoyl-CoA	InChIKey=FASAKYLWSRDQOH-IMVFQKDNSA-J
+S<sup>2-</sup>	InChIKey=UCKMPCXJQFINFW-UHFFFAOYSA-N
+UMP	InChIKey=DJJCXFVJDGTHFX-XVFCMESISA-L
+4,4-dimethyl-5-&alpha;-cholesta-8,14,24-trien-3-&beta;-ol	InChIKey=LFQXEZVYNCBVDO-PBJLWWPKSA-N
+<i>N</i>-methyl-<i>N</i>-[(2<i>S</i>)-1-phenylpropan-2-yl]hydroxylamine	InChIKey=PCDVFYKROPOLBF-VIFPVBQESA-N
+terbinafine	InChIKey=DOMXUEMWDBAQBQ-WEVVVXLNSA-O
+sphinganine 1-phosphate	InChIKey=YHEDRJPUIRMZMP-ZWKOTPCHSA-M
+D-serine	InChIKey=MTCFGRXMJLQNBG-UWTATZPHSA-N
+L-saccharopine	InChIKey=ZDGJAHTZVHVLOT-YUMQZZPRSA-M
+lipid A 1-(2-aminoethyl diphosphate) (<i>E. coli</i>)	InChIKey=FOCHAVFXCSYXDE-MCJXJNKNSA-K
+L-<i>erythro</i>-7,8-dihydrobiopterin	InChIKey=FEMXZDUTFRTWPE-DZSWIPIPSA-N
+N<sup>6</sup>-(D-glucosyl)-L-lysine	InChIKey=IGBBBLSQXFDCHI-MIDKXNQYSA-O
+cytosine	InChIKey=OPTASPLRGRRNAP-UHFFFAOYSA-N
+(2<i>E</i>)-tetradec-2-enoyl-CoA	InChIKey=MBCVYCOKMMMWLX-YYMFEJJQSA-J
+phosphatidylglycerolphosphate (1-oleoyl, 2-palmitoyl)	InChIKey=WQMDYQSTTXRXLQ-HGWHEPCSSA-K
+GDP	InChIKey=QGWNDRXFNXRZMB-UUOKFMHZSA-K
+9,10-DiHODE	InChIKey=QRHSEDZBZMZPOA-ZJSQCTGTSA-M
+(<i>R</i>)-NADPHX	InChIKey=SZKXTJUOKARGIY-MTKBYBFRSA-J
+(<i>S</i>)-propane-1,2-diol	InChIKey=DNIAPMSPPWPWGF-VKHMYHEASA-N
+hypusine	InChIKey=BZUIJMCJNWUGKQ-BDAKNGLRSA-P
+propionamide	InChIKey=QLNJFJADRCOGBJ-UHFFFAOYSA-N
+dCTP	InChIKey=RGWHQCVHVJXOKC-SHYZEUOFSA-J
+3-dehydroquinate	InChIKey=WVMWZWGZRAXUBK-SYTVJDICSA-M
+<i>S</i>-adenosyl-L-homocysteine	InChIKey=ZJUKTBDSGOFHSH-WFMPWKQPSA-N
+(3<i>S</i>)-3-methyl-2-oxopentanoate	InChIKey=JVQYSWDUAOAHFM-BYPYZUCNSA-M
+4-<i>cis</i>-undecenoyl-CoA	InChIKey=AFMMIIQKXQNEDN-NSDZGHCESA-J
+(octanoyl)adenylate	InChIKey=AJYSFZDSJUTHRW-XKLVTHTNSA-M
+(<i>R</i>)-2,3-dihydroxy-3-methylpentanoate	InChIKey=PDGXJDXVGMHUIR-UJURSFKZSA-M
+ATP	InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
+1-deoxymannojirimycin	InChIKey=LXBIFEVIBLOUGU-KVTDHHQDSA-O
+GDP group	
+triacetylfusarinine C	InChIKey=UIVTVLVVAXJPKM-IJGXQDLJSA-N
+1-stearoyl-<i>sn</i>-glycerol	InChIKey=VBICKXHEKHSIBG-FQEVSTJZSA-N
+2-deoxy-&alpha;-D-ribose 1-phosphate	InChIKey=KBDKAJNTYKVSEK-VPENINKCSA-L
+iron(III)-[<i>N</i>-(2,3-dihydroxybenzoyl)-L-serine trimer] complex	InChIKey=QNAUHHROLOGFEY-UVJOBNTFSA-G
+monodehydroascorbate radical	InChIKey=LHFJOBMTAJJOTB-JLAZNSOCSA-N
+b-HEX-1:5|6:a	
+CDP-<i>N</i>-dimethylethanolamine	InChIKey=FOYCPAILIPEVBT-HJQYOEGKSA-M
+mono-<i>trans</i>,octa-<i>cis</i>-decaprenyl group	
+<i>S</i>-formylglutathione	InChIKey=FHXAGOICBFGEBF-BQBZGAKWSA-M
+(R,R)-2,3-butanediol	InChIKey=OWBTYPJTUOEWEK-QWWZWVQMSA-N
+3-methyl-2-oxobutanoate	InChIKey=QHKABHOOEWYVLI-UHFFFAOYSA-M
+3-aminopropanal	InChIKey=PCXDJQZLDDHMGX-UHFFFAOYSA-O
+biotinyl-5'-adenylate	InChIKey=UTQCSTJVMLODHM-RHCAYAJFSA-M
+IMP	InChIKey=GRSZFWQUAKGDAV-KQYNXXCUSA-L
+2,5-dichloro-<i>trans</i>-dienelactone	InChIKey=XJQKWSUIZRECMR-ONEGZZNKSA-M
+[(<i>R</i>)-lipoyl]adenylate	InChIKey=QWEGOCJRZOKSOE-ADUAKINBSA-M
+3-demethylubiquinol-6	InChIKey=ZQXNZNKHQXLVCV-HGJBZHBGSA-N
+3-<i>all trans</i>-hexaprenyl-4-amino-5-methoxybenzoate	InChIKey=DNPLRSNKHVWUBM-FRICUITQSA-M
+arsenous acid	InChIKey=GCPXMJHSNVMWNM-UHFFFAOYSA-N
+b-PEN-1:5	
+cytidine	InChIKey=UHDGCWIWMRVCDJ-XVFCMESISA-N
+adenylosuccinate	InChIKey=OFBHPPMPBOJXRT-VWJPMABRSA-J
+arachidoyl-CoA	InChIKey=JYLSVNBJLYCSSW-IBYUJNRCSA-J
+2-<i>all-trans</i>-hexaprenyl-6-methoxy-3-methyl-1,4-benzoquinol	InChIKey=ATQQULXELMEJIX-NSUIJKAQSA-N
+hydroxyferroheme <i>i</i>	InChIKey=WLGRCQGURUMQMH-JEZRNDINSA-J
+a-lgal-HEX-1:5|6:d	
+4-phosphooxy-L-threonine	InChIKey=FKHAKIJOKDGEII-GBXIJSLDSA-L
+geranyl diphosphate	InChIKey=GVVPGTZRZFNKDS-JXMROGBWSA-K
+&beta;-D-ribosylnicotinate	InChIKey=PUEDDPCUCPRQNY-ZYUZMQFOSA-N
+L-isoleucine	InChIKey=AGPKZVBTJJNPAG-WHFBIAKZSA-N
+methanethiol	InChIKey=LSDPWZHWYPCBBB-UHFFFAOYSA-N
+2-deoxy-D-glucose 6-phosphate	InChIKey=UQJFZAAGZAYVKZ-CERMHHMHSA-L
+<i>aldehydo</i>-D-ribose 5-phosphate	InChIKey=PPQRONHOSHZGFQ-LMVFSUKVSA-L
+precorrin-2	InChIKey=OQIIYZQTTMKFAU-ZNLOQLQNSA-G
+hexanoyl-CoA	InChIKey=OEXFMSFODMQEPE-HDRQGHTBSA-J
+4&alpha;-methyl-5&alpha;-cholesta-8-en-3-ol	InChIKey=SCEZIHJVTBQOLS-YIJYGBTNSA-N
+&beta;-D-fructofuranose 1,6-bisphosphate	InChIKey=RNBGYGVWRKECFJ-ARQDHWQXSA-J
+carboxyphosphate	InChIKey=LQQCGEGRINLHDP-UHFFFAOYSA-L
+Mn<SUP>2+</SUP>	InChIKey=WAEMQWOKJMHJLA-UHFFFAOYSA-N
+(<i>E</i>)-4-coumaroyl-CoA	InChIKey=DMZOKBALNZWDKI-MATMFAIHSA-J
+stearoyl-CoA	InChIKey=SIARJEKBADXQJG-LFZQUHGESA-J
+pteridine-ring	
+arsenic trioxide	InChIKey=GOLCXWYRSKYTSP-UHFFFAOYSA-N
+3-hydroxy-L-kynurenine	InChIKey=VCKPUUFAIGNJHC-LURJTMIESA-N
+6-phospho D-glucono-1,5-lactone	InChIKey=IJOJIVNDFQSGAB-SQOUGZDYSA-L
+4-amino-4-deoxychorismate	InChIKey=OIUJHGOLFKDBSU-HTQZYQBOSA-M
+<i>aldehydo</i>-D-galacturonate	InChIKey=IAJILQKETJEXLJ-RSJOWCBRSA-M
+<i>O</i>-acetyl-L-serine	InChIKey=VZXPDPZARILFQX-BYPYZUCNSA-N
+(2<i>S</i>)-2-isopropyl-3-oxosuccinate	InChIKey=HIIZAGQWABAMRR-BYPYZUCNSA-L
+cyclic-AMP	InChIKey=IVOMOUWHDPKRLL-KQYNXXCUSA-M
+ferrioxamine B	
+<i>di-trans,trideca-cis</i>-tetradecaprenyl diphosphate	InChIKey=TUNIPIPDJADHSR-HIQRJCTMSA-K
+(<i>R</i>)-NADHX	InChIKey=IDBZKGQRLBFUFQ-MTKBYBFRSA-L
+2-oxoadipate	InChIKey=FGSBNBBHOZHUBO-UHFFFAOYSA-L
+binuclear non-heme iron cluster	
+<i>all-trans</i>-retinol	InChIKey=FPIPGXGPPPQFEQ-OVSJKPMPSA-N
+&beta;-L-arabinofuranose	InChIKey=HMFHBZSHGGEWLO-KLVWXMOXSA-N
+<i>O</i>-perylenebutylmethylphosphonic-acid-p-nitrophenyl ester	InChIKey=TZCMIDUYESNULG-UHFFFAOYSA-N
+4-hydroxy-3-hexaprenylbenzoate	InChIKey=LKMQQQABIGIHGL-LAAQXVIISA-M
+(7<i>R</i>,8<i>S</i>)-8-amino-7-(carboxyamino)nonanoate	InChIKey=OQNJZSIPDMTUAJ-JGVFFNPUSA-M
+ADP	InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K
+P<sup>1</sup>,P<sup>4</sup>-<i>bis</i>(5'-adenosyl) tetraphosphate	InChIKey=YOAHKNVSNCMZGQ-XPWFQUROSA-J
+<i>N</i>-acetyl-L-glutamate 5-semialdehyde	InChIKey=BCPSFKBPHHBDAI-LURJTMIESA-M
+taurocholate	InChIKey=WBWWGRHZICKQGZ-HZAMXZRMSA-M
+L-serine	InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
+5-chloromaleylacetate	InChIKey=SCSZJXOTAAUHEL-UPHRSURJSA-L
+3-oxomyristoyl-CoA	InChIKey=IQNFBGHLIVBNOU-QSGBVPJFSA-J
+&beta;-D-ribofuranose	InChIKey=HMFHBZSHGGEWLO-TXICZTDVSA-N
+3-phospho-D-glycerate	InChIKey=OSJPPGNTCRNQQC-UWTATZPHSA-K
+(2<i>E</i>,6<i>E</i>)-farnesal	InChIKey=YHRUHBBTQZKMEX-YFVJMOTDSA-N
+glutarate	InChIKey=JFCQEDHGNNZCLN-UHFFFAOYSA-L
+hydrogen cyanide	InChIKey=LELOWRISYMNNSU-UHFFFAOYSA-N
+1-(5-phospho-&beta;-D-ribosyl)-ATP	InChIKey=RKNHJBVBFHDXGR-KEOHHSTQSA-H
+4-(2-amino-3-hydroxyphenyl)-2,4-dioxobutanoate	InChIKey=YCJNYHCCOXVYAF-UHFFFAOYSA-M
+(3E)-undec-3-enoyl-CoA	InChIKey=HVXCCJIYXIZGOP-NADLOITOSA-J
+GLYCO-CT-AMINO	
+6-<i>cis</i>, 3-oxo-tridecenoyl-CoA	InChIKey=FDXHXLPCLXEYSU-DXAZUOFZSA-J
+1-(oleoyl)-<i>sn</i>-glycero-3-phosphoethanolamine	InChIKey=PYVRVRFVLRNJLY-MZMPXXGTSA-N
+3-deoxy-D-arabino-heptulosonate 7-phosphate	InChIKey=PJWIPEXIFFQAQZ-PUFIMZNGSA-K
+<i>sn</i>-glycerol 1-phosphate	InChIKey=AWUCVROLDVIAJX-VKHMYHEASA-L
+6-<i>O</i>-methyl-&beta;-D-galacturonate	InChIKey=DICCNWCUKCYGNF-SXUWKVJYSA-N
+x-dglc-HEX-1:5|6:d	
+L-selenomethionine	InChIKey=RJFAYQIBOAGBLC-BYPYZUCNSA-N
+chloride	InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
+phosphoribulosylformimino-AICAR-phosphate	InChIKey=BLKFNHOCHNCLII-GHVQHMAVSA-J
+&beta;-L-rhamnopyranose	InChIKey=SHZGCJCMOBCMKK-YJRYQGEOSA-N
+<i>N</i>-(1-deoxy-D-fructopyranos-1-yl)glycine	InChIKey=YGUYJMQMTNJNFS-LPBLVHEISA-N
+dUMP	InChIKey=JSRLJPSBLDHEIO-SHYZEUOFSA-L
+8-oxo-dGMP	InChIKey=AQIVLFLYHYFRKU-VPENINKCSA-L
+ferrirubin	InChIKey=SEQVPEQKJMMKNO-RQCMKQRDSA-N
+3-acetamidopropanal	InChIKey=ARJPPNFIEQKVBB-UHFFFAOYSA-N
+&alpha;-L-idopyranuronate	InChIKey=AEMOLEFTQBMNLQ-VCSGLWQLSA-M
+glycolate	InChIKey=AEMRFAOFKBGASW-UHFFFAOYSA-M
+4-coumaryl alcohol	InChIKey=PTNLHDGQWUGONS-OWOJBTEDSA-N
+4&alpha;-carboxy-4&beta;-methyl-5&alpha;-cholesta-8-en-3&beta;-ol	InChIKey=GLCDBDRQLZKKOJ-LJAIZBFVSA-M
+b-dgal-HEX-1:4	
+coumaryl acetate	InChIKey=UUEPXFWSBUIUAZ-NSCUHMNNSA-N
+<i>aldehydo</i>-D-glucose	InChIKey=GZCGUPFRVQAUEE-SLPGGIOYSA-N
+R'C(R)S-S(R)CR'	
+uroporphyrinogen-I	InChIKey=QTTNOSKSLATGQB-UHFFFAOYSA-F
+D-xylulose 5-phosphate	InChIKey=FNZLKVNUWIIPSJ-RFZPGFLSSA-L
+&beta;-D-mannosyl-(C55 &omega;-saturated dolichyl phosphate)	InChIKey=MBYVKTIIZNUHKN-NIVAAIEQSA-M
+<i>S</i>-(2-succinyl)-glutathione	InChIKey=PWCIUOASSAHGHI-WPZUCAASSA-K
+4-amino-2-methyl-5-pyrimidinemethanol	InChIKey=VUTBELPREDJDDH-UHFFFAOYSA-N
+L-methionine	InChIKey=FFEARJCKVFRZRR-BYPYZUCNSA-N
+Al<SUP>3+</SUP>	InChIKey=REDXJYDRNCIFBQ-UHFFFAOYSA-N
+urea-1-carboxylate	InChIKey=AVWRKZWQTYIKIY-UHFFFAOYSA-M
+nitric oxide	InChIKey=MWUXSHHQAYIFBG-UHFFFAOYSA-N
+<i>O</i>-acetyl-L-carnitine	InChIKey=RDHQFKQIGNGIED-MRVPVSSYSA-N
+2-(2-methylpyridin-3-yl)ethanol	InChIKey=MFPDJTXHKIFPNP-UHFFFAOYSA-N
+a-lman-HEX-1:5|6:d	
+carbamate	InChIKey=KXDHJXZQYSOELW-UHFFFAOYSA-M
+Cd<SUP>2+</SUP>	InChIKey=WLZRMCYVCSSEQC-UHFFFAOYSA-N
+(<i>S</i>)-nicotine	InChIKey=SNICXCGAKADSCV-JTQLQIEISA-O
+UTP	InChIKey=PGAVKCOVUIYSFO-XVFCMESISA-J
+4-(methylsulfanyl)-2-oxobutanoate	InChIKey=SXFSQZDSUWACKX-UHFFFAOYSA-M
+avenastenone	InChIKey=XHRPJMCAEXVFFM-KADTVRCUSA-N
+nicotinate adenine dinucleotide	InChIKey=SENPVEZBRZQVST-HISDBWNOSA-L
+a-dgal-HEX-1:5	
+shikimate 3-phosphate	InChIKey=QYOJSKGCWNAKGW-PBXRRBTRSA-K
+2-isopropylmaleate	InChIKey=NJMGRJLQRLFQQX-HYXAFXHYSA-L
+(<i>Z</i>)-2-methylaconitate	InChIKey=NUZLRKBHOBPTQV-ARJAWSKDSA-K
+dihomo &gamma;-linolenoyl-CoA	InChIKey=FJWJALRUNNZIBB-DDQUOPDJSA-J
+3-phenylpropanoate	InChIKey=XMIIGOLPHOKFCH-UHFFFAOYSA-M
+AMP	InChIKey=UDMBCSSLTHHNCD-KQYNXXCUSA-L
+2,5-hexanedione	InChIKey=OJVAMHKKJGICOG-UHFFFAOYSA-N
+4-amino-3-methoxybenzoate	InChIKey=JNFGLYJROFAOQP-UHFFFAOYSA-M
+[aryl-carrier protein] group	
+1-stearoyl-2-palmitoyl-<i>sn</i>-glycerol 3-phosphate	InChIKey=USQMHZSVXZAKAI-PGUFJCEWSA-L
+cholate	InChIKey=BHQCQFFYRZLCQQ-OELDTZBJSA-M
+acetic acid	InChIKey=QTBSBXVTEAMEQO-UHFFFAOYSA-N
+(&gamma;-glutamylcysteine-<i>S</i>-yl)-bimane	InChIKey=GDOCADMPVSPYIX-RYUDHWBXSA-M
+D-<i>erythro</i>-1-(imidazol-4-yl)-glycerol 3-phosphate	InChIKey=HFYBTHCYPKEDQQ-RITPCOANSA-L
+<i>di-trans,octa-cis</i>-undecaprenyl group	
+L-asparagine	InChIKey=DCXYFEDJOCDNAF-REOHCLBHSA-N
+ubiquinol-<i>8</i>	InChIKey=LOJUQFSPYHMHEO-SGHXUWJISA-N
+<i>N</i><sup>7</sup>-methylguanosine 5'-phosphate	InChIKey=AOKQNZVJJXPUQA-KQYNXXCUSA-M
+<i>trans</i>-4-hydroxy-L-proline	InChIKey=PMMYEEVYMWASQN-DMTCNVIQSA-N
+Ni<sup>2+</sup>	InChIKey=VEQPNABPJHWNSG-UHFFFAOYSA-N
+(L-prolyl)adenylate	InChIKey=KQFKHTAASHMYDJ-TWBCTODHSA-N
+<i>N</i><sup>1</sup>-acetylspermine	InChIKey=GUNURVWAJRRUAV-UHFFFAOYSA-Q
+(2E)-dec-2-enoyl-CoA	InChIKey=MGNBGCRQQFMNBM-YJHHLLFWSA-J
+3-(imidazol-4-yl)-2-oxopropyl phosphate	InChIKey=YCFFMSOLUMRAMD-UHFFFAOYSA-L
+1-deoxy-L-glycero-tetrulose 4-phosphate	InChIKey=OKYHYXLCTGGOLM-SCSAIBSYSA-L
+succinate	InChIKey=KDYFGRWQOYBRFD-UHFFFAOYSA-L
+&alpha;-D-glucose 6-phosphate	InChIKey=NBSCHQHZLSJFNQ-DVKNGEFBSA-L
+lignoceroyl-CoA	InChIKey=MOYMQYZWIUKGGY-JBKAVQFISA-J
+antimonite	InChIKey=JXYAODGLKNBUTA-UHFFFAOYSA-N
+5-(hydroxymethyl)-2-methylphenol	InChIKey=XGYCFBRLHVWRLV-UHFFFAOYSA-N
+methylglyoxal	InChIKey=AIJULSRZWUXGPQ-UHFFFAOYSA-N
+4,4-dimethyl-5&alpha;-cholesta-8-en-3&beta;-ol	InChIKey=FYHRVINOXYETMN-QGBOJXOESA-N
+thiosulfate	InChIKey=DHCDFWKWKRSZHF-UHFFFAOYSA-M
+L-glutamate	InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
+CO<SUB>2</SUB>	InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
+homofuraneol	InChIKey=GWCRPYGYVRXVLI-UHFFFAOYSA-N
+L-methionine-(<i>R</i>)-<i>S</i>-oxide	InChIKey=QEFRNWWLZKMPFJ-ZXPFJRLXSA-N
+4-methylumbelliferyl glucoside	InChIKey=YUDPTGPSBJVHCN-YMILTQATSA-N
+3-hydroxy-3-(4-hydroxyphenyl)propanoate	InChIKey=AKWHTKRUNUYXDS-UHFFFAOYSA-M
+arsenate	InChIKey=DJHGAFSJWGLOIV-UHFFFAOYSA-L
+K<SUP>+</SUP>	InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
+8-<i>epi</i>-prostaglandin F<sub>2&alpha;</sub>	InChIKey=PXGPLTODNUVGFL-NAPLMKITSA-M
+NADH	InChIKey=BOPGDPNILDQYTO-NNYOXOHSSA-L
+3-hydroxybenzyl alcohol	InChIKey=OKVJCVWFVRATSG-UHFFFAOYSA-N
+melezitose	InChIKey=QWIZNVHXZXRPDR-WSCXOGSTSA-N
+30-oxolanosterol	InChIKey=PGGIMLIQOHYFIS-PUXRVUTHSA-N
+3-chlorobenzyl alcohol	InChIKey=ZSRDNPVYGSFUMD-UHFFFAOYSA-N
+oxaloacetate	InChIKey=KHPXUQMNIQBQEV-UHFFFAOYSA-L
+cyclic-2,3-<i>O</i>-oxalyl-L-threonate	InChIKey=NKBSFRFTBUHMJF-UHFFFAOYSA-M
+x-HEX-1:5	
+S-adenosyl-4-methylsulfanyl-2-oxobutanoate	InChIKey=UOKVQQMBGVMXPU-BPIXLOBBSA-N
+adjacent thymidine-2'-deoxycytidine in DNA	
+D-glyceraldehyde 3-phosphate	InChIKey=LXJXRIRHZLFYRP-VKHMYHEASA-L
+<i>trans</i>-dienelactone	InChIKey=AYFXPGXAZMFWNH-ONEGZZNKSA-M
+GMP	InChIKey=RQFCJASXJCIDSX-UUOKFMHZSA-L
+isobutyl acetate	InChIKey=GJRQTCIYDGXPES-UHFFFAOYSA-N
+2-myristoleoyl-<i>sn</i>-glycero-3-phosphoethanolamine	InChIKey=OMFJMHRPSFBIAJ-OOFWQKGWSA-N
+avenasterol	InChIKey=MCWVPSBQQXUCTB-OQTIOYDCSA-N
+5-(hydroxymethyl)-2-methyl-4(1H)-pyrimidinone	InChIKey=ATTZFOQANXUZIP-UHFFFAOYSA-N
+ubiquinol-6	InChIKey=DYOSCPIQEYRQEO-LPHQIWJTSA-N
+5,6,7,8-tetrahydrofolate	InChIKey=MSTNYGQPCMXVAQ-RYUDHWBXSA-L
+propanoate	InChIKey=XBDQKXXYIPTUBI-UHFFFAOYSA-M
+<i>N</i><sup>2</sup>-formyl-<i>N</i><sup>1</sup>-(5-phospho-&beta;-D-ribosyl)glycinamide	InChIKey=VDXLUNDMVKSKHO-XVFCMESISA-L
+(L-isoleucyl)adenylate	InChIKey=ACZWYNUJBRLCEC-XATJSACLSA-N
+3-(methylsulfanyl)propanoate	InChIKey=CAOMCZAIALVUPA-UHFFFAOYSA-M
+7,8-dihydroneopterin 3'-triphosphate	InChIKey=DGGUVLXVLHAAGT-XINAWCOVSA-J
+tetrahydropteroyl tri-L-glutamate	InChIKey=RXWVHRYZTWZATH-XSLAGTTESA-J
+protoporphyrinogen IX	InChIKey=UHSGPDMIQQYNAX-UHFFFAOYSA-L
+carbon monoxide	InChIKey=UGFAIRIUMAVXCW-UHFFFAOYSA-N
+L-canavanine	InChIKey=FSBIGDSBMBYOPN-VKHMYHEASA-O
+&beta;-D-fructofuranose 6-phosphate	InChIKey=BGWGXPAPYGQALX-ARQDHWQXSA-L
+methyl &alpha;-D-glucoside	InChIKey=HOVAGTYPODGVJG-ZFYZTMLRSA-N
+GLYCO-CT-ACETYL	
+(E)-N-(1-phenylpropan-2-ylidene)hydroxylamine	InChIKey=AUYFJUMCPAMOKN-CSKARUKUSA-N
+a carboxyl group	
+isethionate	InChIKey=SUMDYPCJJOFFON-UHFFFAOYSA-M
+L-alanine	InChIKey=QNAYBMKLOCPYGJ-REOHCLBHSA-N
+a-dara-HEX-2:5|2:keto	
+GDP-&alpha;-D-mannose	InChIKey=MVMSCBBUIHUTGJ-GDJBGNAASA-L
+ubiquinone-<i>8</i>	InChIKey=ICFIZJQGJAJRSU-SGHXUWJISA-N
+all-<i>trans</i>-undecaprenyl group	
+&beta;-D-ribulofuranose	InChIKey=LQXVFWRQNMEDEE-UOWFLXDJSA-N
+2-hydroxy-2-methylpropanoate	InChIKey=BWLBGMIXKSTLSX-UHFFFAOYSA-M
+<i>S</i>-methylglutathione	InChIKey=QTQDDTSVRVWHMO-BQBZGAKWSA-M
+ADP group	
+a-lido-HEX-1:5|6:a	
+all-<i>trans</i>-hexaprenyl diphosphate	InChIKey=NGFSMHKFTZROKJ-MMSZMYIBSA-K
+uroporphyrinogen-III	InChIKey=HUHWZXWWOFSFKF-UHFFFAOYSA-F
+dup 128	InChIKey=TVXOXGBTADZYCZ-UHFFFAOYSA-N
+2-<i>all trans</i>-hexaprenyl-6-methoxyhydroquinone	InChIKey=ZAGWHOPYPMUKOK-FRICUITQSA-N
+&beta;-D-rhamnopyranose	InChIKey=SHZGCJCMOBCMKK-RWOPYEJCSA-N
+verdoheme	InChIKey=JFGVATQDLBFQRV-HPQJSUICSA-K
+sulfite	InChIKey=LSNNMFCWUKXFEE-UHFFFAOYSA-L
+adenosine 3',5'-bisphosphate	InChIKey=WHTCPDAXWFLDIH-KQYNXXCUSA-J
+vanillate	InChIKey=WKOLLVMJNQIZCI-UHFFFAOYSA-M
+4&alpha;-formyl-4&beta;-methyl-5&alpha;-cholesta-8,24-dien-3&beta;-ol	InChIKey=GFGANDKVOKQAGH-WKYRUEGDSA-N
+palmitoleoyl-CoA	InChIKey=QBYOCCWNZAOZTL-MDMKAECGSA-J
+<i>cis</i>-dienelactone	InChIKey=AYFXPGXAZMFWNH-ARJAWSKDSA-M
+2-(&alpha;-hydroxyethyl)thiamine diphosphate	InChIKey=RRUVJGASJONMDY-UHFFFAOYSA-L
+5-aminopentanoate	InChIKey=JJMDCOVWQOJGCB-UHFFFAOYSA-N
+4-vinylphenol	InChIKey=FUGYGGDSWSUORM-UHFFFAOYSA-N
+(2S)-2-aminohex-4-ynoate	InChIKey=VDWGCMRALYSYJV-YFKPBYRVSA-N
+5-amino-1-(5-phospho-&beta;-D-ribosyl)imidazole	InChIKey=PDACUKOKVHBVHJ-XVFCMESISA-M
+2-bromoacetyl CoA	InChIKey=RNBXHSPQPNFOKA-GRFIIANRSA-J
+4-methyl-2-oxopentanoate	InChIKey=BKAJNAXTPSGJCU-UHFFFAOYSA-M
+dihydroxyacetone	InChIKey=RXKJFZQQPQGTFL-UHFFFAOYSA-N
+3-<i>aci</i>-nitropropanoate	InChIKey=DCSLGQYKPBZRHI-UHFFFAOYSA-M
+4a-hydroxy-L-erythro-5,6,7,8-tetrahydrobiopterin	InChIKey=KJKIEFUPAPPGBC-XXKOCQOQSA-N
+D-sorbitol	InChIKey=FBPFZTCFMRRESA-JGWLITMVSA-N
+2-maleylacetate	InChIKey=SOXXPQLIZIPMIZ-UPHRSURJSA-L
+L-arginino-succinate	InChIKey=KDZOASGQNOPSCU-ZBHICJROSA-M
+1D-<i>myo</i>-inositol 4-monophosphate	InChIKey=INAPMGSXUVUWAF-CNWJWELYSA-L
+hydrogen sulfide	InChIKey=RWSOTUBLDIXVET-UHFFFAOYSA-N
+2''-<i>O</i>-acetyl-ADP-ribose	InChIKey=BFNOPXRXIQJDHO-YDKGJHSESA-L
+<i>N</i>-(1-deoxy-D-fructos-1-yl)-L-alanine	InChIKey=MJRIHYBPSWPPOI-MLQRGLMKSA-N
+all-<i>trans</i>-octaprenyl diphosphate	InChIKey=IKKLDISSULFFQO-DJMILUHSSA-K
+3-(methylsulfanyl)propanal	InChIKey=CLUWOWRTHNNBBU-UHFFFAOYSA-N
+ammonia	InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-N
+sirohydrochlorin	InChIKey=KWIZRXMMFRBUML-AHGFGAHVSA-F
+formate	InChIKey=BDAGIHXWWSANSR-UHFFFAOYSA-M
+4,5-secobiotin	InChIKey=ZARFDBYKHCOTRH-UHFFFAOYSA-M
+Triton X-100	InChIKey=JYCQQPHGFMYQCF-UHFFFAOYSA-N
+ferricyanide	InChIKey=CRWNKXHVYMVLCY-UHFFFAOYSA-N
+4-amino-2-methyl-5-(phosphooxymethyl)pyrimidine	InChIKey=PKYFHKIYHBRTPI-UHFFFAOYSA-L
+a factor	
+3'-azido-3'-deoxythymidine	InChIKey=HBOMLICNUCNMMY-XLPZGREQSA-N
+FMN	InChIKey=ANKZYBDXHMZBDK-SCRDCRAPSA-K
+(L-glutamyl)adenylate	InChIKey=KQRQKNUGLKGTSJ-LTOLZBHSSA-M
+&beta;-D-glucopyranose	InChIKey=WQZGKKKJIJFFOK-VFUOTHLCSA-N
+5-(2-hydroxyethyl)-4-methylthiazole	InChIKey=BKAWJIRCKVUVED-UHFFFAOYSA-N
+dUTP	InChIKey=AHCYMLUZIRLXAA-SHYZEUOFSA-J
+adenosine 2'-monophosphate	InChIKey=QDFHPFSBQFLLSW-KQYNXXCUSA-L
+(indol-3-yl)pyruvate	InChIKey=RSTKLPZEZYGQPY-UHFFFAOYSA-M
+(3R)-hydroxy-5-<i>trans</i>-dodecenoyl-CoA	InChIKey=AYORDFMYYBNSBO-GKMLISQESA-J
+hexadecanal	InChIKey=NIOYUNMRJMEDGI-UHFFFAOYSA-N
+5-phospho-&alpha;-D-ribose 1-diphosphate	InChIKey=PQGCEDQWHSBAJP-TXICZTDVSA-I
+UDP-<i>N</i>-acetyl-&alpha;-D-glucosamine	InChIKey=LFTYTUAZOPRMMI-CFRASDGPSA-L
+3-<i>all trans</i>-hexaprenyl-4-aminobenzoate	InChIKey=ZBVQLNVIBOLJDL-LAAQXVIISA-M
+D-<i>threo</i>-isocitrate	InChIKey=ODBLHEXUDAPZAU-ZAFYKAAXSA-K
+dAMP	InChIKey=KHWCHTKSEGGWEX-RRKCRQDMSA-L
+reduced riboflavin	InChIKey=UTKDOUCGQVLJIN-PIGZVRMJSA-N
+(2E,4E)-tetradeca-2,4-dienoyl-CoA	InChIKey=ULOGSHZMDLRQRY-INBGBNCRSA-J
+(3R)-hydroxy, 6-<i>trans</i>-tridecenoyl-CoA	InChIKey=ADZJVTNIXNSNGU-OVQIFRBASA-J
+ergosteryl oleate	InChIKey=VVZNLLXLOKRQPH-NZIRWOIASA-N
+2-<i>all trans</i>-hexaprenyl-6-methoxyaminophenol	InChIKey=JTLNJQPPHCEOEJ-FRICUITQSA-N
+1-oleoyl-<i>sn</i>-glycerol 3-phosphate	InChIKey=WRGQSWVCFNIUNZ-GDCKJWNLSA-L
+5-fluorouridine	InChIKey=FHIDNBAQOFJWCA-UAKXSSHOSA-N
+CDP group	
+3-dehydrosphinganine	InChIKey=KBUNOSOGGAARKZ-KRWDZBQOSA-O
+H<SUP>+</SUP>	InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+ferulate	InChIKey=KSEBMYQBYZTDHS-HWKANZROSA-M
+4&alpha;-methyl-cholesta-8,14-dienol	InChIKey=OUCINTVMAVITJZ-HESBYNJASA-N
+3-hydroxy-heptanoyl-CoA	InChIKey=VISQBWUSDZWVMM-FPVIQYCMSA-J
+<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate	InChIKey=JTFITTQBRJDSTL-KVTDHHQDSA-L
+b-dgal-HEX-1:5|6:a	
+glycine	InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
+methanol	InChIKey=OKKJLVBELUTLKV-UHFFFAOYSA-N
+b-lman-HEX-1:5|6:d	
+decylglucoside	InChIKey=JDRSMPFHFNXQRB-CMTNHCDUSA-N
+miltefosine	InChIKey=PQLXHQMOHUQAKB-UHFFFAOYSA-N
+(<i>S</i>)-ureidoglycolate	InChIKey=NWZYYCVIOKVTII-SFOWXEAESA-M
+methylarsonate	InChIKey=QYPPRTNMGCREIM-UHFFFAOYSA-M
+<i>(R)</i>-lactic acid	InChIKey=JVTAAEKCZFNVCJ-UWTATZPHSA-N
+AMP group	
+b-dglc-HEX-1:5	
+preuroporphyrinogen	InChIKey=WDFJYRZCZIUBPR-UHFFFAOYSA-F
+x-dglc-HEX-1:4	
+6-(hydroxymethyl)-7,8-dihydropterin	InChIKey=CQQNNQTXUGLUEV-UHFFFAOYSA-N
+<i>keto</i>-D-fructose	InChIKey=BJHIKXHVCXFQLS-UYFOZJQFSA-N
+selenodiglutathione	InChIKey=GJEZZQVPWMCGSB-BJDJZHNGSA-L
+isothiocyanate	InChIKey=ZBKFYXZXZJPWNQ-UHFFFAOYSA-N
+1,2-dipalmitoyl-<i>sn</i>-glycero-3-phosphocholine	InChIKey=KILNVBDSWZSGLL-KXQOOQHDSA-N
+2-chloro-<I>cis</I>-dienelactone	InChIKey=ADSGHWJRPOXXTD-IHWYPQMZSA-M
+5-enolpyruvoyl-shikimate 3-phosphate	InChIKey=QUTYKIXIUDQOLK-PRJMDXOYSA-J
+2-palmitoleoyl-<i>sn</i>-glycero-3-phosphoethanolamine	InChIKey=MAFRHGZTIOAXEL-WHXUGTBJSA-N
+aminomethylpyrimidine	InChIKey=OZOHTVFCSKFMLL-UHFFFAOYSA-O
+<i>cis</i>-aconitate	InChIKey=GTZCVFVGUGFEME-IWQZZHSRSA-K
+(L-aspartyl)adenylate	InChIKey=QPBSGQWTJLPZNF-VWJPMABRSA-M
+&beta;-D-galactose 6-phosphate	InChIKey=NBSCHQHZLSJFNQ-FPRJBGLDSA-L
+benzaldehyde	InChIKey=HUMNYLRZRPPJDN-UHFFFAOYSA-N
+D-threonine	InChIKey=AYFVYJQAPQTCCC-STHAYSLISA-N
+5-amino-4-imidazolecarboxyamide	InChIKey=PYNDTGFTPOZGRW-UHFFFAOYSA-N
+(R)-pantoate	InChIKey=OTOIIPJYVQJATP-BYPYZUCNSA-M
+L-valine	InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
+3-oxolignoceroyl-CoA	InChIKey=JJSJTIWFKNSCHC-JBKAVQFISA-J
+phenanthrene-ring	
+dehydro-D-arabinono-1,4-lactone	InChIKey=ZZZCUOFIHGPKAK-UWTATZPHSA-N
+<i>N</i>-acetyl-&beta;-glucosaminylamine	InChIKey=MCGXOCXFFNKASF-FMDGEEDCSA-N
+x-dara-HEX-2:5|2:keto	
+sulfamate	InChIKey=IIACRCGMVDHOTQ-UHFFFAOYSA-M
+(<i>S</i>)-2-aceto-2-hydroxybutanoate	InChIKey=VUQLHQFKACOHNZ-LURJTMIESA-M
+glyoxylate	InChIKey=HHLFWLYXYJOTON-UHFFFAOYSA-M
+mesaconate	InChIKey=HNEGQIOMVPPMNR-NSCUHMNNSA-L
+precorrin-1	InChIKey=CJLVUWULFKHGFB-NZCAJUPMSA-F
+dGTP	InChIKey=HAAZLUGHYHWQIW-KVQBGUIXSA-J
+2-arachidonoylglycerol	InChIKey=RCRCTBLIHCHWDZ-DOFZRALJSA-N
+<i>N</i><sup>6</sup>-acetyl-L-lysine	InChIKey=DTERQYGMUDWYAZ-ZETCQYMHSA-N
+3-methylbutanol	InChIKey=PHTQWCKDNZKARW-UHFFFAOYSA-N
+sphingosine 1-phosphate	InChIKey=DUYSYHSSBDVJSM-KRWOKUGFSA-M
+C<sub>20</sub> sphinganine	InChIKey=UFMHYBVQZSPWSS-VQTJNVASSA-O
+(S)-2-aminobutanoate	InChIKey=QWCKQJZIFLGMSD-VKHMYHEASA-N
+(indol-3-yl)acetamide	InChIKey=ZOAMBXDOGPRZLP-UHFFFAOYSA-N
+4'-phosphopantetheine	InChIKey=JDMUPRLRUUMCTL-VIFPVBQESA-L
+iron(III)-biliverdine-IX &alpha;	InChIKey=IWNXUEJVORLSHL-UHFFFAOYSA-J
+1-piperideine 6-carboxylate	InChIKey=CSDPVAKVEWETFG-YFKPBYRVSA-M
+<i>O</i>-phospho-L-homoserine	InChIKey=FXDNYOANAXWZHG-VKHMYHEASA-L
+2-methylbutanal	InChIKey=BYGQBDHUGHBGMD-UHFFFAOYSA-N
+orotidine 5'-phosphate	InChIKey=KYOBSHFOBAOFBF-XVFCMESISA-K
+succinate semialdehyde	InChIKey=UIUJIQZEACWQSV-UHFFFAOYSA-M
+(R)-4'-phosphopantothenoyl-L-cysteine	InChIKey=XQYALQVLCNHCFT-CBAPKCEASA-K
+a-dido-HEX-1:5|6:a	
+Mg<SUP>2+</SUP>	InChIKey=JLVVSXFLKOJNIY-UHFFFAOYSA-N
+3-phenylpropionitrile	InChIKey=ACRWYXSKEHUQDB-UHFFFAOYSA-N
+4-hydroxy-5-methyl-2-methylene-3(2H)-furanone	InChIKey=NPMQEIOINVDLMV-UHFFFAOYSA-N
+dimethylarsino-glutathione	InChIKey=JGDXFQORBMPJGR-YUMQZZPRSA-M
+4-aminobenzoate	InChIKey=ALYNCZNDIQEVRV-UHFFFAOYSA-M
+3-dehydro-4-methylzymosterol	InChIKey=DBPZYKHQDWKORQ-SINUOACOSA-N
+1-oleoyl-<i>sn</i>-glycerol	InChIKey=RZRNAYUHWVFMIP-QJRAZLAKSA-N
+lathosterone	InChIKey=FLRPNSKUGCVRRB-IINKENNYSA-N
+<i>N</i>-(1-deoxy-D-fructos-1-yl)-L-valine	InChIKey=JEQHVKBNRPNQDY-UTINFBMNSA-N
+crystal violet	InChIKey=LGLFFNDHMLKUMI-UHFFFAOYSA-N
+8-oxo-GTP	InChIKey=JCHLKIQZUXYLPW-UMMCILCDSA-J
+(R)-<i>N</i>-formyl-&beta;-hydroxy-L-kynurenine	InChIKey=GADDUKLGJYJXSL-WCBMZHEXSA-N
+cycloleucine	InChIKey=NILQLFBWTXNUOE-UHFFFAOYSA-N
+(<i>R</i>)-4'-phosphopantothenate	InChIKey=XHFVGHPGDLDEQO-ZETCQYMHSA-K
+phenylglyoxal	InChIKey=OJUGVDODNPJEEC-UHFFFAOYSA-N
+5'-deoxyadenosine	InChIKey=XGYIMTFOTBMPFP-KQYNXXCUSA-N
+&beta;-nicotinate D-ribonucleotide	InChIKey=JOUIQRNQJGXQDC-ZYUZMQFOSA-L
+GLYCO-CT-N-ACETYL	
+x-HEP-1:5	
+shikimate	InChIKey=JXOHGGNKMLTUBP-HSUXUTPPSA-M
+isoguanine	InChIKey=DRAVOWXCEBXPTN-UHFFFAOYSA-N
+o-dgal-HEX-0:0|1:aldi	
+&alpha;-D-glucuronate	InChIKey=AEMOLEFTQBMNLQ-WAXACMCWSA-M
+quinoxaline-2-carboxyl adenylate	InChIKey=VMJWEICPCDRXQL-SCFUHWHPSA-M
+x-dglc-HEX-x:x	
+monomethylarsino-diglutathione	InChIKey=PFYKVCFNANBHRF-CYDGBPFRSA-L
+<i>S</i>-adenosyl 3-(methylsulfanyl)propylamine	InChIKey=ZUNBITIXDCPNSD-LSRJEVITSA-O
+Fe<SUP>3+</SUP>	InChIKey=VTLYFUHAOXGGBS-UHFFFAOYSA-N
+5-formamido-1-(5-phospho-D-ribosyl)-imidazole-4-carboxamide	InChIKey=ABCOOORLYAOBOZ-KQYNXXCUSA-L
+uridine 2'3'-cyclic monophosphate	InChIKey=HWDMHJDYMFRXOX-XVFCMESISA-M
+4-coumarate	InChIKey=NGSWKAQJJWESNS-ZZXKWVIFSA-M
+dGDP	InChIKey=CIKGWCTVFSRMJU-KVQBGUIXSA-K
+5-amino-6-(D-ribitylamino)uracil	InChIKey=XKQZIXVJVUPORE-RPDRRWSUSA-N
+(2E,5E)-dodeca-2,5-dienoyl-CoA	InChIKey=ZSJRXHRCABOSNC-UOVVPLBNSA-J
+<i>S</i>-adenosyl-L-methionine	InChIKey=MEFKEPWMEQBLKI-FCKMPRQPSA-O
+3-<i>all trans</i>-hexaprenyl-4-amino-5-hydroxybenzoate	InChIKey=RDJHHAKRFMKPKL-IRVXXIIISA-M
+lathosterol	InChIKey=IZVFFXVYBHFIHY-SKCNUYALSA-N
+<i>N</i>-(1-deoxy-D-fructos-1-yl)-L-asparagine	InChIKey=SPIROCFTONGMLA-WGDRPHDWSA-N
+ferroheme <i>i</i>	InChIKey=DUDFUCVGSNDDBK-PRYGPKJJSA-J
+butan-1-ol	InChIKey=LRHPLDYGYMQRHN-UHFFFAOYSA-N
+thiamine phosphate	InChIKey=HZSAJDVWZRBGIF-UHFFFAOYSA-M
+leukotriene A<sub>4</sub>	InChIKey=UFPQIRYSPUYQHK-XWYPZHSRSA-M
+anthranilate	InChIKey=RWZYAGGXGHYGMB-UHFFFAOYSA-M
+dehydroascorbate (bicyclic form)	InChIKey=QPPOKIPSRPKDEM-VPGXFDHMSA-N
+NADPH	InChIKey=ACFIXJIJDZMPPO-NNYOXOHSSA-J
+(L-asparaginyl)adenylate	InChIKey=BZHVCXQAFQWXPZ-VWJPMABRSA-N
+dihydrofurano derivative	InChIKey=FUIDCBUVLDEBJL-UHFFFAOYSA-N
+L-cystine	InChIKey=LEVWYRKDKASIDU-IMJSIDKUSA-N
+2-amino-2-deoxy-D-gluconate	InChIKey=UFYKDFXCZBTLOO-TXICZTDVSA-N
+&beta;-sitosterol 3-O-&beta;-D-glucoside	InChIKey=NPJICTMALKLTFW-OFUAXYCQSA-N
+acetate	InChIKey=QTBSBXVTEAMEQO-UHFFFAOYSA-M
+dityrosine	InChIKey=OQALFHMKVSJFRR-UHFFFAOYSA-L
+3-deoxy-D-glycero-&alpha;-D-galacto-nonulosonate	InChIKey=CLRLHXKNIYJWAW-LSRLBZCKSA-M
+3-chloro-1-phenyl-1-propanone	InChIKey=KTJRGPZVSKWRTJ-UHFFFAOYSA-N
+b-dman-OCT-2:6|1:a|2:keto|3:d	
+(3<i>R</i>)-3-hydroxy-arachidoyl-CoA	InChIKey=KNSVYMFEJLUJST-AFMYZWIISA-J
+3-methyladenine	InChIKey=FSASIHFSFGAIJM-UHFFFAOYSA-N
+(5E)-3-oxo-dodec-5-enoyl-CoA	InChIKey=VKLHSLOWDWGVGP-WOABMHMMSA-J
+oleoyl-CoA	InChIKey=XDUHQPOXLUAVEE-BPMMELMSSA-J
+arsenic triglutathione	InChIKey=UXNWJLSRLNSHSI-QQCJEOGWSA-K
+ethyl caproate	InChIKey=SHZIWNPUGXLXDT-UHFFFAOYSA-N
+3-oxopalmitoyl-CoA	InChIKey=NQMPLXPCRJOSHL-BBECNAHFSA-J
+a-dgal-HEX-1:5|6:a	
+4&alpha;-carboxy-4&beta;-methyl-5&alpha;-cholesta-8,24-dien-3&beta;-ol	InChIKey=MYWAIWDQTCHPTH-LJAIZBFVSA-M
+superoxide	InChIKey=OUUQCZGPVNCOIJ-UHFFFAOYSA-M
+b-xglc-HEX-1:5|6:a	
+5-methyltetrahydropteroyl tri-L-glutamate	InChIKey=HVRNKDVLFAVCJF-VJANTYMQSA-J
+pyrazine-2-carboxylate	InChIKey=NIPZZXUFJPQHNH-UHFFFAOYSA-M
+a <i>holo</i> citrate-lyase	
+histidinal	InChIKey=VYOIELONWKIZJS-YFKPBYRVSA-O
+4-nitrobenzaldehyde	InChIKey=BXRFQSNOROATLV-UHFFFAOYSA-N
+methylglyoxalbis(guanylhydrazone)	InChIKey=MXWHMTNPTTVWDM-UHFFFAOYSA-P
+3-hydroxy-5-methylbenzaldehyde	InChIKey=BTLHCFVCIGAAPF-UHFFFAOYSA-N
+2-aminoprop-2-enoate	InChIKey=UQBOJOOOTLPNST-UHFFFAOYSA-N
+L-cysteate	InChIKey=XVOYSCVBGLVSOL-REOHCLBHSA-M
+4-nitrophenyl-&beta;-D-glucopyranoside	InChIKey=IFBHRQDFSNCLOZ-RMPHRYRLSA-N
+4&alpha;-hydroxymethyl-5&alpha;-cholesta-8,24-dien-3&beta;-ol	InChIKey=ORZKEIGPXNMCHC-NUESBDPTSA-N
+(2E,4Z)-undeca-2,4-dienoyl-CoA	InChIKey=SZKPLUULGGERFD-NFPSBOAPSA-J
+a linoleate group	
+bisoleoyl phosphatidate	InChIKey=MHUWZNTUIIFHAS-DSSVUWSHSA-L
+(2Z,4Z)-2-chloro-3-hydroxyhexa-2,4-dienedioate	InChIKey=KHWHQPFTGLTZEN-NWJCXACMSA-L
+dTDP group	
+3'-phosphoadenylyl-sulfate	InChIKey=GACDQMDRPRGCTN-KQYNXXCUSA-J
+ITP	InChIKey=HAEJPQIATWHALX-KQYNXXCUSA-J
+<i>S</i>-(hydroxysulfenamide)glutathione	InChIKey=ZOIIDZWLSVVTGQ-WDSKDSINSA-M
+3-dehydroshikimate	InChIKey=SLWWJZMPHJJOPH-PHDIDXHHSA-M
+a-dgal-HEX-1:4	
+L-methionine-(<i>S</i>)-<i>S</i>-oxide	InChIKey=QEFRNWWLZKMPFJ-MFXDVPHUSA-N
+aureobasidin A	InChIKey=RLMLFADXHJLPSQ-MJQYLNDYSA-N
+a [1-Cys peroxiredoxin]-(<i>S</i>-hydroxy-<i>S</i>-oxocysteine)	
+dehydroascorbate	InChIKey=OESHPIGALOBJLM-UHFFFAOYSA-N
+adenine	InChIKey=GFFGJBXGBJISGV-UHFFFAOYSA-N
+a-lara-PEN-1:4	
+ribose 1,3-cyclic phosphate	InChIKey=ONTWKCPWRKFYOT-SOOFDHNKSA-M
+b-lara-PEN-1:4	
+3-hydroxy-<i>cis,cis</i>-muconate	InChIKey=DLKZGMNZEDNHKO-BXTBVDPRSA-L
+glycerophosphoglycerol	InChIKey=LLCSXHMJULHSJN-UHFFFAOYSA-M
+thiamine	InChIKey=JZRWCGZRTZMZEH-UHFFFAOYSA-N
+4-methyl-5-(2-phosphooxyethyl)thiazole	InChIKey=OCYMERZCMYJQQO-UHFFFAOYSA-L
+L-cysteinylglycine	InChIKey=ZUKPVRWZDMRIEO-VKHMYHEASA-N
+1-(5'-phospho-&beta;-D-ribofuranosyl)barbiturate	InChIKey=AODYJUNLDJOADV-YHSFNTFWSA-L
+2-amino-3-carboxymuconate-6-semialdehyde	InChIKey=KACPVQQHDVBVFC-PMRVSPHWSA-M
+2-deoxy-D-glucono-1,5-lactone	InChIKey=DBXNZGWNBVNDSO-KODRXGBYSA-N
+3-oxocerotoyl-CoA	InChIKey=VOMUIFOBQMYJPJ-CPIGOPAHSA-J
+<I>myo</I>-inositol	InChIKey=CDAISMWEOUEBRE-GPIVLXJGSA-N
+2-oxoglutarate	InChIKey=KPGXRSRHYNQIFN-UHFFFAOYSA-L
+laurate	InChIKey=POULHZVOKOAJMA-UHFFFAOYSA-M
+2-hydroxy-dATP	InChIKey=UOACBPRDWRDEHJ-KVQBGUIXSA-J
+GLYCO-CT-PYR	
+<i>N</i>-(2,3-dihydroxybenzoyl)-L-serine trimer	InChIKey=NTWRWGRCGVKQNS-BZSNNMDCSA-M
+5,5'-dithio-bis-2-nitrobenzoate	InChIKey=KIUMMUBSPKGMOY-UHFFFAOYSA-L
+3-oxooctadecanoyl-CoA	InChIKey=LGOGWHDPDVAUNY-LFZQUHGESA-J
+D-gluconate 6-phosphate	InChIKey=BIRSGZKFKXLSJQ-SQOUGZDYSA-K
+norfuraneol	InChIKey=DLVYTANECMRFGX-UHFFFAOYSA-N
+1D-<i>myo</i>-inositol 3-monophosphate	InChIKey=INAPMGSXUVUWAF-PTQMNWPWSA-L
+1-palmitoylglycerone 3-phosphate	InChIKey=MLWXSIMRTQAWHY-UHFFFAOYSA-L
+<I>p</I>-cumic aldehyde	InChIKey=WTWBUQJHJGUZCY-UHFFFAOYSA-N
+pyridoxine	InChIKey=LXNHXLLTXMVWPM-UHFFFAOYSA-N
+4-isopropylbenzyl alcohol	InChIKey=OIGWAXDAPKFNCQ-UHFFFAOYSA-N
+[non-ribosomal peptide synthase] group	
+2-iminobutanoate	InChIKey=WRBRCYPPGUCRHW-UHFFFAOYSA-N
+<i>N</i><sup>7</sup>-methylguanosine 5'-diphosphate	InChIKey=SBASPRRECYVBRF-KQYNXXCUSA-L
+1-chloro-2,4-dinitrobenzene	InChIKey=VYZAHLCBVHPDDF-UHFFFAOYSA-N
+(<i>S</i>)-lactaldehyde	InChIKey=BSABBBMNWQWLLU-VKHMYHEASA-N
+4&alpha;-methyl ergosta-8,14,25(27)-trienol	InChIKey=XMACHBCVXCCTCF-BKFTWGLRSA-N
+3-deoxy-D-glycero-&beta;-D-galacto-nonulosonate	InChIKey=CLRLHXKNIYJWAW-YOQZMRDMSA-M
+(4-hydroxyphenyl)acetaldehyde	InChIKey=IPRPPFIAVHPVJH-UHFFFAOYSA-N
+isobutanal	InChIKey=AMIMRNSIRUDHCM-UHFFFAOYSA-N
+&alpha;-D-quinovopyranose	InChIKey=SHZGCJCMOBCMKK-DVKNGEFBSA-N
+UDP-&alpha;-D-galactose	InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L
+two adjacent 2'-deoxycytidines in DNA	
+&beta;-D-idopyranuronate	InChIKey=AEMOLEFTQBMNLQ-LVBGKUAWSA-M
+episterol	InChIKey=BTCAEOLDEYPGGE-JVAZTMFWSA-N
+sphinganine	InChIKey=OTKJDMGTUTTYMP-ZWKOTPCHSA-O
+<i>N</i>-(1-phenylpropan-2-yl)hydroxylamine	InChIKey=LPZRPPBVFGJUOJ-UHFFFAOYSA-N
+<i>trans</i>-docos-2-enoyl-CoA	InChIKey=KRTIFNFQCJTGMV-DYAVHEMFSA-J
+ferrichrome	InChIKey=GGUNGDGGXMHBMJ-OCIDDWSYSA-N
+adenosine 5'-phosphosulfate	InChIKey=IRLPACMLTUPBCL-KQYNXXCUSA-L
+guanosine	InChIKey=NYHBQMYGNKIUIF-UUOKFMHZSA-N
+&alpha;-D-arabinofuranose	InChIKey=HMFHBZSHGGEWLO-MBMOQRBOSA-N
+b-dman-HEX-1:5|6:a	
+dolichol-group	
+5-phospho-&beta;-D-ribosylamine	InChIKey=SKCBPEVYGOQGJN-TXICZTDVSA-M
+NAD<sup>+</sup>	InChIKey=BAWFJGJZGIEFAR-NNYOXOHSSA-M
+9-<i>cis</i>, 11-<i>trans</i>-octadecadienoyl-CoA	InChIKey=AHZCZESKRQDJSS-CQBJTUNBSA-J
+&beta;-D-galactofuranose	InChIKey=AVVWPBAENSWJCB-DGPNFKTASA-N
+&beta;-L-ribulofuranose	InChIKey=LQXVFWRQNMEDEE-YUPRTTJUSA-N
+arachidonoyl-CoA	InChIKey=JDEPVTUUCBFJIW-YQVDHACTSA-J
+<i>sn</i>-glycero-3-phosphocholine	InChIKey=SUHOQUVVVLNYQR-MRVPVSSYSA-N
+a-HEP-1:5	
+a-dman-HEX-1:5|6:d	
+D-<i>myo</i>-inositol 1,3,4,5,6-pentakisphosphate	InChIKey=CTPQAXVNYGZUAJ-KXXVROSKSA-D
+cacodylate	InChIKey=OGGXGZAMXPVRFZ-UHFFFAOYSA-M
+lanosteryl oleate	InChIKey=DKYFEOWQCCNWLB-GYZZQDEESA-N
+2,5-diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one	InChIKey=ACIVVGBVOVHFPQ-RPDRRWSUSA-L
+benzyl benzoate	InChIKey=SESFRYSPDFLNCH-UHFFFAOYSA-N
+leukotriene B<sub>4</sub>	InChIKey=VNYSSYRCGWBHLG-AMOLWHMGSA-M
+2-oxovalerate	InChIKey=KDVFRMMRZOCFLS-UHFFFAOYSA-M
+<i>N</i>-(1-deoxy-D-fructos-1-yl)-L-leucine	InChIKey=BUGJJLOUCDBMAS-AYHFEMFVSA-N
+trifluoromethionine	InChIKey=YLJLTSVBCXYTQK-VKHMYHEASA-N
+3-methylbutanal	InChIKey=YGHRJJRRZDOVPD-UHFFFAOYSA-N
+&beta;-L-galactopyranose	InChIKey=WQZGKKKJIJFFOK-KGJVWPDLSA-N
+&beta;-D-galactopyranose	InChIKey=WQZGKKKJIJFFOK-FPRJBGLDSA-N
+dTTP	InChIKey=NHVNXKFIZYSCEB-XLPZGREQSA-J
+1D-<i>myo</i>-inositol 1-diphosphate 2,3,4,5,6-pentakisphosphate	InChIKey=UPHPWXPNZIOZJL-UOTPTPDRSA-A
+dUDP	InChIKey=QHWZTVCCBMIIKE-SHYZEUOFSA-K
+4,4-dimethyl-5-&alpha;-cholesta-8,14-dien-3-&beta;-ol	InChIKey=OGQJUYXFIOFTMA-PBJLWWPKSA-N
+(<i>S</i>)-malate	InChIKey=BJEPYKJPYRNKOW-REOHCLBHSA-L
+cefoperazone	InChIKey=GCFBRXLSHGKWDP-XCGNWRKASA-N
+L-glyceraldehyde	InChIKey=MNQZXJOMYWMBOU-GSVOUGTGSA-N
+methionol	InChIKey=CZUGFKJYCPYHHV-UHFFFAOYSA-N
+2,3-pentane-dione	InChIKey=TZMFJUDUGYTVRY-UHFFFAOYSA-N
+&alpha;-L-arabinofuranose	InChIKey=HMFHBZSHGGEWLO-QMKXCQHVSA-N
+ferrichrome A	InChIKey=YDEOVNTWYZIDCR-LDEMJYSLSA-K
+Hg<SUP>2+</SUP>	InChIKey=BQPIGGFYSBELGY-UHFFFAOYSA-N
+(9Z,15Z)-12,13-epoxy-octadeca-9,15-dienoate	InChIKey=BKKGUKSHPCTUGE-OOHFSOINSA-M
+phytosphingosine (C18) 1-phosphate	InChIKey=AYGOSKULTISFCW-KSZLIROESA-M
+diacetyl	InChIKey=QSJXEFYPDANLFS-UHFFFAOYSA-N
+4-nitrophenol	InChIKey=BTJIUGUIPKRLHP-UHFFFAOYSA-M
+L-cystathionine	InChIKey=ILRYLPWNYFXEMH-WHFBIAKZSA-N
+(5Z,8Z,11Z,14Z,17Z)-icosapentaenoyl-CoA	InChIKey=JWZLRYCDDXHXDL-LCMHIRPZSA-J
+(<i>Z</i>)-methyl(oxido)(1-phenylpropan-2-ylidene)azanium	InChIKey=SHDIBBHPJOKRNX-LUAWRHEFSA-N
+sphingosine	InChIKey=WWUZIQQURGPMPG-KRWOKUGFSA-O
+1-stearoyl-2-palmitoyl-<i>sn</i>-glycerol	InChIKey=VYQDALBEQRZDPL-DHUJRADRSA-N
+N,N-dimethylaniline	InChIKey=JLTDJTHDQAWBAV-UHFFFAOYSA-N
+coproporphyrinogen III	InChIKey=NIUVHXTXUXOFEB-UHFFFAOYSA-J
+prephenate	InChIKey=FPWMCUPFBRFMLH-XGAOUMNUSA-L
+&omega;-saturated C55 dolichol phosphate	InChIKey=KTGSDHZXAKCYHM-LSTWDCEHSA-L
+&alpha;,&alpha;-trehalose 6-phosphate	InChIKey=LABSPYBHMPDTEL-LIZSDCNHSA-L
+&beta;-L-idopyranuronate	InChIKey=AEMOLEFTQBMNLQ-URDJKYRMSA-M
+1-[18-hydroxyoeoyl]-2-[18-hydroxy-lioleoyl]-<i>sn</i>-glycerol 3-phosphate	InChIKey=ZXBGEIHFXPHRJY-NKFDZXFUSA-L
+2-hydroxyisobutyramide	InChIKey=DRYMMXUBDRJPDS-UHFFFAOYSA-N
+glutathione	InChIKey=RWSXRVCMGQZWBV-WDSKDSINSA-M
+(<i>S</i>)-dihydroorotate	InChIKey=UFIVEPVSAGBUSI-REOHCLBHSA-M
+prenol	InChIKey=ASUAYTHWZCLXAN-UHFFFAOYSA-N
+(3E)-dec-3-enoyl-CoA	InChIKey=CQGVNMQHZQJNII-ZJZQAHHTSA-J
+oxalate	InChIKey=MUBZPKHOEPUJKR-UHFFFAOYSA-L
+sucrose	InChIKey=CZMRCDWAGMRECN-UGDNZRGBSA-N
+x-dman-HEX-x:x	
+L-ornithine	InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
+4-tyrosol	InChIKey=YCCILVSKPBXVIP-UHFFFAOYSA-N
+8-oxo-GMP	InChIKey=MDSQIQSLWQTQDK-UMMCILCDSA-L
+a-dman-OCT-2:6|1:a|2:keto|3:d	
+<i>O</i>-succinyl-L-homoserine	InChIKey=GNISQJGXJIDKDJ-YFKPBYRVSA-M
+a coenzyme-A group	
+XMP	InChIKey=DCTLYFZHFGENCW-UUOKFMHZSA-L
+UDP group	
+2'-deoxyuridine	InChIKey=MXHRCPNRJAMMIM-SHYZEUOFSA-N
+(2E)-2-ethylidene-4-hydroxy-5-methyl-3(2H)-furanone	InChIKey=CWXWDRXNERDGHE-HWKANZROSA-N
+flavone	InChIKey=VHBFFQKBGNRLFZ-UHFFFAOYSA-N
+adjacent 2'-deoxycytidine-thymidine in DNA	
+4-hydroxybenzaldehyde	InChIKey=RGHHSNMVTDWUBI-UHFFFAOYSA-N
+3-chlorobenzaldehyde	InChIKey=SRWILAKSARHZPR-UHFFFAOYSA-N
+stearate	InChIKey=QIQXTHQIDYTFRH-UHFFFAOYSA-M
+(<i>R</i>)-pantothenate	InChIKey=GHOKWGTUZJEAQD-ZETCQYMHSA-M
+fluoride	InChIKey=KRHYYFGTRYWZRS-UHFFFAOYSA-M
+L-phenylalanine	InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
+L-cysteine	InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
+(3Z)-dodec-3-enoyl-CoA	InChIKey=XEMIVMKTVGRFTD-REDSNERGSA-J
+phosphate	InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
+(2S,3R)-3-hydroxy-2-isopropyl-4-methoxy-4-oxobutanoate	InChIKey=YFUPBIBIDVFELV-NTSWFWBYSA-M
+&alpha;-L-fucopyranose	InChIKey=SHZGCJCMOBCMKK-SXUWKVJYSA-N
+&beta;-D-xylopyranose	InChIKey=SRBFZHDQGSBBOR-KKQCNMDGSA-N
+uracil	InChIKey=ISAKRJDGNUQOIC-UHFFFAOYSA-N
+4&alpha;-methylfecosterol	InChIKey=QLDNWJOJCDIMKK-XLFBYWHPSA-N
+x-lgal-HEX-1:5|6:d	
+thiamine diphosphate	InChIKey=AYEKOFBPNLCAJY-UHFFFAOYSA-L
+glyoxal	InChIKey=LEQAOMBKQFMDFZ-UHFFFAOYSA-N
+isobutanol	InChIKey=ZXEKIIBDNHEJCQ-UHFFFAOYSA-N
+roseoflavin 5'-phosphate	InChIKey=KBASEDIREZTYND-GUTXKFCHSA-K
+formylaminopyrimidine	InChIKey=PVWNFAGYFUUDRC-UHFFFAOYSA-N
+a methyl group	
+(<i>R</i>)-5-phosphomevalonate	InChIKey=OKZYCXHTTZZYSK-ZCFIWIBFSA-K
+(R)-acetoin	InChIKey=ROWKJAVDOGWPAT-GSVOUGTGSA-N
+<i>N</i>-acetyl-L-ornithine	InChIKey=JRLGPAXAGHMNOL-LURJTMIESA-N
+10-<i>cis</i>-heptadecenoyl-CoA	InChIKey=KFMWWNZRDBMYES-YGUIASHKSA-J
+&alpha;-D-glucopyranose	InChIKey=WQZGKKKJIJFFOK-DVKNGEFBSA-N
+1-deoxynojirimycin	InChIKey=LXBIFEVIBLOUGU-JGWLITMVSA-O
+5-aminolevulinate	InChIKey=ZGXJTSGNIOSYLO-UHFFFAOYSA-N
+(2<i>R</i>,3<i>S</i>)-2-methylisocitrate	InChIKey=HHKPKXCSHMJWCF-WVBDSBKLSA-K
+4-nitrophenyl phosphate	InChIKey=XZKIHKMTEMTJQX-UHFFFAOYSA-L
+2'-hydroxypyridoxol	InChIKey=FLVIETJQVDUKMQ-UHFFFAOYSA-N
+&beta;-D-galacturonate	InChIKey=AEMOLEFTQBMNLQ-DTEWXJGMSA-M
+<i>S</i>-sulfo-L-cysteine	InChIKey=NOKPBJYHPHHWAN-REOHCLBHSA-M
+D-sedoheptulose 1-phosphate	InChIKey=JPTRNFAYXMBCLJ-SHUUEZRQSA-L
+(3<i>R</i>)-3-hydroxylignoceroyl-CoA	InChIKey=QIBKBVRVOFIKLN-YSOWJFSKSA-J
+<i>S</i>-methyl-5-thio-D-ribulose 1-phosphate	InChIKey=CNSJRYUMVMWNMC-RITPCOANSA-L
+<i>di-trans,octa-cis</i>-undecaprenyl diphosphate	InChIKey=NTXGVHCCXVHYCL-NTDVEAECSA-K
+1,2-dipalmitoyl-<i>sn</i>-glycerol	InChIKey=JEJLGIQLPYYGEE-XIFFEERXSA-N
+CDP	InChIKey=ZWIADYZPOWUWEW-XVFCMESISA-K
+2-oxohexanoate	InChIKey=XNIHZNNZJHYHLC-UHFFFAOYSA-M
+porphobilinogen	InChIKey=QSHWIQZFGQKFMA-UHFFFAOYSA-M
+L-iditol	InChIKey=FBPFZTCFMRRESA-UNTFVMJOSA-N
+geranylgeranyl diphosphate	InChIKey=OINNEUNVOZHBOX-QIRCYJPOSA-K
+1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	InChIKey=QKMBYNRMPRKVTO-MNOVXSKESA-K
+(1<i>S</i>,2<i>R</i>)-1-C-(indol-3-yl)glycerol 3-phosphate	InChIKey=NQEQTYPJSIEPHW-MNOVXSKESA-L
+&beta;-D-mannopyranose	InChIKey=WQZGKKKJIJFFOK-RWOPYEJCSA-N
+pyridoxamine 5'-phosphate	InChIKey=ZMJGSOSNSPKHNH-UHFFFAOYSA-M
+zymosterol	InChIKey=CGSJXLIKVBJVRY-XTGBIJOFSA-N
+14-demethyllanosterol	InChIKey=CHGIKSSZNBCNDW-QGBOJXOESA-N
+3-sulfino-L-alanine	InChIKey=ADVPTQAUNPRNPO-REOHCLBHSA-M
+5-oxo-L-proline	InChIKey=ODHCTXKNWHHXJC-VKHMYHEASA-M
+7,8-dihydroneopterin 3'-phosphate	InChIKey=PLSQMGZYOGSOCE-XINAWCOVSA-L
+arsenite<sup>2-</sup>	InChIKey=RJFGWSIMCQVVJS-UHFFFAOYSA-N
+2-oxobutanoate	InChIKey=TYEYBOSBBBHJIV-UHFFFAOYSA-M
+(2<i>R</i>)-homocitrate	InChIKey=XKJVEVRQMLKSMO-SSDOTTSWSA-K
+4-hydroxy-3-octaprenylbenzoate	InChIKey=UTIBHEBNILDQKX-LQOKPSQISA-M
+<i>N</i>-acetyl-L-glutamate	InChIKey=RFMMMVDNIPUKGG-YFKPBYRVSA-L
+(1<i>R</i>,2<i>S</i>)-homoisocitrate	InChIKey=OEJZZCGRGVFWHK-WVZVXSGGSA-K
+chorismate	InChIKey=WTFXTQVDAKGDEY-HTQZYQBOSA-L
+b-dman-HEX-1:5	
+a <i>holo</i> malonate-decarboxylase	
+(5Z)-tetradecenoyl-CoA	InChIKey=MRVDZOHJMLTLHJ-STFCKWFXSA-J
+L-ascorbate	InChIKey=CIWBSHSKHKDKBQ-JLAZNSOCSA-M
+roseoflavin adenine dinucleotide	InChIKey=MHLHGXADKUHZGN-MZWSMYJRSA-K
+GLYCO-CT-SULFATE	
+D-<i>myo</i>-inositol (1,3,4,5)-tetrakisphosphate	InChIKey=CIPFCGZLFXVXBG-CNWJWELYSA-F
+(2E)-2-butylidene-4-hydroxy-5-methyl-3(2H)-furanone	InChIKey=JJPKPKGALPXILL-FNORWQNLSA-N
+FAD	InChIKey=IMGVNJNCCGXBHD-UYBVJOGSSA-K
+4-methylbenzaldehyde	InChIKey=FXLOVSHXALFLKQ-UHFFFAOYSA-N
+(2<i>S</i>)-2-isopropylmalate	InChIKey=BITYXLXUCSKTJS-ZETCQYMHSA-L
+(3R)-hydroxynonanoyl-CoA	InChIKey=PDYUUZANEPCZPL-JOQFVOQGSA-J
+<i>N</i>-carbamoyl-L-aspartate	InChIKey=HLKXYZVTANABHZ-REOHCLBHSA-L
+(9Z,12Z)-15,16-epoxyoctadeca-9,12-dienoate	InChIKey=HKSDVVJONLXYKL-OHPMOLHNSA-M
+x-dgal-HEX-1:5|6:a	
+1-butanal	InChIKey=ZTQSAGDEMFDKMZ-UHFFFAOYSA-N
+4-<i>trans</i>-3-oxo-undecenoyl-CoA	InChIKey=XBFQFVLNMJDDNG-DUPKWVSKSA-J
+2-hydroxy-5-(methylsulfanyl)-3-oxopent-1-enyl 1-phosphate	InChIKey=YIEMFVNCENFBSD-XQRVVYSFSA-K
+tributyrin	InChIKey=UYXTWWCETRIEDR-UHFFFAOYSA-N
+taurine	InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
+3-ethylmalate	InChIKey=JUCRENBZZQKFGK-UHFFFAOYSA-L
+D-<i>myo</i>-inositol (1,3,4)-trisphosphate	InChIKey=MMWCIQZXVOZEGG-MLQGYMEPSA-H
+L-tyrosine	InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
+(3<i>R</i>)-3-hydroxybehenoyl-CoA	InChIKey=VNJQSRVXTRJVAZ-ZUIQSSPPSA-J
+8-oxo-dGTP	InChIKey=BUZOGVVQWCXXDP-VPENINKCSA-J
+phenylhydrazine	InChIKey=HKOOXMFOFWEVGF-UHFFFAOYSA-N
+1-oleoyl-2-lyso-glycerone phosphate	InChIKey=YZKFNNQAEBNCEN-KTKRTIGZSA-L
+7,8-dihydrofolate monoglutamate	InChIKey=OZRNSSUDZOLUSN-LBPRGKRZSA-L
+1-palmitoyl-<i>sn</i>-glycerol 3-phosphate	InChIKey=YNDYKPRNFWPPFU-GOSISDBHSA-L
+styrene	InChIKey=PPBRXRYQALVLMV-UHFFFAOYSA-N
+L-penicillamine	InChIKey=VVNCNSJFMMFHPL-GSVOUGTGSA-N
+pentadecanoate	InChIKey=WQEPLUUGTLDZJY-UHFFFAOYSA-M
+boric acid	InChIKey=KGBXLFKZBHKPEV-UHFFFAOYSA-N
+&beta;-nicotinamide D-ribonucleotide	InChIKey=DAYLJWODMCOQEW-TURQNECASA-M
+6,7-dimethyl-8-(1-D-ribityl)lumazine	InChIKey=SXDXRJZUAJBNFL-XKSSXDPKSA-M
+butanoyl-CoA	InChIKey=CRFNGMNYKDXRTN-CITAKDKDSA-J
+amphomycin	InChIKey=XBNDESPXQUOOBQ-WYMLVPIESA-K
+6-<i>cis</i>-tridecenoyl-CoA	InChIKey=UUIVZEBYPBPKLL-DXAZUOFZSA-J
+semicarbazide	InChIKey=DUIOPKIIICUYRZ-UHFFFAOYSA-N
+a carbonyl group	
+(L-alanyl)adenylate	InChIKey=ISYFCRWDMNBLTM-MACXSXHHSA-N
+phosphocholine	InChIKey=YHHSONZFOIEMCP-UHFFFAOYSA-M
+1D-<i>myo</i>-inositol 1-monophosphate	InChIKey=INAPMGSXUVUWAF-UOTPTPDRSA-L
+C<sub>20</sub> phytosphingosine	InChIKey=UQAUXYMLKGFKBX-ZCNNSNEGSA-O
+1,2-dihydroxy-5-(methylsulfanyl)pent-1-en-3-one	InChIKey=CILXJJLQPTUUSS-XQRVVYSFSA-M
+tetrahydroobvatol	InChIKey=OGJJXRXSJDUVGA-UHFFFAOYSA-N
+x-dglc-HEX-1:5|6:a	
+<i>N</i>-formyl-L-kynurenine	InChIKey=BYHJHXPTQMMKCA-QMMMGPOBSA-N
+4&alpha;-methyl-5&alpha;-cholest-7-en-3-one	InChIKey=OWKGVPXWOHLTSL-LIUJFMQASA-N
+&alpha;-D-ribofuranose	InChIKey=HMFHBZSHGGEWLO-AIHAYLRMSA-N
+4-amino-2-methyl-5-(diphosphooxymethyl)pyrimidine	InChIKey=AGQJQCFEPUVXNK-UHFFFAOYSA-K
+UDP-&alpha;-D-glucose	InChIKey=HSCJRCZFDFQWRP-JZMIEXBBSA-L
+ethene	InChIKey=VGGSQFUCUMXWEO-UHFFFAOYSA-N
+2-18:1-lysophosphatidylglycerol	InChIKey=UJUVFUFXJONDDC-SNZQZGEVSA-M
+<i>aldehydo</i>-D-ribose	InChIKey=PYMYPHUHKUWMLA-LMVFSUKVSA-N
+nitrite	InChIKey=IOVCWXUNBOPUCH-UHFFFAOYSA-M
+hydroxylamine	InChIKey=AVXURJPOCDRRFD-UHFFFAOYSA-N
+2-<I>O</I>-(6-phospho-&alpha;-D-mannosyl)-D-glycerate	InChIKey=BOLXAGHGKNGVBE-MTXRGOKVSA-K
+[acyl-carrier protein]-group	
+4-aminobutanoate	InChIKey=BTCSSZJGUNDROE-UHFFFAOYSA-N
+NADP<sup>+</sup>	InChIKey=XJLXINKUBYWONI-NNYOXOHSSA-K
+a-dxyl-PEN-1:5	
+methamphetamine	InChIKey=MYWUZJCMWCOHBA-VIFPVBQESA-O
+carbonate	InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-L
+x-dgro-dgal-NON-2:6|1:a|2:keto|3:d	
+3''-<i>O</i>-acetyl-ADP-ribose	InChIKey=HNHCIVXQBMBKPQ-YDKGJHSESA-L
+palmitoleate	InChIKey=SECPZKHBENQXJG-FPLPWBNLSA-M
+cholesteryl-&beta;-D-glucoside	InChIKey=FSMCJUNYLQOAIM-UQBZCTSOSA-N
+uridine 2'-monophosphate	InChIKey=HQIDPEYTETUCNF-XVFCMESISA-L
+bisorganyltrisulfane	InChIKey=IMZRQZICOZIGNP-UHFFFAOYSA-L
+b-lido-HEX-1:5|6:a	
+urea	InChIKey=XSQUKJJJFZCRTK-UHFFFAOYSA-N
+histidinol	InChIKey=ZQISRDCJNBUVMM-YFKPBYRVSA-O
+pyruvic oxime	InChIKey=MVGBKLTYYAYYGY-DUXPYHPUSA-M
+GLYCO-CT-N-SULFATE	
+dimethylarsinic acid	InChIKey=OGGXGZAMXPVRFZ-UHFFFAOYSA-N
+1-arachidinoyl-<i>sn</i>-glycerol 3-phosphate	InChIKey=XBFQFMCUPHZKTI-NZRYSPDRSA-L
+carbonic acid	InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-N
+palmitoyl-CoA	InChIKey=MNBKLUUYKPBKDU-BBECNAHFSA-J
+dTMP	InChIKey=GYOZYWVXFNDGLU-XLPZGREQSA-L
+b-dido-HEX-1:5|6:a	
+&alpha;-L-galactopyranose	InChIKey=WQZGKKKJIJFFOK-SXUWKVJYSA-N
+phytate	InChIKey=IMQLKJBTEOYOSI-GPIVLXJGSA-B
+b-HEX-1:5	
+(3<i>E</i>,5<i>Z</i>)-tetradeca-3,5-dienoyl-CoA	InChIKey=QADUDNMSWUFMGZ-ROGIYNEGSA-J
+5-amino-6-(5-phospho-D-ribitylamino)uracil	InChIKey=RQRINYISXYAZKL-RPDRRWSUSA-L
+copper-bound copper ligand	
+ergosterol	InChIKey=DNVPQKQSNYMLRS-APGDWVJJSA-N
+3-methylbutyl acetate	InChIKey=MLFHJEHSLIIPHL-UHFFFAOYSA-N
+L-carnitine	InChIKey=PHIQHXFUZVPYII-ZCFIWIBFSA-N
+ferroheme <i>a</i>	InChIKey=ZGGYGTCPXNDTRV-PRYGPKJJSA-J
+D-hexose 6-phosphate	InChIKey=NBSCHQHZLSJFNQ-UHFFFAOYSA-L
+dioxygen	InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
+2,3-diphospho-D-glycerate	InChIKey=XOHUEYCVLUUEJJ-UWTATZPHSA-I
+ethanol	InChIKey=LFQSCWFLJHTTHZ-UHFFFAOYSA-N
+Li<sup>+</sup>	InChIKey=HBBGRARXTFLTSG-UHFFFAOYSA-N
+indole	InChIKey=SIKJAQJRHWYJAI-UHFFFAOYSA-N
+a hydroxyl group	
+dTDP	InChIKey=UJLXYODCHAELLY-XLPZGREQSA-K
+prenyl diphosphate	InChIKey=CBIDRCWHNCKSTO-UHFFFAOYSA-K
+L-arabinitol	InChIKey=HEBKCHPVOIAQTA-IMJSIDKUSA-N
+&alpha;-D-galacturonosyl-(1&rarr;4)-&alpha;-D-galacturonate	InChIKey=IGSYEZFZPOZFNC-MMGXBETBSA-L
+(<i>R</i>)-2-hydroxyglutarate	InChIKey=HWXBTNAVRSUOJR-GSVOUGTGSA-L
+methylarsonite	InChIKey=OMPSDEOAXJHSLH-UHFFFAOYSA-N
+hydrogensulfite	InChIKey=LSNNMFCWUKXFEE-UHFFFAOYSA-M
+p-hydroxymercuribenzoate	InChIKey=WMHRYLDWLOGHSG-UHFFFAOYSA-L
+31-norcycloartanone	InChIKey=MCZKAQHKWYEXEU-XJXRDSNCSA-N
+prenylated FMNH<sub>2</sub>	InChIKey=GLNFBGKHGHVPRL-IYOUNJFTSA-L
+P<sup>1</sup>,P<sup>3</sup>-<i>bis</i>(5'-adenosyl) triphosphate	InChIKey=QCICUPZZLIQAPA-XPWFQUROSA-K
+(L-cysteinyl)adenylate	InChIKey=CHQCHJWWSCSGOJ-MACXSXHHSA-N
+2-<i>all trans</i>-hexaprenyl-6-methoxy-3-methylaminophenol	InChIKey=NEHNYHODQZCAIT-NSUIJKAQSA-N
+12,13-DiHOME	InChIKey=CQSLTKIXAJTQGA-FLIBITNWSA-M
+palmitate	InChIKey=IPCSVZSSVZVIGE-UHFFFAOYSA-M
+18-hydroxyoleoyl-CoA	InChIKey=MQACSUXWIYYZAK-UTNXWDCOSA-J
+phenylacetate	InChIKey=WLJVXDMOQOGPHL-UHFFFAOYSA-M
+hydrogen selenide	InChIKey=SPVXKVOXSXTJOY-UHFFFAOYSA-N
+4-hydroxybenzoate	InChIKey=FJKROLUGYXJWQN-UHFFFAOYSA-M
+ethyl decanoate	InChIKey=RGXWDWUGBIJHDO-UHFFFAOYSA-N
+4-(2-aminophenyl)-2,4-dioxobutanoate	InChIKey=CAOVWYZQMPNAFJ-UHFFFAOYSA-M
+(<i>R</i>)-<i>S</i>-lactoylglutathione	InChIKey=VDYDCVUWILIYQF-CSMHCCOUSA-M
+4&alpha;-methyl-zymosterol	InChIKey=FOUJWBXBKVVHCJ-YIJYGBTNSA-N
+3-deoxy-&alpha;-D-<i>manno</i>-2-octulosonate	InChIKey=NNLZBVFSCVTSLA-HXUQBWEZSA-M
+<i>O</i>-phospho-L-serine	InChIKey=BZQFBWGGLXLEPQ-REOHCLBHSA-L
+30-hydroxylanosterol	InChIKey=DWVYYKFZEDMMPU-PUXRVUTHSA-N
+fumarate	InChIKey=VZCYOOQTPOCHFL-OWOJBTEDSA-L
+iron(III)-enterobactin complex	InChIKey=NGILTSZTOFYVBF-UVJOBNTFSA-H
+(2<i>E</i>,5<i>Z</i>)-tetradec-2,5-enoyl-CoA	InChIKey=JVEFYXPCQBMMAA-ZMLWRGBOSA-J
+roseoflavin	InChIKey=IGQLDUYTWDABFK-GUTXKFCHSA-M
+<i>S</i>-D-mandeloylglutathione	InChIKey=YUKXYNWSJMQEBV-GYZKLXCISA-M
+&gamma;-L-glutamyl 5-phosphate	InChIKey=PJRXVIJAERNUIP-VKHMYHEASA-L
+<i>S</i>-lactoylglutathione hemithioacetal	InChIKey=NITDPUFIYQDBCA-UDUUBDRPSA-M
+(2<i>E</i>)-icos-2-enoyl-CoA	InChIKey=ROOFWBIMBMJYGA-DSAUMYHJSA-J
+(2<i>R</i>)-2,3-dihydroxy-3-methylbutanoate	InChIKey=JTEYKUFKXGDTEU-VKHMYHEASA-M
+D-glyceraldehyde	InChIKey=MNQZXJOMYWMBOU-VKHMYHEASA-N
+hypoxanthine	InChIKey=FDGQSTZJBFJUBT-UHFFFAOYSA-N
+carbamoyl phosphate	InChIKey=FFQKYPRQEYGKAF-UHFFFAOYSA-L
+guanine	InChIKey=UYTPUPDQBNUYGX-UHFFFAOYSA-N
+mannose-1P	InChIKey=HXXFSFRBOHSIMQ-RWOPYEJCSA-L
+(R)-3-(4-hydroxyphenyl)lactate	InChIKey=JVGVDSSUAVXRDY-MRVPVSSYSA-M
+a-lgal-HEX-1:5	
+dimethylarsinous acid	InChIKey=VDEGQTCMQUFPFH-UHFFFAOYSA-N
+acetoacetyl-CoA	InChIKey=OJFDKHTZOUZBOS-CITAKDKDSA-J
+brocresine	InChIKey=QNWOSJAGFSUDFE-UHFFFAOYSA-N
+x-HEP-x:x	
+1,2-dihydro-&beta;-NADP	InChIKey=SNZSFAQYVLPEBZ-FUXVTKQXSA-J
+zymosterone	InChIKey=AUNLIRXIJAVBNM-ZSBATXSLSA-N
+coproporphyrinogen I	InChIKey=WIUGGJKHYQIGNH-UHFFFAOYSA-J
+dodecyl sulfate	InChIKey=MOTZDAYCYVMXPC-UHFFFAOYSA-M
+two adjacent thymidines in DNA	
+phosphoinositol-&alpha;-mannoside-phosphoinositol	InChIKey=BCJXLUMCLOOKBY-BEUVOYNRSA-L
+2,5-dichloromaleylacetate	InChIKey=PLPVRWUZGSFJJB-OWOJBTEDSA-L
+3-phenyl-2-oxopropanoate	InChIKey=BTNMPGBKDVTSJY-UHFFFAOYSA-M
+1,2-dioleoylglycerol	InChIKey=AFSHUZFNMVJNKX-LLWMBOQKSA-N
+4-<i>trans</i>-undecenoyl-CoA	InChIKey=AFMMIIQKXQNEDN-DUPKWVSKSA-J
+b-dglc-HEX-1:5|6:d	
+Ca<SUP>2+</SUP>	InChIKey=BHPQYMZQTOCNFJ-UHFFFAOYSA-N
+&beta;-L-fucopyranose	InChIKey=SHZGCJCMOBCMKK-KGJVWPDLSA-N
+5-hydroxy-CTP	InChIKey=DMFODUNDODUQKK-UAKXSSHOSA-J
+OH<SUP>-</SUP>	InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-M
+<i>N</i><sup>1</sup>-(1-deoxy-D-fructos-1-yl)-L-lysine	InChIKey=CBRUZJAJTKPLHF-AYHFEMFVSA-N
+&alpha;-D-fructofuranose	InChIKey=RFSUNEUAIZKAJO-ZXXMMSQZSA-N
+seleno-L-homocysteine	InChIKey=RCWCGLALNCIQNM-VKHMYHEASA-N
+(L-threonylcarbamoyl)adenylate	InChIKey=GHLUPQUHEIJRCU-DWVDDHQFSA-L
+squalene	InChIKey=YYGNTYWPHWGJRM-AAJYLUCBSA-N
+(2S)-2-amino-4-deoxy-chorismate	InChIKey=OKLGKGPAZUNROU-YUMQZZPRSA-M
+(L-valyl)adenylate	InChIKey=KAVINRUMCQFLGF-NIXGFCADSA-N
+quinolinate	InChIKey=GJAWHXHKYYXBSV-UHFFFAOYSA-L
+3',5'-cyclic GMP	InChIKey=ZOOGRGPOEVQQDX-UUOKFMHZSA-M
+phytanoyl-CoA	InChIKey=NRJQGHHZMSOUEN-HHVNVSIESA-J
+&gamma;-L-glutamyl-D-alanine	InChIKey=WQXXXVRAFAKQJM-UHNVWZDZSA-M
+cytidine 2',3'-cyclic monophosphate	InChIKey=NMPZCCZXCOMSDQ-XVFCMESISA-M
+adenosine	InChIKey=OIRDTQYFTABQOQ-KQYNXXCUSA-N
+a-dglc-HEX-1:4|6:a	
+sterone-ring	
+ADP-&alpha;-D-glucose	InChIKey=WFPZSXYXPSUOPY-ROYWQJLOSA-L
+cycloeucalenol	InChIKey=HUNLTIZKNQDZEI-PGFZVWMDSA-N
+arsenite<sup>3-</sup>	InChIKey=OWTFKEBRIAXSMO-UHFFFAOYSA-N
+D-erythrose	InChIKey=YTBSYETUWUMLBZ-IUYQGCFVSA-N
+3-oxobehenoyl-CoA	InChIKey=RKCOGGUHKPTOQJ-GNSUAQHMSA-J
+spermine	InChIKey=PFNFFQXMRSDOHW-UHFFFAOYSA-R
+x-dglc-HEX-1:5	
+a-dglc-HEX-1:5|6:a	
